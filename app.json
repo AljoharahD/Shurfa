@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Shurfa",
+    "slug": "shurfa",
+    "icon": "./assets/images/icon.png",
+    "version": "1.0.0",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 1
+    },
+    "web":{
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyACgCwbqNUoyiAAAcaA1LXGlPhFa0F_l6c",
+          "authDomain": "analytics-dummy.firebaseapp.com",
+          "databaseURL": "https://analytics-dummy.firebaseio.com",
+          "projectId": "analytics-dummy",
+          "storageBucket": "analytics-dummy.appspot.com",
+          "messagingSenderId": "293405920711",
+          "appId": "1:293405920711:web:cfd556084ada2461be9de2",
+          "measurementId": "G-MF4ZJE5TPY"
+        }
+      }
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  }
+}

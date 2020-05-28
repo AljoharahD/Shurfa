@@ -1,0 +1,600 @@
+,title,address,district,latitude,longitude,id
+0,212 restauran,7180 ibn taimiah rd - Al Shifa Dist.,Al Shifa ,24.549799437,46.6969102080001,10100003061
+1,abaga restauran,3518 al imam abdullah ibn saud ibn abdulaziz branch rd - Al Yarmuk Dist.,Al Yarmuk ,24.8020663112488,46.7906876576399,10100003139
+2,2 in 1 restauran,6966 prince abdulaziz ibn musaid ibn jalawi - Al Olaya Dist.,Al Olaya ,24.6887079250002,46.6997497130001,10100003075
+3,aalkhvev restauran,7363 King Abdulaziz - Al Nafel Dist.,Al Nafel ,24.7821044076926,46.6627104205282,10100003083
+4,abdaa lulu restauran,3653 rajiyah - Al Munisiyah Dist.,Al Munisiyah ,24.8169580788519,46.7657753409985,10100003140
+5,2 in 1 restauran,8162 king fahd branch road - Al Olaya Dist.,Al Olaya ,24.6941020870001,46.6804512370001,10100003075
+6,aalm almandi of mtluth restaurants,8296 ashaikh hasan ibn hussain ibn ali rd - Qurtubah Dist.,Qurtubah ,24.8207737076213,46.7509565847838,10100003101
+7,1_2 restauran,7104 prince abdulaziz ibn musaid ibn jalawi - Al Olaya Dist.,Al Olaya ,24.6899668820002,46.7002001700002,10100003075
+8,911 restauran,7210 ali al fazari - Al Munisiyah Dist.,Al Munisiyah ,24.8259989956086,46.7797387577968,10100003140
+9,abar alsham restaurants,2572 Yazeed Bin Abdullah - West Naseem Dist.,West Naseem ,24.7405719531419,46.8095032161696,10100003167
+10,abu haytham restauran,7831 king fahad branch rd - Al Arid Dist.,Al Arid ,24.8758781456609,46.5899703419693,10100003148
+11,adhirah restauran,6950 wadi as sahil - Al Rimal Dist.,Al Rimal ,24.8311200646877,46.8109477061888,10100003153
+12,al ajami restauran,3496 al amir sultan ibn abdul aziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.6946297020002,46.6985797790001,10100003063
+13,abu kamal restauran,2410 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6902094760002,46.6877287660001,10100003075
+14,ajami restauran,8256 Abi Bakar As-Sudiq Rd - Al Mursalat Dist.,Al Mursalat ,24.7570926789779,46.696218194545,10100003024
+15,abdo satti restauran,8431 shams ad din as salihi - West Naseem Dist.,West Naseem ,24.7255869847777,46.8244196795685,10100003167
+16,abuzaki restauran,7021 abdullah al hamadhani - Al Malaz Dist.,Al Malaz ,24.6700214525202,46.7316987608775,10100003051
+17,al afandi restaurants,4172 al imam faisal ibn turki ibn abdullah - Al Wisham Dist.,Al Wisham ,24.6375032970001,46.6968858450001,10100003114
+18,abu noman restauran,6286 al ulaya - Al Sahafah Dist.,Al Sahafah ,24.7963575529394,46.6330051545258,10100003123
+19,akbar bukhari restauran,2720 al urayja - Al Uraija Dist.,Al Uraija ,24.626809548,46.6641688870001,10100003127
+20,al andalus restauran,3407 Khadeejah Bint Khuwaylid - Tuwaiq Dist.,Tuwaiq ,24.5863185480002,46.543744453,10100003102
+21,al balad restauran,3103 northern ring rd - Al Taawun Dist.,Al Taawun ,24.7807694144971,46.6972535211439,10100003085
+22,al ajami restauran,7502 at takhassusi - North Mathar Dist.,North Mathar ,24.6884337990001,46.6732315620001,10100003011
+23,al asimah restauran,8500 umm al hamam - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6972683300002,46.649337055,10100003012
+24,al basha lebanese restauran,7683 Al Maeer Sattam Bin Abdulaziz - Al Nasiriyah Dist.,Al Nasiriyah ,24.6487981530001,46.6707097330002,10100003037
+25,al amin restauran,3789 Al Imadi - Al Shumaisi Dist.,Al Shumaisi ,24.6274305390002,46.6926722120001,10100003113
+26,al aywan restaurants,2977 al imam abi hanifah - West Oraija Dist.,West Oraija ,24.5945733010001,46.6046783370001,10100003126
+27,al batriq restauran,3356 makkah al mukarramah branch rd - North Mathar Dist.,North Mathar ,24.6760251670001,46.675105382,10100003011
+28,al asalah restauran,6570 al amir abdullah ibn abdul rahman ibn faisal - Utayqah Dist.,Utayqah ,24.5903541220001,46.7117050500001,10100003020
+29,al barkah sudanese restauran,7678 Al Miqdad Bin Amr - West Oraija Dist.,West Oraija ,24.5918482060001,46.6096658710001,10100003126
+30,al bihar bukhari restauran,6688 abdullah ibn az zubairq - West Oraija Dist.,West Oraija ,24.5973645630001,46.5979840770001,10100003126
+31,al bukari restauran,4697 Al Zubair Bin Al Awwam - Al Rawabi Dist.,Al Rawabi ,24.7001278557449,46.8002327566229,10100003089
+32,al dar restauran,3021 al urubah branch rd - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6979666110001,46.6397849230001,10100003012
+33,al bit ad dhahabi restauran,3114 weastern ring branch rd - West Suwaidi Dist.,West Suwaidi ,24.5707949430001,46.6158071150001,10100003057
+34,al bukhari restauran,7749 wag valley - Al Malqa Dist.,Al Malqa ,24.8181036481779,46.6089428921704,10100003145
+35,al buhayrat restauran,6804 al umraniyah - Al Shumaisi Dist.,Al Shumaisi ,24.6199208050002,46.698673415,10100003113
+36,al burj restauran,4896 al imam turki ibn abdullah ibn muhammad - Umm Saleem Dist.,Umm Saleem ,24.631043314,46.703665938,10100003122
+37,al bilad lebanese restauran,7503 prince mashari ibn abdulaziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7098260630001,46.7023391760001,10100003063
+38,al bukhari restauran,2666 ubhur - Al Malqa Dist.,Al Malqa ,24.8179487130145,46.6026102634138,10100003145
+39,al dhawaq restauran,2620 al uraija - Al Uraija Dist.,Al Uraija ,24.6269576230001,46.6633683810001,10100003127
+40,al diwan broast restauran,4645 Asad Bin Abdullah - West Oraija Dist.,West Oraija ,24.5978763940001,46.5872478430001,10100003126
+41,al diyafah restauran,2783 al itidal - Badr Dist.,Badr ,24.52374546,46.7118855200001,10100003164
+42,al hada golden restauran,6751 Hamzah Bin Abdulmuttaleb - Middle Oraija Dist.,Middle Oraija ,24.5954588100001,46.6196536600001,10100003128
+43,al dirwazah park and restauran,2553 ath thumamah rd - Al Munisiyah Dist.,Al Munisiyah ,24.8479840250001,46.765687976,10100003140
+44,al diyafah restauran,2711 al imam abi hanifah - Middle Oraija Dist.,Middle Oraija ,24.605345889,46.6220871610001,10100003128
+45,al ghadir chicken restauran,7537 suraqat al bariqi - West Oraija Dist.,West Oraija ,24.5906153290002,46.6055933590001,10100003126
+46,al diwan restauran,6963 Hamzah Bin Abdulmuttaleb - Al Zahrah Dist.,Al Zahrah ,24.569911169,46.638360972,10100003067
+47,al diyaffah restauran,4950 Khadeejah Bint Khuwaylid - West Oraija Dist.,West Oraija ,24.5885233710001,46.5901796790001,10100003126
+48,al diwan restauran,3903 Al Qaqaa Bin Amr - West Oraija Dist.,West Oraija ,24.6032718440001,46.6018249930001,10100003126
+49,al fardos restauran,2349 abi bakr ar razi - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.6924052140001,46.7023849760001,10100003063
+50,al hawsawi restauran,7715 al ajaliyah - Al Shumaisi Dist.,Al Shumaisi ,24.6281993820001,46.6967143230002,10100003113
+51,al jazeerah al lubnanya restaurants,4616 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5991550850001,46.6407846450001,10100003091
+52,"""al hana' restaurant""",7561 abdullah ibn az zubairq - West Oraija Dist.,West Oraija ,24.6052092520002,46.604376863,10100003126
+53,al jawharah markets restauran,4452 al walidiyyah - West Oraija Dist.,West Oraija ,24.5902822870002,46.585475151,10100003126
+54,al hadaib restauran,3168 samahat ash shaikh muhammed ibn salih al uthaymen - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6856099060001,46.6410347620001,10100003012
+55,al jandul restauran,7038 sultanah - Sultanah Dist.,Sultanah ,24.6063580900002,46.6910197380001,10100003069
+56,al jazeerah restauran,6513 Hamzah Bin Abdulmuttaleb - Middle Oraija Dist.,Middle Oraija ,24.5933186190002,46.6211756340001,10100003128
+57,al hadoog restauran,7527 Unayzah - Al Rawabi Dist.,Al Rawabi ,24.6931670725313,46.7856096035342,10100003089
+58,al janoub restauran,"""7463 Ibn Al Muqafa' - West Oraija Dist.""",West Oraija ,24.5898932600002,46.6094830280002,10100003126
+59,al kabli restauran,4414 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.6282652990001,46.6991703210001,10100003113
+60,al karawan bukhari restauran,7433 Ayshah Bin Abi Bakr - Middle Oraija Dist.,Middle Oraija ,24.6135624260002,46.6345742170001,10100003128
+61,al khair restauran,4292 al imam abi hanifah - Middle Oraija Dist.,Middle Oraija ,24.6075719160001,46.624815825,10100003128
+62,al kalaha restauran,7493  Abdullah Bin Rawaha - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7097820160001,46.6984138970001,10100003063
+63,al khaimah restauran,2747 al amir nawaf ibn abdul aziz - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.686464809,46.6368685040002,10100003012
+64,al louluah restauran,4197 Ibn Hazm - West Oraija Dist.,West Oraija ,24.5942638780002,46.5827826230001,10100003126
+65,al karam al arabi restauran,6047 Hamzah Bin Abdulmuttaleb - Middle Oraija Dist.,Middle Oraija ,24.6016367370001,46.615118544,10100003128
+66,al khair restauran,5483 al ris - Al Shumaisi Dist.,Al Shumaisi ,24.621833024,46.7047415710001,10100003113
+67,al kahf restauran,7917 at tamr - Al Shumaisi Dist.,Al Shumaisi ,24.6300432010001,46.69810951,10100003113
+68,al karawan restauran,2493 as suwaidi al am - Al Suwaidi Dist.,Al Suwaidi ,24.5839793070002,46.6627971910001,10100003018
+69,al khair restauran,3465 al amir musaid ibn abdul rahman ibn faisal rd - Middle Oraija Dist.,Middle Oraija ,24.6021803770001,46.629464694,10100003128
+70,al maida al bukhari restaurants,4114 al imam abi hanifah - Middle Oraija Dist.,Middle Oraija ,24.6063300130001,46.6227601520001,10100003128
+71,al mas restauran,7876 al hawwari - Al Malaz Dist.,Al Malaz ,24.6778402476553,46.72777013375,10100003051
+72,al madarib restauran,8495 abdullah ibn nafi - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7058429570001,46.7071913170001,10100003063
+73,al manjaf restauran,4598 al urubah rd - Al Raed Dist.,Al Raed ,24.7025590540001,46.6487505130002,10100003125
+74,"""al ma'wiyyah restaurant""",4814 al madhar - Al Sharafiyah Dist.,Al Sharafiyah ,24.6513197220001,46.6707356210001,10100003009
+75,al madinah restauran,5512 asir - Al Shumaisi Dist.,Al Shumaisi ,24.6176653120002,46.7049160250002,10100003113
+76,al marzooqi restauran,7602 Al Atayif - Al Dirah Dist.,Al Dirah ,24.6372611040001,46.7069403700001,10100003007
+77,"""al maa'zeem restaurant""",6811 al thahabi - Tuwaiq Dist.,Tuwaiq ,24.5803746100001,46.5470365620001,10100003102
+78,al mamlakah restauran,2734 prince nawaf ibn abdulaziz - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6870933680001,46.636935812,10100003012
+79,"""al ma'wiyyah restaurant""",4112 al madinah al munawarah - Middle Oraija Dist.,Middle Oraija ,24.6041407990002,46.649138672,10100003128
+80,al nadi mandi restauran,6797 qarn al manazil - Middle Oraija Dist.,Middle Oraija ,24.6082220530001,46.6256407230001,10100003128
+81,al nafoura restaurant sitten,8640 salah ad din al ayyubi rd - Al Dhubbat Dist.,Al Dhubbat ,24.6884102049254,46.7238846111399,10100003056
+82,al mumtaz restauran,2439 wadi al qatarah - Middle Oraija Dist.,Middle Oraija ,24.5968198480001,46.619226,10100003128
+83,Al Nafoura Restaurant Khozama,6399 ash shaikh jabir al ahmad as sabbah - Al Rimal Dist.,Al Rimal ,24.8258937406437,46.7973438919238,10100003153
+84,"""al mis'ari restaurant""",5180 asir - Al Shumaisi Dist.,Al Shumaisi ,24.61807335,46.7017054250001,10100003113
+85,al nadi mandi restauran,3399 AL Khaleel Bin Ahmad - Al Marwah Dist.,Al Marwah ,24.549432181,46.6842174480001,10100003064
+86,al nafurah restauran,3767 king faisal - Al Murabba Dist.,Al Murabba ,24.6572966220001,46.7060657580002,10100003021
+87,al muhaidi restauran,8051 al ajaliyah - Umm Saleem Dist.,Umm Saleem ,24.6311958710002,46.6982415760001,10100003122
+88,al nafoura restauran,2982 ibn sina - Al Maseef Dist.,Al Maseef ,24.76340078786,46.6780447720734,10100003084
+89,"""al na'im restaurant""",7536 Al Atayif - Al Dirah Dist.,Al Dirah ,24.6366798780001,46.7070172830001,10100003007
+90,al olaya chinese restauran,7816 abdullah ibn sulaiman al hamadan - Al Olaya Dist.,Al Olaya ,24.6965116910002,46.6942210480001,10100003075
+91,al rawdah bukhari restauran,4621 as sibalah - Al Shumaisi Dist.,Al Shumaisi ,24.6246245940001,46.7008643070001,10100003113
+92,al nawazer pancake restauran,7956 abdullah ibn az zubairq - West Oraija Dist.,West Oraija ,24.6087283730001,46.6062583200002,10100003126
+93,al raheeb restauran,4292 al amir musaid ibn abdul rahman ibn faisal rd - West Oraija Dist.,West Oraija ,24.5956012450001,46.6176388450001,10100003126
+94,al nakhil restauran,4642 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.628536885,46.7010898180001,10100003113
+95,al rafedayn restauran,7885 at takhassusi - Al Rahmaniyah Dist.,Al Rahmaniyah ,24.7216945276134,46.6565163935724,10100003013
+96,al reef mandi restauran,6749 asir - Al Shumaisi Dist.,Al Shumaisi ,24.6193691360001,46.6988231900001,10100003113
+97,al najd restauran,8452 Helal Bin Razeen - Al Wahah Dist.,Al Wahah ,24.74262890862,46.7045996520778,10100003042
+98,al qalzam restauran,8255 at takhassusi - Al Olaya Dist.,Al Olaya ,24.7079857476037,46.664306465809,10100003075
+99,al rawdah fish restauran,6583 at takhassusi - Al Olaya Dist.,Al Olaya ,24.6929756900001,46.671664508,10100003075
+100,al romansiah restauran,6854 mohammed rasheed rda - Al Aziziyah Dist.,Al Aziziyah ,24.5690695821415,46.7710350890574,10100003029
+101,al rukn bukhari restauran,3719 king faisal - Al Murabba Dist.,Al Murabba ,24.6576324160002,46.7054971670001,10100003021
+102,al riadh flowers restauran,6200 al amir abdullah ibn abdul rahman ibn faisal - Utayqah Dist.,Utayqah ,24.6064122920001,46.7104335820001,10100003020
+103,al romansiah restaurants,3143 southern ring rd - Al Aziziyah Dist.,Al Aziziyah ,24.5999655756835,46.7487411342098,10100003029
+104,al safinah restauran,8435 ibn taimiah rd - Badr Dist.,Badr ,24.5505396720001,46.6986258370002,10100003164
+105,Al Romansiah Restauran,7611 khalid ibn al walid - Al Andalus Dist.,Al Andalus ,24.7449162613524,46.7765568419921,10100003087
+106,al sadah local food restauran,6893 Hamzah Bin Abdulmuttaleb - Middle Oraija Dist.,Middle Oraija ,24.596848405,46.6186135080002,10100003128
+107,al rimal entertainment restauran,2925 ath thumamah rd - Al Munisiyah Dist.,Al Munisiyah ,24.8505710070002,46.7693166810002,10100003140
+108,al roun restauran,7145 al imam abdul aziz ibn muhammad ibn saud - Al Wisham Dist.,Al Wisham ,24.6439280420001,46.693315786,10100003114
+109,"""al sa'id restaurant""",7767 al ajaliyah - Al Shumaisi Dist.,Al Shumaisi ,24.6286499240001,46.69694398,10100003113
+110,al saraya restauran,7277 Haroun Al Khateeb - Al Wisham Dist.,Al Wisham ,24.6450384740002,46.6999285450001,10100003114
+111,al shahamah restauran,5297 al faqra - Al Duraihemiyah Dist.,Al Duraihemiyah ,24.5852989690001,46.6905663760001,10100003076
+112,al saj al dahabi restauran,7199 king fahd branch road - Al Murabba Dist.,Al Murabba ,24.6610142280001,46.7012395340002,10100003021
+113,al satiah local food restauran,3006 al amir sultan ibn abdul aziz - North Mathar Dist.,North Mathar ,24.6840021200001,46.6732734780002,10100003011
+114,al shahamah restauran,3703 Belal Bin Rabah - West Oraija Dist.,West Oraija ,24.5817321780002,46.5925888160002,10100003126
+115,al saj restauran,5096 al jawharah bint ibn muammar - Al Sharafiyah Dist.,Al Sharafiyah ,24.6568181530001,46.6735426650001,10100003009
+116,al sayyadiyyah sea food restauran,3751 al madinah al munawarah - West Suwaidi Dist.,West Suwaidi ,24.5869973830001,46.6221675130001,10100003057
+117,al shaikh restauran,7056 umm al hamam - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6840732980002,46.6524672290002,10100003012
+118,al sallah al dhahabiyah restauran,7946 al khalifah al mamun - Badr Dist.,Badr ,24.5456134080002,46.7065220740001,10100003164
+119,al shabab bukhari restauran,6792 al muthallath - West Oraija Dist.,West Oraija ,24.5910566550001,46.58286988,10100003126
+120,al shallal al souri restauran,6716 al amir abdullah ibn abdul rahman ibn faisal - Utayqah Dist.,Utayqah ,24.6111033640001,46.7102759840002,10100003020
+121,"""al shira' restaurant""",4714 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5997282020002,46.64182822,10100003091
+122,al suraya turkish restauran,3159 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.69268343,46.6952680640001,10100003075
+123,"""al shira' restaurant""",6510 al khuzim - Sultanah Dist.,Sultanah ,24.6013814510001,46.6969350650001,10100003069
+124,al sultan restauran,3021 al urubah branch rd - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.697903405,46.639602014,10100003012
+125,al sham food restauran,4726 al jawharah bint ibn muammar - Al Sharafiyah Dist.,Al Sharafiyah ,24.6544803610001,46.6698494940002,10100003009
+126,"""al shira' restaurant""",7229 ibn taimiah rd - Badr Dist.,Badr ,24.5540907720001,46.7015509890001,10100003164
+127,al taif restauran,3095 al imam abi hanifah - West Oraija Dist.,West Oraija ,24.595304645,46.6058441470001,10100003126
+128,al shira restauran,4152 dirab branch rd - Namar Dist.,Namar ,24.573318095,46.6929476560001,10100003060
+129,al sifarat restauran,2934 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5810109620002,46.5388582320002,10100003102
+130,al tawoos restauran,3547 Amr Bin Al As - Olaishah Dist.,Olaishah ,24.6405699280001,46.691365535,10100003053
+131,al tazaj restauran,2596 al amir turki ibn abdul aziz ath thani - Al Muruj Dist.,Al Muruj ,24.7561270014479,46.6563943444147,10100003110
+132,al tayban bukhari restauran,4166 al amir musaid ibn abdul rahman ibn faisal rd - Middle Oraija Dist.,Middle Oraija ,24.60706884,46.6364996890001,10100003128
+133,al tazaj restauran,7517 at takhassusi - Al Olaya Dist.,Al Olaya ,24.6885474420001,46.6741596080001,10100003075
+134,al tanahat restauran,3797 al budhuri - Shubra Dist.,Shubra ,24.575164285,46.675548903,10100003066
+135,al tayyibat restauran,2573 dirab branch rd - Al Shifa Dist.,Al Shifa ,24.557042971,46.6761162550001,10100003061
+136,al waleemah restauran,7411 ibrahim as salamuni - West Oraija Dist.,West Oraija ,24.5894637820002,46.6087326020001,10100003126
+137,"""al taj al ma'wi restaurant""",3829 al amir musaid ibn abdul rahman ibn faisal rd - Middle Oraija Dist.,Middle Oraija ,24.604358491,46.6330864550001,10100003128
+138,al tayf restauran,8586 Al Maeer Sattam Bin Abdulaziz - Al Rafeah Dist.,Al Rafeah ,24.6486243860001,46.670313558,10100003015
+139,al tazaj restauran,8079 Mosab Bin Abdullah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.6002611870001,46.6444260770001,10100003091
+140,al zalal restauran,2654 ibn sina - Al Maseef Dist.,Al Maseef ,24.7619850085615,46.674814653758,10100003084
+141,aladhirah restaurants,2315 king abdullah ibn abdul aziz rd - King Faisal Dist.,King Faisal ,24.768629983416,46.7623826376173,10100003027
+142,al yamamah restauran,6467 al amir abdullah ibn abdul rahman ibn faisal - Al Yamamah Dist.,Al Yamamah ,24.5893121510002,46.7117976250001,10100003070
+143,al zalal restauran,7617 khalid ibn al walid - Ghirnatah Dist.,Ghirnatah ,24.7984438326995,46.7415023279467,10100003155
+145,al yasmin restauran,8126 al fajr - West Suwaidi Dist.,West Suwaidi ,24.579911369,46.6162279360001,10100003057
+146,al zalal restaurant for pakistani and indian,2566 ibn sina - Al Maseef Dist.,Al Maseef ,24.7616280894106,46.6740026626896,10100003084
+147,مطعم العميد,3465 ad dammam branch rd - Al Shohda Dist.,Al Shohda ,24.7981232653518,46.7368324468064,10100003016
+148,al zalal restauran,7811 al imam ali ibn abi talib  rd - Jareer Dist.,Jareer ,24.6770193283617,46.7439898666998,10100003048
+149,alafandi restauran,3542 al balqa - Al Munisiyah Dist.,Al Munisiyah ,24.8278106220401,46.7825537553451,10100003140
+150,مطعم بخاري,7569 abi bakr as siddiq - Al Narjis Dist.,Al Narjis ,24.8559862248812,46.647257277649,10100003150
+151,aleanzi albakhari restauran,7318  - Al Arid Dist.,Al Arid ,24.8954493996067,46.6264264949259,10100003148
+152,aldersona restauran,4132 al imam abdullah ibn saud ibn abdul aziz branch rd - Al Yarmuk Dist.,Al Yarmuk ,24.7970133592406,46.7791023475375,10100003139
+153,aleiwad albkhary restauran,7960 King Abdulaziz - Al Arid Dist.,Al Arid ,24.8766890441603,46.6140180850394,10100003148
+154,albayt albaladi restauran,5784 anas ibn malik - Al Malqa Dist.,Al Malqa ,24.8020586787498,46.6021291127492,10100003145
+155,aldhef almqsoos restauran,3125 al imam abdullah ibn saud ibn abdul aziz branch rd - Al Hamra Dist.,Al Hamra ,24.7879753940044,46.7597289001071,10100003129
+156,alfarran restauran,8666 an najah - Ishbiliyah Dist.,Ishbiliyah ,24.805414401258,46.8023514185714,10100003137
+157,alasaalah  restauran,7458 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8118373593269,46.7989582429221,10100003139
+158,aldhaghet restauran,4418 al imam saud ibn abdul aziz rd - Al Ezdihar Dist.,Al Ezdihar ,24.7756706459356,46.7283369486609,10100003086
+159,al-hayat restauran,6853 Al Imam Al Shafie - Al Manar Dist.,Al Manar ,24.7202926117544,46.7895352308521,10100003079
+160,الجود البخاري,6871 abi bakr as siddiq - Al Narjis Dist.,Al Narjis ,24.867299977905,46.6415671988632,10100003150
+161,all bahsaly palace restauran,2986 king abdullah ibn abdulaziz branch rd - King Fahd Dist.,King Fahd ,24.7300324863972,46.668106534901,10100003017
+162,alfatirah almomyizah  fast-food restauran,2619 prince saud ibn abdulaziz al saud al kabir - Al Quds Dist.,Al Quds ,24.7534441740469,46.7449007157957,10100003081
+163,aljazirah and nile restauran,2940 abi said al khadri - Al Khaleej Dist.,Al Khaleej ,24.7649041112016,46.7856323523176,10100003055
+164,alkindy restaurants,6549 khalid ibn al walid - King Faisal Dist.,King Faisal ,24.751996983301,46.7712580551276,10100003027
+165,aljami restauran,8391 Al Matar - King Khalid International Airport,King Khalid International Airpo,24.8471836597452,46.7340568353271,10100003149
+166,alkhimat alshshaebia restauran,4668  - Al Arid Dist.,Al Arid ,24.8932871823991,46.6047627903509,10100003148
+167,aljahez restauran,3852 al imam abdullah ibn saud ibn abdul aziz rd - Al Qadisiyah Dist.,Al Qadisiyah ,24.8109720480216,46.8120700235869,10100003073
+168,alkabsa alhassawoah restauran,4442 al amir bandar ibn abdul aziz - Al Khaleej Dist.,Al Khaleej ,24.7635014889344,46.8004614976348,10100003055
+169,alliwan restauran,8391 Al Matar - King Khalid International Airport,King Khalid International Airpo,24.8473829396043,46.7343661652578,10100003149
+170,alnafoura restauran,7892 al amir matab ibn abdul aziz - Al Rabwah Dist.,Al Rabwah ,24.6900733066739,46.7642758053636,10100003047
+171,alottomaniyah restauran,8304 as sahabah - Ishbiliyah Dist.,Ishbiliyah ,24.7971196021745,46.7847871178267,10100003137
+172,المجلس التهامي,3740 ad dammam branch rd - Qurtubah Dist.,Qurtubah ,24.8043996833037,46.749012858038,10100003101
+173,alnafoura restauran,2161 al imam abdullah ibn saud ibn abdulaziz rd - Ishbiliyah Dist.,Ishbiliyah ,24.798996996908,46.7857029723679,10100003137
+174,المجلس الخليجي,4470 al imam abdullah ibn saud ibn abdulaziz rd - Al Shohda Dist.,Al Shohda ,24.7835173548369,46.7465387545981,10100003016
+175,almadinah bukhari restauran,3840 abu ubaydah amir ibn al jarrah - Al Fayha Dist.,Al Fayha ,24.671906268374,46.8140096564046,10100003133
+176,alnafoura restauran,7811 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.741664732506,46.8094237421721,10100003167
+177,alqahtani restauran,7156 ash shaikh sulaiman bin abdullah bin muhammed - Al Khaleej Dist.,Al Khaleej ,24.7671341617299,46.7964018973796,10100003055
+178,alqurmosh restauran,4340 abdulrahman al ghafaqi rd - Al Quds Dist.,Al Quds ,24.7484376393743,46.7618173728607,10100003081
+179,alsadda restauran,4561 ibn abi al uyun - Al Quds Dist.,Al Quds ,24.7604571378582,46.7641890600187,10100003081
+180,alwajba restauran,3481 abi said al khadri - Al Khaleej Dist.,Al Khaleej ,24.7676352545611,46.7908944926571,10100003055
+181,alqimmat mtluth restauran,4412 Prince Mohammed Ibn Salman Ibn Abdulaziz Rd - Al Aqeeq Dist.,Al Aqeeq ,24.7768277122538,46.6364297900118,10100003107
+182,alromansiyah restaurants,6912 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.7334974705496,46.8147585889256,10100003167
+183,alwaan alsham restauran,6357 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8095701295653,46.8010155149934,10100003139
+184,alromansiah restauran,3809 prince saad ibn abdulrahman al awal rd - Al Jazeerah Dist.,Al Jazeerah ,24.6853518856123,46.7955876497558,10100003035
+185, الشباب الخمسة,3029 no. 17 - Al Shohda Dist.,Al Shohda ,24.795789608596,46.7325737645897,10100003016
+186,Alromansiah restaurants,2537 ad dammam branch rd - Al Yarmuk Dist.,Al Yarmuk ,24.8168174129209,46.781244548521,10100003139
+187,altazaj restauran,8150 abi bakr as siddiq - Al Nafel Dist.,Al Nafel ,24.7886298751436,46.6802330810064,10100003083
+188,appetite banquet restauran,3168 abi bakr ar razi - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.6910441080001,46.7104809560001,10100003063
+189,ar rukn ash shami restauran,4715 al imam faisal ibn turki ibn abdullah - Umm Saleem Dist.,Umm Saleem ,24.6373706540001,46.7019604520002,10100003122
+190,anarkali restauran,7084 sawmatarah - Al Muruj Dist.,Al Muruj ,24.7557783226831,46.6576185025938,10100003110
+191,ar rukn al maksiki restauran,6641 abdullah ibn sulaiman al hamadan - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7021709430002,46.6921500940001,10100003063
+192,amwaj restauran,3698 al madinah al munawarah - Middle Oraija Dist.,Middle Oraija ,24.6016181390002,46.6449779070001,10100003128
+193,ar romansiah restauran,6063 Al Tirmidhi - Al Shifa Dist.,Al Shifa ,24.5621862720001,46.7070310550002,10100003061
+194,aras bukhari restauran,4293 muhammad al maqdimi - Al Ghadeer Dist.,Al Ghadeer ,24.7774454063388,46.6612566967602,10100003109
+195,amo shawarma restauran,7742 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.7410056218075,46.8091001354753,10100003167
+196,ar rayan restaurants,7526  Abdullah Bin Rawaha - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7100549670001,46.6976155270001,10100003063
+197,ARABIC FOOD RESTAURAN,3099 al imam ahmad ibn hanbal - Al Salam Dist.,Al Salam ,24.7188472481098,46.8057971521152,10100003078
+198,ard al fateerah restauran,4726 al jawharah bint ibn muammar - Al Sharafiyah Dist.,Al Sharafiyah ,24.6546104200001,46.6699792080001,10100003009
+199,arslan bukhari restauran,8035 al ajaliyah - Umm Saleem Dist.,Umm Saleem ,24.6310831680001,46.698073098,10100003122
+200,asfahan iranian restauran,7479 at takhassusi - Al Olaya Dist.,Al Olaya ,24.6881578500001,46.6740417340001,10100003075
+201,arrabwah saudi restauran,7655 al amir matab ibn abdul aziz - Al Rabwah Dist.,Al Rabwah ,24.6877352482882,46.7658005639749,10100003047
+202,asalat najd restauran,6487 al amir abdullah ibn abdul rahman ibn faisal - Manfuha Al Jadidah Dist.,Manfuha Al Jadidah ,24.6089327660001,46.7107923640001,10100003005
+203,arrabwah restaurants &kitchens,4247 salah ad din al ayyubi branch rd - Al Safa Dist.,Al Safa ,24.6768870652411,46.770690439538,10100003074
+204,as soda restaurants,4392 al urubah branch rd - Al Raed Dist.,Al Raed ,24.7012104400002,46.645623517,10100003125
+205,arqah bukhari restauran,5085 jabal al amirine - Irqah,Irqah,24.689878762,46.612989973,10100003142
+206,as sayf al hindi restauran,7169 abdullah ibn sulaiman al hamadan - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7068027880002,46.6911225080001,10100003063
+207,ash shoki restaurants,3926 wadi at tulaiha - Shubra Dist.,Shubra ,24.5646807510001,46.6490619880001,10100003066
+208,asian food house restauran,7001 asir - Al Shumaisi Dist.,Al Shumaisi ,24.6217295340002,46.6970909620001,10100003113
+209,aswaf al khaleej restauran,2503 al walid ibn abdul malik - Tuwaiq Dist.,Tuwaiq ,24.5910488790001,46.5660324240001,10100003102
+210,مطعم سلطان عوض الرويلي,7220 Othman Bin Affan - Al Narjis Dist.,Al Narjis ,24.8693546662781,46.6612464161046,10100003150
+211,assir bukhari restauran,7279 asir - Al Shumaisi Dist.,Al Shumaisi ,24.6242874290002,46.6951843200001,10100003113
+212,at taj restaurants,7063 abi amamah al ansari - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.705917395,46.6991141830001,10100003063
+213,ayaami cafe and restauran,3885 Al Ameer Miqren Bin Abdulaziz - Al Nuzha Dist.,Al Nuzha ,24.7570696778365,46.7132210479616,10100003025
+214,assir restauran,4303 al mahdar - Al Shumaisi Dist.,Al Shumaisi ,24.6211847690001,46.697662694,10100003113
+215,aton pasta restauran,3314 prince turki ibn abdulaziz ath thani - Al Muruj Dist.,Al Muruj ,24.7590337510128,46.6635209094426,10100003110
+216,assir mandi restauran,3181 Khadeejah Bint Khuwaylid - West Oraija Dist.,West Oraija ,24.5863391930002,46.5876319640002,10100003126
+217,atheer lebanon restauran,2498 muhammad abdullah al barqi - Al Munisiyah Dist.,Al Munisiyah ,24.8249713857157,46.7725097966302,10100003140
+218,ayon istanbul restauran,7415 balabak - Ghirnatah Dist.,Ghirnatah ,24.7964419934999,46.7520308193855,10100003155
+219,baak restauran,3345 Al Zubair Bin Al Awwam - Al Rawabi Dist.,Al Rawabi ,24.6916774379268,46.7866446066014,10100003089
+220,bait al ma`idah restauran,3124 prince nawaf ibn abdulaziz - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.687914962,46.640623341,10100003012
+221,az zumurrud restaurants,3653 prince mamduh ibn abdulaziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.709333407,46.6908783660002,10100003063
+222,bahrya fish restauran,8528 khalid ibn al walid - Al Quds Dist.,Al Quds ,24.7627719072679,46.7624681247606,10100003081
+223,az zumurrud restauran,4814 al madhar - Al Sharafiyah Dist.,Al Sharafiyah ,24.6512692810001,46.6706499020002,10100003009
+224,baba najim restauran,4323 al khuzim - Tuwaiq Dist.,Tuwaiq ,24.5801127000001,46.5526325960001,10100003102
+225,bait al mandi restauran,7025 umm al hamam - East Umm Al Hamam Dist.,East Umm Al Hamam ,24.6837309750002,46.6532540750001,10100003008
+226,az zumurrud restauran,5308 asir - Al Shumaisi Dist.,Al Shumaisi ,24.61796425,46.7028616840001,10100003113
+227,bable restauran,7845  - Al Shumaisi Dist.,Al Shumaisi ,24.6292148760001,46.7041673750001,10100003113
+228,bakhari saeid alzzahrani  restauran,3313  - Al Arid Dist.,Al Arid ,24.8895124175676,46.6235375609769,10100003148
+229,banquet restauran,3735 Amr Bin Al As - Olaishah Dist.,Olaishah ,24.6408900720001,46.692320515,10100003053
+230,bakliyah restaurants,6995 Hamzah Bin Abdulmuttaleb - Al Zahrah Dist.,Al Zahrah ,24.5701607380001,46.638237631,10100003067
+231,banquet restauran,4111 ibn al kharasani - Middle Oraija Dist.,Middle Oraija ,24.6065861710002,46.62274897,10100003128
+232,bait al mashwi restauran,8012 umm al hamam - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6927182750002,46.649870191,10100003012
+233,baloch restauran,2837 Al Ameer Miqren Bin Abdulaziz - Al Nuzha Dist.,Al Nuzha ,24.7532692476487,46.7027739933045,10100003025
+234,bawadi ar riyadh restaurants,4392 al urubah branch rd - Al Raed Dist.,Al Raed ,24.7016619780001,46.6467004750002,10100003125
+235,bait alkhayam restauran,7361 khalid ibn al walid - Ghirnatah Dist.,Ghirnatah ,24.7959870392111,46.7428615950463,10100003155
+236,banquet restauran,7165 al ulaya - Al Olaya Dist.,Al Olaya ,24.6905633270001,46.6870715220001,10100003075
+237,bay bay indian restauran,7343 al qubbah - Ishbiliyah Dist.,Ishbiliyah ,24.7884211247551,46.777623838905,10100003137
+238,bharath restaurant malaz,7558 al imam ali ibn abi talib  rd - Al Malaz Dist.,Al Malaz ,24.6746249957254,46.7445430913842,10100003051
+239,bikin chinese restauran,3153 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5951881990002,46.6360431820001,10100003091
+240,bayt al kibdah restauran,5526 asir - Al Shumaisi Dist.,Al Shumaisi ,24.617649645,46.705058181,10100003113
+241,big lebanon restauran,3805 prince mamduh ibn abdulaziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7102461720002,46.693012568,10100003063
+242,bilad alyamamah restauran,8370 Al Imam Al Shafie - Al Rayan Dist.,Al Rayan ,24.7158271962578,46.7919169523459,10100003090
+243,bayt ash shawaya restauran,4224 al madinah al munawarah - Middle Oraija Dist.,Middle Oraija ,24.604956773,46.6503780530002,10100003128
+244,bigin chinese restauran,3295 abi al ghanaim ibn al muammar - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.695927012,46.7118578170001,10100003063
+245,bistro chino restauran,7782 King Abdulaziz - Al Rabie Dist.,Al Rabie ,24.7933835452156,46.6561918554078,10100003104
+246,beans & falafel restauran,6215 prince muhammad ibn saad ibn abdulazizi - Al Qairawan Dist.,Al Qairawan ,24.8210225126066,46.5955980270837,10100003146
+247,biharat alshwayh restauran,7171 king abdul aziz branch rd - Al Nafel Dist.,Al Nafel ,24.7808413897906,46.6633240835217,10100003083
+248,broasted restauran,7083 ask shaikh hasan ibn hussain ibn ali - Al Yarmuk Dist.,Al Yarmuk ,24.8010052048438,46.7618322951609,10100003139
+249,Bukhari corner restauran,2363 abdulrahman al ghafaqi rd - Al Rawdah Dist.,Al Rawdah ,24.742091408669,46.7524577649771,10100003088
+250,bombay restauran,7951 al imam ali ibn abi talib  rd - Jareer Dist.,Jareer ,24.6782364123277,46.7435023536082,10100003048
+251,bukhara restauran,7936 abi bakr as siddiq - Al Rabie Dist.,Al Rabie ,24.8036818213243,46.6726220862905,10100003104
+252,bukhari restauran,7522  - Al Qairawan Dist.,Al Qairawan ,24.822747621836,46.5938491232444,10100003146
+253,blue dan restauran,4402 ash shaikh salih ibn abdul aziz ibn abdul rahman - West Suwaidi Dist.,West Suwaidi ,24.5765712130001,46.6287095520001,10100003057
+254,buffet egyptian cuisine bean and falafel restauran,3523 abi said al khadri - Al Khaleej Dist.,Al Khaleej ,24.7678993747327,46.7913827580555,10100003055
+255,bukhari restauran,8642 ash shaikh hasan ibn hussain ibn ali - King Faisal Dist.,King Faisal ,24.770814662597,46.7802516216241,10100003027
+256,bright chicken broasted restauran,3241 ibn sina - Al Maseef Dist.,Al Maseef ,24.763884215021,46.6806798268489,10100003084
+257,bukhari al riyadh restauran,7659 abi huraiyrah - East Naseem Dist.,East Naseem ,24.7279306509358,46.8447764742156,10100003080
+258,bukhari restauran,7176 street no. 397 - Al Munisiyah Dist.,Al Munisiyah ,24.8348040085879,46.7655822126773,10100003140
+259,bukhari restauran,3640 prince saud ibn abdulaziz al saud al kabir - Al Quds Dist.,Al Quds ,24.7584731357072,46.7550967404729,10100003081
+260,bukhari restauran,3646 abi said al khadri - King Faisal Dist.,King Faisal ,24.7586467077584,46.7755011407507,10100003027
+261,bukhari restauran,3790 ad dammam branch rd - Qurtubah Dist.,Qurtubah ,24.8047255393653,46.7496189260727,10100003101
+262,bukhari restauran,4010 al amir saud ibn abdul aziz al saud al kabir - Al Quds Dist.,Al Quds ,24.7600965229783,46.7586893696725,10100003081
+263,bukhari restauran,6215 ash shaikh hasan ibn hussain ibn ali - Al Munisiyah Dist.,Al Munisiyah ,24.8261675488833,46.7491441133703,10100003140
+264,bukhari restauran,2883 ad dammam rd - Al Yarmuk Dist.,Al Yarmuk ,24.8107021981359,46.7666227606403,10100003139
+265,مطعم بخاري,7970 prince faisal bin bandar bin abdul aziz road - Al Narjis Dist.,Al Narjis ,24.8519691192132,46.6803409014706,10100003150
+266,bukhari restauran,3993 al qalam - Al Rabie Dist.,Al Rabie ,24.8017425351288,46.6716736499001,10100003104
+267,bukhari restauran,9476 prince muhammad ibn saad ibn abdulazizi - Al Malqa Dist.,Al Malqa ,24.8179572474259,46.5963076985612,10100003145
+268,burg al hamam restauran,7237 at takhassusi - Al Mutamarat Dist.,Al Mutamarat ,24.667775965,46.6820095930001,10100003134
+269,bukhari restauran,6672 al qiyas - Al Munisiyah Dist.,Al Munisiyah ,24.8376487584431,46.7764985074576,10100003140
+270,bukhari restauran,8786 prince muhammad ibn saad ibn abdulazizi - Al Malqa Dist.,Al Malqa ,24.8115450709194,46.5993225507654,10100003145
+271,مطعم بخاري,7926 khalid ibn al walid - Al Shohda Dist.,Al Shohda ,24.7932974888323,46.7432939330476,10100003016
+272,bukhari restauran,8474 prince muhammad ibn saad ibn abdulazizi - Al Malqa Dist.,Al Malqa ,24.8088586472899,46.6009324186609,10100003145
+273,burger king restauran,2410 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6901587830002,46.687870618,10100003075
+274,charity restauran,3332 al urayja - Al Uraija Dist.,Al Uraija ,24.6261642900001,46.6704220860001,10100003127
+275,come chinese restauran,3556 no 28 - Al Olaya Dist.,Al Olaya ,24.6871778830001,46.6870791130002,10100003075
+276,burger king restauran,8427 King Fahd - Al Olaya Dist.,Al Olaya ,24.700820799,46.6784203280002,10100003075
+277,cham zaman restauran,3386 Jareer - Al Malaz Dist.,Al Malaz ,24.6725354720443,46.7401325224646,10100003051
+278,coffee land restauran,7945 prince ahmad ibn abdulaziz - Al Woroud Dist.,Al Woroud ,24.7309480885215,46.6788558759403,10100003026
+279,burger king restauran,6987 Ayshah Bin Abi Bakr - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5903124670002,46.6516993710001,10100003091
+280,cocina restauran,3896 Al Ameer Miqren Bin Abdulaziz - Al Nuzha Dist.,Al Nuzha ,24.7585826184594,46.7142403693988,10100003025
+281,burger king restauran,8028 at takhassusi - North Mathar Dist.,North Mathar ,24.7055221630002,46.6641770510001,10100003011
+282,cherry restauran,7444 abi bakr as siddiq - Al Yasmeen Dist.,Al Yasmeen ,24.8319501487059,46.6584254952468,10100003147
+283,d.bak restaurants,4619 hail - Al Khaleej Dist.,Al Khaleej ,24.7650407622593,46.8018925054837,10100003055
+284,damascus pancake house restauran,7352 Al Tirmidhi - Al Shifa Dist.,Al Shifa ,24.5634235970001,46.7053519680001,10100003061
+285,dar alfateera restauran,8296 prince muhammad ibn saad ibn abdulazizi - Al Malqa Dist.,Al Malqa ,24.80725817128,46.6017269893538,10100003145
+286,country restaurant bukhar,7718 prince muhammad ibn saad ibn abdulazizi - Hitteen Dist.,Hitteen ,24.7776464165519,46.6166903907562,10100003144
+287,damascene glare pie restauran,7520 ash shabab - Al Aziziyah Dist.,Al Aziziyah ,24.5950776868848,46.7566297612818,10100003029
+288,danube silver restaurants,8464 ash shaikh hasan ibn hussain ibn ali - Al Hamra Dist.,Al Hamra ,24.7898483609602,46.7665316005141,10100003129
+289,dagen restauran,7767 at takhassusi - Al Olaya Dist.,Al Olaya ,24.6907142210001,46.6727727840001,10100003075
+290,damascus pancake tower restauran,8303 abdullah al wabil - West Suwaidi Dist.,West Suwaidi ,24.5811709690001,46.628797515,10100003057
+291,dajen restauran,3381 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5967173100001,46.6380134550001,10100003091
+292,damascus restauran,7625 Al Atayif - Al Dirah Dist.,Al Dirah ,24.6374992880001,46.7072350030001,10100003007
+293,deratti restauran,4464 as suwaidi al am - Al Suwaidi Dist.,Al Suwaidi ,24.5876623190001,46.6679352150002,10100003018
+294,diyar as saudia restauran,6917 salalah - West Oraija Dist.,West Oraija ,24.5807508460001,46.600899974,10100003126
+295,deerati restaurants,4506 as suwaidi al am - Al Suwaidi Dist.,Al Suwaidi ,24.5879228060001,46.6683601990001,10100003018
+296,dinning sultan restauran,7074 al ulaya - Al Sahafah Dist.,Al Sahafah ,24.7871580829739,46.637440820301,10100003123
+297,dooh cafeteria and restauran,2921 ad dammam rd - Al Janadriyah Dist.,Al Janadriyah ,24.9103060357108,46.9288047766177,10100003136
+298,dar shawarma  restauran,3218 muhammad abdullah al barqi - Al Munisiyah Dist.,Al Munisiyah ,24.8279620509385,46.7796459588176,10100003140
+299,dicks restauran,6967 ash shaikh hasan ibn hussain ibn ali - Al Munisiyah Dist.,Al Munisiyah ,24.8161665437174,46.7541240216689,10100003140
+300,dominoes pizza restauran,3356 makkah al mukarramah branch rd - North Mathar Dist.,North Mathar ,24.6761533150001,46.6751576440001,10100003011
+301,deratti restauran,4187 salih al hadyan - Al Shifa Dist.,Al Shifa ,24.563805191,46.7032749390001,10100003061
+302,dominoes pizza restauran,3664 husn barka - Al Olaya Dist.,Al Olaya ,24.6945190270001,46.7002129600002,10100003075
+303,gyptian restauran,2920 abi said al khadri - Al Khaleej Dist.,Al Khaleej ,24.7648027461628,46.7854210561803,10100003055
+304,rez restauran,6875 ename\tashaikh hasan ibn hussain ibn ali rd - Al Munisiyah Dist.,Al Munisiyah ,24.8156038086205,46.7544632644037,10100003140
+305,durrat al rafidain restauran,4104 at takhassusi - Al Muhammadiyah Dist.,Al Muhammadiyah ,24.7245998443389,46.6541717955207,10100003062
+306,gyptian restauran,2815 al imam ahmad ibn hanbal - West Naseem Dist.,West Naseem ,24.7298914297372,46.8231085965542,10100003167
+307,مطعم عثمانية,6975 abi bakr as siddiq - Al Narjis Dist.,Al Narjis ,24.8684597985831,46.6412836979816,10100003150
+308,ast restauran,6846 abdullah al hamadhani - Al Malaz Dist.,Al Malaz ,24.6684224547246,46.7324059366888,10100003051
+309,ajen restauran,2097 king abdullah ibn abdul aziz rd - Al Quds Dist.,Al Quds ,24.7597895223689,46.739815331734,10100003081
+310,درة الصين,7010 Saeed Bin Zayd - Qurtubah Dist.,Qurtubah ,24.8015085753177,46.7388173281167,10100003101
+311,me restauran,6641 at takhassusi - Al Muhammadiyah Dist.,Al Muhammadiyah ,24.7267118721768,46.6528505003706,10100003062
+312,xcellent steamy restauran,6964 al amir abdullah ibn abdul rahman ibn faisal - Utayqah Dist.,Utayqah ,24.6134860070001,46.7101049950002,10100003020
+313,fahd restauran,8101 Unayzah - Al Rawabi Dist.,Al Rawabi ,24.6984077613812,46.7815577925281,10100003089
+314,faris restauran,3647 al madinah al munawarah - West Suwaidi Dist.,West Suwaidi ,24.586494708,46.621373743,10100003057
+315,fatayer atayr restauran,2713 ahmad al bidayri - West Naseem Dist.,West Naseem ,24.7401293733946,46.8108380937938,10100003167
+316,xpert fast food restauran,4237 al bayan - Al Fayha Dist.,Al Fayha ,24.6824868937119,46.8180556569231,10100003133
+317,falafel restauran,3023 abi said al khadri - Al Khaleej Dist.,Al Khaleej ,24.764805361587,46.7863862468625,10100003055
+318,fast food restauran,2936 abi jafar al mansur - Al Yarmuk Dist.,Al Yarmuk ,24.802839210106,46.7675111286947,10100003139
+319,falafel restauran,2051 al amir bandar ibn abdul aziz - Al Nahdah Dist.,Al Nahdah ,24.767414371179,46.807913609313,10100003054
+320,fast food restauran,7047 ask shaikh hasan ibn hussain ibn ali - Al Yarmuk Dist.,Al Yarmuk ,24.8006111661012,46.7622206231969,10100003139
+321,falafel restauran,7715 al ihsa - Al Rabwah Dist.,Al Rabwah ,24.6944659331858,46.7321734635543,10100003047
+322,farouj aldiwan restauran,2800 ammarat al baghdadi - Al Quds Dist.,Al Quds ,24.7549571013573,46.7467263082382,10100003081
+323,fez restaurant damascen,7129 King Fahd - Al Sahafah Dist.,Al Sahafah ,24.7875772151158,46.634364821658,10100003123
+324,friend restauran,3582 al masani - Al Hamra Dist.,Al Hamra ,24.7752821261137,46.7642174365266,10100003129
+325,garden restauran,2731 king abdullah ibn abdul aziz rd - King Faisal Dist.,King Faisal ,24.7703890237592,46.7665759617479,10100003027
+326,fish restauran,4492 abdulrahman al ghafaqi rd - Al Quds Dist.,Al Quds ,24.7494056041115,46.763353552886,10100003081
+327,gad restauran,2466 Jareer - Al Malaz Dist.,Al Malaz ,24.670958206809,46.7310668555552,10100003051
+328,fatirati allthethah  Restauran,7521 ash shaikh sulaiman ibn abdullah ibn muhammad - Al Khaleej Dist.,Al Khaleej ,24.770474838287,46.7943524491228,10100003055
+329,french cane restauran,3197 prince muhammad ibn abdulaziz rd - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7011036460001,46.6957099470002,10100003063
+330,garden restauran,3779 samahat ash shaikh muhammed ibn salih al uthaymen - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6857397290001,46.64701539,10100003012
+331,fish restauran,7721 Salman Al Farsi - Al Nahdah Dist.,Al Nahdah ,24.7661104265478,46.808536076312,10100003054
+332,garden restauran,3673 al malik abdullah ibn abdulaziz rd - Al Woroud Dist.,Al Woroud ,24.7354248344473,46.6836229832942,10100003026
+333,gawar restauran,6982 abdullah al hamadhani - Al Malaz Dist.,Al Malaz ,24.6697625671636,46.7315345780686,10100003051
+334,golden palace chinese restauran,2653 Mousa Bin Naseer - Al Olaya Dist.,Al Olaya ,24.7032971470001,46.6814471410001,10100003075
+335,hachikm restauran,8410 ash shaikh hasan ibn hussain ibn ali - King Faisal Dist.,King Faisal ,24.7686541120036,46.7818054096608,10100003027
+336,golden house restauran,7833 ash shaikh muhammad ibn abdul latif ibn abdul rahm - Shubra Dist.,Shubra ,24.5861296250001,46.6852674130002,10100003066
+337,green land indian restauran,4531 abi said al khadri - King Faisal Dist.,King Faisal ,24.7634293212702,46.7841589900628,10100003027
+338,gdod alklig restauran,3653 rajiyah - Al Munisiyah Dist.,Al Munisiyah ,24.8170022659434,46.7657493255532,10100003140
+339,golden royal chinese restauran,7116 king fahd branch road - Al Rahmaniyah Dist.,Al Rahmaniyah ,24.714561927876,46.6701859346419,10100003013
+340,hadhramoot restauran,7678 al amir abdullah ibn abdul rahman ibn faisal - Utayqah Dist.,Utayqah ,24.6003920770002,46.7109008890001,10100003020
+341,ghouzi restauran,7652 prince abdulaziz ibn musaid ibn jalawi - Al Olaya Dist.,Al Olaya ,24.6949095910001,46.7020629760001,10100003075
+342,green apple restauran,8921 al hair rd - Al Haer Dist.,Al Haer ,24.4098906880769,46.8372516963403,10100003159
+343,haiti restauran,3896 Belal Bin Rabah - West Oraija Dist.,West Oraija ,24.5836477810001,46.5947096530001,10100003126
+344,hardees restauran,7886 al aziziah branch road - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5660081456109,46.7895380355703,10100003130
+345,hashim restauran,8946 khalid ibn al walid - Al Quds Dist.,Al Quds ,24.7665772166582,46.7596661507953,10100003081
+346,halab alshahbaa restauran,7361 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.7152552948207,46.8289580154334,10100003167
+347,hardeez restauran,7816 at takhassusi - North Mathar Dist.,North Mathar ,24.704242046,46.6650479890002,10100003011
+348,hardees restauran,8105 Ayshah Bin Abi Bakr - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.6004455270001,46.6442925640002,10100003091
+349,hashim restauran,7100  Abdullah Bin Rawaha - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7062235150001,46.6993515720001,10100003063
+350,hala restauran,3185 al amir sultan ibn abdul aziz - North Mathar Dist.,North Mathar ,24.684194893,46.674836784,10100003011
+351,hardeez restauran,4199 prince mamduh ibn abdulaziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7116259020001,46.6969473080001,10100003063
+352,hashim restauran,3211 ibn sina - Al Maseef Dist.,Al Maseef ,24.7636986170625,46.6802182114137,10100003084
+353,hayyah restauran,2689 al amir mansur ibn abdul aziz - Al Murabba Dist.,Al Murabba ,24.6725946820001,46.7064370110001,10100003021
+354,herfy restauran,7289 king fahd branch road - Al Murabba Dist.,Al Murabba ,24.6617658230002,46.701165787,10100003021
+355,herfy restauran,3227 al madinah al munawarah - West Suwaidi Dist.,West Suwaidi ,24.58380285,46.6170583360001,10100003057
+356,herfy restauran,3356 makkah al mukarramah branch rd - North Mathar Dist.,North Mathar ,24.6756268340001,46.6751024040001,10100003011
+357,herfy restauran,9011 al imam abdul aziz ibn muhammad ibn saud - Al Wisham Dist.,Al Wisham ,24.639926093,46.6931545470001,10100003114
+358,hayat restauran,7944 al hawwari - Al Malaz Dist.,Al Malaz ,24.6784131028924,46.7276154687847,10100003051
+359,herfy restauran,7472 at takhassusi - North Mathar Dist.,North Mathar ,24.6882161550002,46.6733536580001,10100003011
+360,herfy restauran,3480 as suwaidi al am - Sultanah Dist.,Sultanah ,24.598132417,46.6848145480001,10100003069
+361,herfy restauran,3467 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6940864720002,46.6984220160001,10100003075
+362,herfy restauran,2343 al amir faisal ibn turki ibn abdul aziz - Al Murabba Dist.,Al Murabba ,24.6655997710001,46.710829888,10100003021
+363,herfy restauran,3461 dirab branch road - Al Shifa Dist.,Al Shifa ,24.5744292070001,46.6960883040001,10100003061
+364,bn bajah restauran,2433 as suwaidi al am - Al Suwaidi Dist.,Al Suwaidi ,24.5835616320002,46.6621660420002,10100003018
+365,ndian palace restauran,3414 al amir saud ibn abdul aziz al saud al kabir - Al Quds Dist.,Al Quds ,24.7575629918725,46.752869981377,10100003081
+366,hong kong restauran,6998 al ulaya - Al Olaya Dist.,Al Olaya ,24.687731151,46.6874406650001,10100003075
+367,ndian and pakistani restauran,3627 ad dammam rd - Al Yarmuk Dist.,Al Yarmuk ,24.813595622719,46.7737278312037,10100003139
+368,hot dough restauran,7663 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8215170863535,46.7949878790562,10100003139
+369,ndian palace restauran,3314 abdulrahman al ghafaqi rd - Al Quds Dist.,Al Quds ,24.7421699847728,46.7515440927045,10100003081
+370,herfy restauran,3493 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5779780610001,46.5706058690002,10100003102
+371,skandar basha restauran,2834 al amir turki ibn abdul aziz ath thani - Al Muruj Dist.,Al Muruj ,24.7570028810442,46.6587489003955,10100003110
+372,ndian restauran,7291 prince ahmad ibn abdulaziz - King Fahd Dist.,King Fahd ,24.7406923333021,46.6739115471981,10100003017
+373,التاج الهندي,6113 Saeed Bin Zayd - Qurtubah Dist.,Qurtubah ,24.817755733354,46.7322380391201,10100003101
+374,raqi restauran,6967 ash shaikh hasan ibn hussain ibn ali - Al Munisiyah Dist.,Al Munisiyah ,24.8160011786084,46.754201523693,10100003140
+375,ndian restauran,3475 Al Ameer Miqren Bin Abdulaziz - Al Nuzha Dist.,Al Nuzha ,24.7552603806185,46.7091985380203,10100003025
+376,ndonesian islands restauran,3214 Makkah Al Mukarramah - Al Olaya Dist.,Al Olaya ,24.6820702700002,46.6955199830001,10100003075
+377,stanbul restauran,7835 abdullah ibn az zubairq - West Oraija Dist.,West Oraija ,24.607632331,46.606212441,10100003126
+378,ndian restauran,3724 prince muhammad ibn abdulaziz rd - Al Olaya Dist.,Al Olaya ,24.7004484030001,46.6919257770001,10100003075
+379,nnyan seafood restauran,8120 King Abdulaziz - King Fahd Dist.,King Fahd ,24.7480374425529,46.6787797355617,10100003017
+380,alian country restauran,3252 prince muhammad ibn abdulaziz rd - Al Olaya Dist.,Al Olaya ,24.698442974,46.6873440590001,10100003075
+381,ndian rural restauran,3441 Al Shaikh Abdullah Al Anqari - Al Woroud Dist.,Al Woroud ,24.7243783621342,46.6812979068563,10100003026
+382,raqi grill restauran,3518 al imam abdullah ibn saud ibn abdulaziz branch rd - Al Yarmuk Dist.,Al Yarmuk ,24.8020044452628,46.7907638003921,10100003139
+383,jad restauran,4160 al kirki - East Umm Al Hamam Dist.,East Umm Al Hamam ,24.691882164,46.6508864580001,10100003008
+384,jodah alshwaa restauran,7555 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.739264201373,46.811140761234,10100003167
+385,jabal al zaytoun restauran,3831 al imam turki ibn abdullah ibn muhammad - Al Shumaisi Dist.,Al Shumaisi ,24.6297390140001,46.6930778010002,10100003113
+387,kabli restauran,3912 prince bandar ibn abdulaziz - King Faisal Dist.,King Faisal ,24.7494610925629,46.7779642487112,10100003027
+388,jad restauran,2527 al imam faisal ibn turki ibn abdullah - Al Dirah Dist.,Al Dirah ,24.6377637540001,46.7072130680001,10100003007
+389,johoh pie levantine restauran,8416 abi huraiyrah - East Naseem Dist.,East Naseem ,24.7350851548016,46.8387448538615,10100003080
+390,jabal sanah restauran,7634 prince faisal bin bandar bin abdul aziz road - Al Narjis Dist.,Al Narjis ,24.8490879132192,46.6821576732058,10100003150
+391,jeddati restauran,6821 al hadrah - Tuwaiq Dist.,Tuwaiq ,24.5803718350001,46.5554933280001,10100003102
+392,kabsa restauran,2535 prince saud ibn abdulaziz al saud al kabir - Al Quds Dist.,Al Quds ,24.7531348441161,46.7440916990537,10100003081
+393,karam restauran,7721 Salman Al Farsi - Al Nahdah Dist.,Al Nahdah ,24.766030476658,46.8085931833762,10100003054
+394,kaveri restauran,7315 prince ahmad ibn abdulaziz - King Fahd Dist.,King Fahd ,24.7409100539843,46.673854440134,10100003017
+395,kabsa restauran,2219 king abdullah ibn abdul aziz rd - King Faisal Dist.,King Faisal ,24.7682635464211,46.7615022370451,10100003027
+396,katakit restaurants,4619 hail - Al Khaleej Dist.,Al Khaleej ,24.7650549993676,46.8025252438228,10100003055
+397,khaybar restauran,7875 al ajaliyah - Al Shumaisi Dist.,Al Shumaisi ,24.6296275220001,46.697354186,10100003113
+398,كرم شامي,4023 al qalam - Qurtubah Dist.,Qurtubah ,24.8138338465513,46.75193671305,10100003101
+399,مطعم كوثر,4203 Anas Bin Malek - Al Narjis Dist.,Al Narjis ,24.8354075687475,46.6834633173076,10100003150
+400,kabsat  restauran,8384 ash shaikh hasan ibn hussain ibn ali - King Faisal Dist.,King Faisal ,24.7684328221301,46.7819648335482,10100003027
+401,kausar restaurants,7282 al ulaya - Al Sahafah Dist.,Al Sahafah ,24.8054387568852,46.6283304368036,10100003123
+402,koch alchef  restauran,6872 abdullah al jasir - Ishbiliyah Dist.,Ishbiliyah ,24.7892246956582,46.8028216042854,10100003137
+403,kruathai seafoods restauran,8518 Al Imam Al Shafie - Al Rayan Dist.,Al Rayan ,24.7171300701315,46.7910045480234,10100003090
+404,kudu restauran,2772 ibn taymeeyah rd - Badr Dist.,Badr ,24.5613566060002,46.7076625970001,10100003164
+405,ktakit restauran,7569 khalid ibn al walid - Ghirnatah Dist.,Ghirnatah ,24.7979471202147,46.7418473497925,10100003155
+406,a ayonak restauran,7495 ash shaikh hasan ibn hussain ibn ali - Al Khaleej Dist.,Al Khaleej ,24.7702983195588,46.7813747272187,10100003055
+407,koch kosheri restaurant mahash,8416 ash shaikh hasan ibn hussain ibn ali - Al Hamra Dist.,Al Hamra ,24.7895599702864,46.766694355647,10100003129
+408,kudu restauran,2883 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.59355602,46.6330504470002,10100003091
+409,ahore kehabi restauran,7386 al amir abdul rahman ibn abdul aziz - Al Murabba Dist.,Al Murabba ,24.6772593750001,46.7079824750001,10100003021
+410,kudu restauran,3988 as suwaidi al am - Sultanah Dist.,Sultanah ,24.5987123880001,46.689432455,10100003069
+411,abnah assal restauran,6968 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8074316289835,46.801227896571,10100003139
+412,ahzah mandi restauran,2943 al imam abi hanifah - West Oraija Dist.,West Oraija ,24.594394139,46.6043074680001,10100003126
+413,ayali altut restauran,4259 al dawud - Al Hamra Dist.,Al Hamra ,24.7818141264543,46.7708407577593,10100003129
+414,banon fruits restauran,9179 al ulaya - Al Olaya Dist.,Al Olaya ,24.679127488,46.6928276730001,10100003075
+415,athani restauran,2537 no 78 - Al Olaya Dist.,Al Olaya ,24.7050356720002,46.6772482270001,10100003075
+416,ayali beirut restauran,7750 at takhassusi - North Mathar Dist.,North Mathar ,24.7036425340002,46.6655859670001,10100003011
+417,banon hdaag restauran,7270 al qana - Al Munisiyah Dist.,Al Munisiyah ,24.8190788131311,46.7615587378079,10100003140
+418,atia chinese & thailand restauran,2444 abi bakr ar razi - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.69276454,46.7033654770001,10100003063
+419,banese fruit restauran,2553 ath thumamah rd - Al Munisiyah Dist.,Al Munisiyah ,24.8482853360001,46.7648092770001,10100003140
+420,ayali al hilmiyyah restauran,4863 ash shaydiyah - Al Shumaisi Dist.,Al Shumaisi ,24.6289614680001,46.703327837,10100003113
+421,banon fruits restauran,9137 al ulaya - Al Olaya Dist.,Al Olaya ,24.678795058,46.6929695830001,10100003075
+422,kloz muzosato japanese restauran,3423 al amir muhammad ibn abdul aziz rd - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7020227030002,46.6979118390001,10100003063
+423,wan restauran,3402 king abdullah ibn abdul aziz rd - Al Hamra Dist.,Al Hamra ,24.7693490963901,46.7621376255583,10100003129
+424,ubnan al kubra restaurants,3761 prince mamduh ibn abdulaziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7100252830001,46.692639144,10100003063
+425,ve and salt restauran,3410 al hussain ibn ali - Al Maseef Dist.,Al Maseef ,24.7670381765381,46.6823178275004,10100003084
+426,ondon restaurants ltd,8496 King Abdulaziz - Al Ghadeer Dist.,Al Ghadeer ,24.7835785631012,46.6610617695102,10100003109
+427,banon restauran,3301 ibn sina - Al Maseef Dist.,Al Maseef ,24.7641364378876,46.6812271028803,10100003084
+428,ver and cheese restauran,4201 muhammad al maqdimi - Al Ghadeer Dist.,Al Ghadeer ,24.7772580237847,46.6607629586016,10100003109
+429,ubad restauran,6621 Hamzah Bin Abdulmuttaleb - Middle Oraija Dist.,Middle Oraija ,24.5941763210001,46.6206202800001,10100003128
+430,ujannid restauran,3468 al imam saud ibn faysal rd - Al Malqa Dist.,Al Malqa ,24.7892018875831,46.6188603522991,10100003145
+431,wuliwat alhamra restauran,7236 king fahad branch rd - Al Aqeeq Dist.,Al Aqeeq ,24.7807902163145,46.6366695828625,10100003107
+432,madhaq alhayat albkhari restauran,7856  - Al Arid Dist.,Al Arid ,24.8686241717494,46.6399842663949,10100003148
+433,mahboob restauran,7484 tumair - Al Muruj Dist.,Al Muruj ,24.7591753289426,46.6638873464375,10100003110
+434,makkah restauran,3831 al imam turki ibn abdullah ibn muhammad - Al Shumaisi Dist.,Al Shumaisi ,24.6297440690001,46.693175978,10100003113
+435,madhbi and madghout house restauran,6452 al yaseen valley - Al Sharafiyah Dist.,Al Sharafiyah ,24.6534490810002,46.6687147010002,10100003009
+436,mahboub restauran,4120 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.6277699040001,46.6959430200002,10100003113
+437,madhaq alhayat albkhari restauran,7720 King Abdulaziz - Al Yasmeen Dist.,Al Yasmeen ,24.8255048862755,46.6398976845853,10100003147
+438,madura restauran,6684 al muhandis masaid al anqari - Al Woroud Dist.,Al Woroud ,24.719593047934,46.6800252124797,10100003026
+439,maken restaurant  coff,3940 al hussain ibn ali - Al Maseef Dist.,Al Maseef ,24.769240367699,46.6876073693164,10100003084
+440,madhinaa  restauran,6405 Othman Bin Affan - Al Mughrazat Dist.,Al Mughrazat ,24.7554864082779,46.7198926342678,10100003105
+441,mahndi restauran,7893 fatimah az zahra - Jareer Dist.,Jareer ,24.6776693971083,46.7448098289622,10100003048
+442,malaz restauran,7240 dhabiyat bint al barra - Al Maseef Dist.,Al Maseef ,24.7645742587127,46.6825262885893,10100003084
+443,mandi restauran,4818 al jawharah bint ibn muammar - Al Sharafiyah Dist.,Al Sharafiyah ,24.6552207160001,46.6708755920002,10100003009
+444,makkah restauran,5351 al ris - Al Shumaisi Dist.,Al Shumaisi ,24.6211561720002,46.70338653,10100003113
+445,malh and falfl restaurant women,3950 muhammadali junah - Al Yarmuk Dist.,Al Yarmuk ,24.8128096573558,46.7952081390751,10100003139
+446,maradem restauran,2779 al amir nawaf ibn abdul aziz - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.686573106,46.6372002620001,10100003012
+447,malaz restauran,6799 fatimah az zahra - Al Zahra Dist.,Al Zahra ,24.6861563794636,46.7338846529389,10100003132
+448,mandi nur hudarmut restauran,2980 king salman bin abdul aziz rd - Al Qairawan Dist.,Al Qairawan ,24.8200748725432,46.5972779951703,10100003146
+449,makki corner restauran,4028 Hesham Bin Abdulmalek - King Fahd Dist.,King Fahd ,24.7455377582393,46.6785776353316,10100003017
+450,mandi kingdom restauran,7282 weastern ring rd - West Oraija Dist.,West Oraija ,24.5841336290001,46.5988112160001,10100003126
+451,mareez restaurants,3673 al malik abdullah ibn abdulaziz rd - Al Woroud Dist.,Al Woroud ,24.7356925238105,46.6837300590396,10100003026
+452,"""ma'rufah restaurant""",2606 al amir muhammad ibn abdul rahman branch rd - Manfuha Al Jadidah Dist.,Manfuha Al Jadidah ,24.6063524670002,46.7115945090001,10100003005
+453,maxim restauran,7113 at takhassusi - Al Nakheel Dist.,Al Nakheel ,24.7451694258987,46.6435219126297,10100003108
+454,marked restauran,7010 dirab branch rd - Dirab Dist.,ab ,24.4856578576964,46.6214351627834,10100003058
+455,mathaq  beirut restauran,6733 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8130003208936,46.7993805972507,10100003139
+456,marhaba restauran,2975 al amir ahmad ibn abdul aziz - Al Woroud Dist.,Al Woroud ,24.7323805856104,46.6774981595578,10100003026
+457,massar restauran,3704 Ibn Al Jawzi - Middle Oraija Dist.,Middle Oraija ,24.5966003230001,46.6317715440001,10100003128
+458,mazad restauran,3381 al urubah rd - Al Olaya Dist.,Al Olaya ,24.7098219118064,46.6678624457817,10100003075
+459,marhaba restaurant malaz,7676 fatimah az zahra - Jareer Dist.,Jareer ,24.6758538683619,46.7459735043682,10100003048
+460,mateam restauran,6735 al ulaya - Al Sahafah Dist.,Al Sahafah ,24.7999564787277,46.6318425212484,10100003123
+461,mazoon sham restauran,4178 Anas Bin Malek - Al Yasmeen Dist.,Al Yasmeen ,24.8251100373626,46.656830625023,10100003147
+462,medina restaurant pakistani indian food,6774 al bahar al mutawassit - Al Aqeeq Dist.,Al Aqeeq ,24.7767532574729,46.6293009314713,10100003107
+463,Mislan restauran,3577  - King Khalid International Airport,King Khalid International Airpo,24.8663894012051,46.714469207044,10100003149
+464,menara restauran,3990 Anas Bin Malek - Al Malqa Dist.,Al Malqa ,24.8081976965324,46.6159583398128,10100003145
+465,miz restauran,4015 as suwaidi al am - Al Suwaidi Dist.,Al Suwaidi ,24.593369818,46.6780072380001,10100003018
+466,mecca restauran,3517 ad dammam rd - Al Munisiyah Dist.,Al Munisiyah ,24.8110800089544,46.7645456418814,10100003140
+467,milan restauran,3577  - King Khalid International Airport,King Khalid International Airpo,24.8652269165133,46.7116826343315,10100003149
+468,more restauran,7630 King Abdulaziz - Al Muruj Dist.,Al Muruj ,24.7602089382933,46.672857761923,10100003110
+469,mbzul restauran,4382 al imam abdullah ibn saud ibn abdul aziz branch rd - Al Yarmuk Dist.,Al Yarmuk ,24.7981075543842,46.7814877571957,10100003139
+470,middle east local food restauran,8096 Hamzah Bin Abdulmuttaleb - West Suwaidi Dist.,West Suwaidi ,24.5793025190001,46.63074832,10100003057
+471,modern bait al arid restauran,7678 umm al hamam - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.689636652,46.6502738770001,10100003012
+472,my family restauran,3380 al imam abi hanifah - Middle Oraija Dist.,Middle Oraija ,24.601988271,46.6156823020001,10100003128
+473,najd bukhari restauran,8089 al ajaliyah - Umm Saleem Dist.,Umm Saleem ,24.6315676570002,46.6983197870001,10100003122
+474,najdi restauran,4390 dirab branch road - Namar Dist.,Namar ,24.5752799420001,46.6952900280002,10100003060
+475,naif restauran,2758 prince nawaf ibn abdulaziz - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6871659450002,46.637077454,10100003012
+476,najd restauran,4090 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.6279082950001,46.6957074700001,10100003113
+477,my family restauran,2589 al fadli - Middle Oraija Dist.,Middle Oraija ,24.5945840580002,46.6207313470002,10100003128
+478,najd restauran,6691 tabuk - Al Ezdihar Dist.,Al Ezdihar ,24.7746892372437,46.7220176950946,10100003086
+479,nasma al khaimah restaurant for fast food,7141 prince muhammad ibn saad ibn abdulazizi - Al Malqa Dist.,Al Malqa ,24.8127397584967,46.5997167534481,10100003145
+480,nabaa lebanon restaurant grills and fresh shawarma,4146 abi jafar al mansur - Al Yarmuk Dist.,Al Yarmuk ,24.80788064354,46.7793303527023,10100003139
+481,najd restauran,4417 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.6281395280001,46.7000624840001,10100003113
+482,new sham restauran,6227 Othman Bin Affan - Al Mughrazat Dist.,Al Mughrazat ,24.7539420042403,46.7206521284775,10100003105
+483,"""norwell's restaurant""",8140 prince abdulaziz ibn musaid ibn jalawi - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.6993124670001,46.7037709550001,10100003063
+484,pakistani/ indian restaurant bait al usmania,8800 Ibn Al Haytahm - Al Nahdah Dist.,Al Nahdah ,24.7756590368039,46.8247232751049,10100003054
+485,noor mahal indian restauran,8052 Salman Al Farsi - Al Nahdah Dist.,Al Nahdah ,24.7583959284315,46.8135052237037,10100003054
+486,pager restauran,3647 Khadeejah Bint Khuwaylid - West Oraija Dist.,West Oraija ,24.5891614650001,46.5922833930001,10100003126
+487,nights cabin restauran,2977 northern ring branch rd - Al Maseef Dist.,Al Maseef ,24.7734584412412,46.6781336001777,10100003084
+488,off white restaurant & loung,6699 King Abdulaziz - Al Nafel Dist.,Al Nafel ,24.7761167320173,46.6657206766467,10100003083
+489,palace grill restauran,7610 abi huraiyrah - East Naseem Dist.,East Naseem ,24.727840052958,46.8440047356959,10100003080
+490,non restauran,3244 king khalid rd - Al Nakheel Dist.,Al Nakheel ,24.7247472605853,46.6026244373265,10100003108
+491,olive leaves restauran,2867 anas ibn malik - Al Sahafah Dist.,Al Sahafah ,24.8133660547061,46.6310470277764,10100003123
+492,pandaro gourmet restauran,3955 Al Shaikh Abdullah Al Anqari - Al Woroud Dist.,Al Woroud ,24.7260023442707,46.6865339107996,10100003026
+493,pizza hadeel restauran,3550 prince nawaf ibn abdulaziz - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6885780980001,46.6448340430001,10100003012
+494,pizza hut restauran,6635 at takhassusi - Al Olaya Dist.,Al Olaya ,24.693494732,46.6717726370001,10100003075
+495,pancake and turkish pizza restauran,3018 Belal Bin Rabah - West Oraija Dist.,West Oraija ,24.589976117,46.6050212100001,10100003126
+496,peshawar bukhari restauran,4179 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.6274466100002,46.6964591800001,10100003113
+497,pizza hut restauran,3698 prince nawaf ibn abdulaziz - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6889080140002,46.6464316790002,10100003012
+498,peruvi restauran,2917 king salman bin abdul aziz branch road - Al Malqa Dist.,Al Malqa ,24.8223540561386,46.6052344527731,10100003145
+499,pizza hut restauran,3021 Mousa Bin Naseer - Al Olaya Dist.,Al Olaya ,24.7051699590002,46.685152998,10100003075
+500,"""pearl's taste restaurant""",2745 al amir bandar ibn abdul aziz - Al Andalus Dist.,Al Andalus ,24.7512563483469,46.7819432095038,10100003087
+501,pizza hut restauran,6970 al ulaya - Al Olaya Dist.,Al Olaya ,24.6876283030001,46.6878851120001,10100003075
+502,pizza hut restauran,7289 king fahd branch road - Al Murabba Dist.,Al Murabba ,24.6619809680001,46.701124609,10100003021
+503,pizza hut restauran,3464 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5785700160001,46.5703323030001,10100003102
+504,pizza inn restauran,4240 prince muhammad ibn abdulaziz rd - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7025283480002,46.6972144470001,10100003063
+505,pizza hut restauran,7384 Al Maeer Sattam Bin Abdulaziz - Al Rafeah Dist.,Al Rafeah ,24.637744693,46.6736373460001,10100003015
+506,pizza hutt restauran,7368 King Fahd - Al Olaya Dist.,Al Olaya ,24.6870635990001,46.683870755,10100003075
+507,pizza hut restauran,7935 Ayshah Bin Abi Bakr - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5987889300001,46.6454340660001,10100003091
+508,pizza hutt restauran,2896 samahat ash shaikh abdul aziz ibn baz - Al Badeah Dist.,Al Badeah ,24.6229385870001,46.6837836760001,10100003071
+509,pizza hut restauran,2341 king abdullah ibn abdulaziz rd - Al Raed Dist.,Al Raed ,24.706896789,46.6264581830001,10100003125
+510,pizza hut restauran,4477 as suwaidi al am - Al Suwaidi Dist.,Al Suwaidi ,24.5960745040001,46.6824138860001,10100003018
+511,pizza inn restauran,7761 Ayshah Bin Abi Bakr - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5982392980001,46.6461695400002,10100003091
+512,pizza inn restauran,3356 makkah al mukarramah branch rd - North Mathar Dist.,North Mathar ,24.6762421130001,46.6754387950002,10100003011
+513,popular yemeni restauran,2736 ibn sina - Al Maseef Dist.,Al Maseef ,24.7623627479961,46.675739669224,10100003084
+514,qasr mandi restauran,8272 al imam abdul aziz ibn muhammad ibn saud - Olaishah Dist.,Olaishah ,24.6333288160001,46.6921766760001,10100003053
+515,pomegranate orchards restauran,6493 al muhandis masaid al anqari - Al Woroud Dist.,Al Woroud ,24.7177812470087,46.6814821366246,10100003026
+516,qasoor bukhari restauran,2505  - Al Arid Dist.,Al Arid ,24.9063062325795,46.6004443848615,10100003148
+517,pizza inn restauran,3131 al urubah branch rd - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.698483115,46.6410358440002,10100003012
+518,prince bukhari food restauran,4666 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.628696596,46.7014554250002,10100003113
+519,qimmat at tahi restauran,7094 abdullah ibn sulaiman al hamadan - Al Olaya Dist.,Al Olaya ,24.7062647750001,46.6908289760001,10100003075
+520,pizza inn restauran,3145 dirab branch road - Al Shifa Dist.,Al Shifa ,24.5719673700001,46.6930683000002,10100003061
+521,punjab sweets and restauran,7884 al ajaliyah - Al Shumaisi Dist.,Al Shumaisi ,24.6297279400001,46.6971737070001,10100003113
+522,rabieh restauran,3918 umar ibn abdul aziz branch rd - Al Rayan Dist.,Al Rayan ,24.6975387822222,46.7806845303394,10100003090
+523,ranwah restauran,8866 Ayshah Bin Abi Bakr - Al Zahrah Dist.,Al Zahrah ,24.5870397250001,46.6531578030001,10100003067
+524,rawabi al qassim restauran,6873 Ayshah Bin Abi Bakr - Al Suwaidi Dist.,Al Suwaidi ,24.5777165970001,46.6609428420001,10100003018
+525,raheeb restauran,4072 al imam faisal ibn turki ibn abdullah - Al Wisham Dist.,Al Wisham ,24.637373869,46.6956133030002,10100003114
+526,rashin restauran,6741 al amir matab ibn abdul aziz - Al Rabwah Dist.,Al Rabwah ,24.6794878161211,46.7691854304521,10100003047
+527,raam restauran,7491 khalid ibn al walid - Ghirnatah Dist.,Ghirnatah ,24.7972719481542,46.7422637554685,10100003155
+528,rama pizza restauran,7033 ali al fazari - Al Munisiyah Dist.,Al Munisiyah ,24.8245700142674,46.7811538986066,10100003140
+529,rawabi al janoub restauran,7511 habibah bint abi sufyan - West Oraija Dist.,West Oraija ,24.5903637330001,46.606755493,10100003126
+530,rahmath indian restauran,3841 al amir majid ibn abdul aziz - Al Rayan Dist.,Al Rayan ,24.7125454388876,46.7799321571147,10100003090
+531,rasi restauran,3380 fatimah az zahra - Al Zahra Dist.,Al Zahra ,24.6851406205038,46.7363456028795,10100003132
+532,rawafid alearab restauran,6343 king fahad branch rd - Al Arid Dist.,Al Arid ,24.8466041863307,46.6047991041452,10100003148
+533,red sea restauran,9055 falih ibn saghir - Al Murabba Dist.,Al Murabba ,24.650286787,46.709386469,10100003021
+534,renad alsham restauran,3075 wadi ad dawasir - Al Qadisiyah Dist.,Al Qadisiyah ,24.8232806032279,46.822476596296,10100003073
+535,rayiz restauran,6651 king fahad branch rd - Al Arid Dist.,Al Arid ,24.8487397525834,46.6035617844221,10100003148
+536,ريف العلا,4152 Prince Mohammed Ibn Salman Ibn Abdulaziz Rd - Qurtubah Dist.,Qurtubah ,24.823353513879,46.746791161643,10100003101
+537,Raydan Restaurants,7581 khalid ibn al walid - Al Andalus Dist.,Al Andalus ,24.7446740262732,46.7767468915258,10100003087
+538,redan restauran,2995 al amir turki ibn abdul aziz ath thani - Al Muruj Dist.,Al Muruj ,24.7571941019814,46.6603340624668,10100003110
+539,rawabi najd restauran,7816 sulaiman ibn majid - Middle Oraija Dist.,Middle Oraija ,24.6169816930002,46.6432674830002,10100003128
+540,red oten restauran,9073 al ulaya - Al Olaya Dist.,Al Olaya ,24.6783815860001,46.693252505,10100003075
+541,reem restauran,7898 al ajaliyah - Al Shumaisi Dist.,Al Shumaisi ,24.6298342350001,46.6971824820001,10100003113
+542,restauran,6087  - Al Arid Dist.,Al Arid ,24.8601623561048,46.5982418725828,10100003148
+543,restaurant adana for bbq,4178 al amir saad ibn abdulrahman al awal rd - East Naseem Dist.,East Naseem ,24.7157146597368,46.8515715768553,10100003080
+544,restaurant and grill bukhar,6641 al muhandis masaid al anqari - Al Woroud Dist.,Al Woroud ,24.7191185040941,46.6808016107771,10100003026
+545,restauran,4118 abu ubaydah amir ibn al jarrah - Al Fayha Dist.,Al Fayha ,24.6732098538025,46.816776143237,10100003133
+546,restaurant alzzajil bukhar,4009 anas ibn malik - Al Sahafah Dist.,Al Sahafah ,24.8182333611665,46.6424680638563,10100003123
+547,restauran,6743 Al Imam Al Shafie - Al Salam Dist.,Al Salam ,24.699322890905,46.8050129327422,10100003078
+548,restaurant al ziafa,3995 al qana - Al Yasmeen Dist.,Al Yasmeen ,24.8344860403453,46.6550471509318,10100003147
+549,restauran,3371 prince muhammad ibn abdulaziz rd - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7018179180002,46.6975755940001,10100003063
+550,restaurant  bukhar,2319 salah ad din al ayyubi rd - Al Safa Dist.,Al Safa ,24.6693129405062,46.7516924672492,10100003074
+551,مطعم ومقهى مشاغيث,2748 Prince Mohammed Ibn Salman Ibn Abdulaziz Rd - Qurtubah Dist.,Qurtubah ,24.8174608040268,46.7329123407308,10100003101
+552,restaurants and kitchens erez palac,3511 ad dammam rd - Al Yarmuk Dist.,Al Yarmuk ,24.8134171631435,46.7731662784063,10100003139
+553,restaurants and kitchens majlis azzam,8313 an najah - Ishbiliyah Dist.,Ishbiliyah ,24.8020855701814,46.8047877069732,10100003137
+554,restaurants and kitchens of the era of riyadh,4173 Al Shaikh Abdullah Al Anqari - Al Woroud Dist.,Al Woroud ,24.7269695951695,46.6888289009398,10100003026
+555,restaurants and kitchens erez palac,2675 King Abdulaziz - Al Mursalat Dist.,Al Mursalat ,24.741520126618,46.6831478073092,10100003024
+556,restaurants and kitchens meez riyadh,7115 Othman Bin Affan - Al Mughrazat Dist.,Al Mughrazat ,24.7620207016667,46.7165948460642,10100003105
+557,restaurants and kitchens amo abu saleh,8701 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.7274750672569,46.8200030549197,10100003167
+558,Restaurants and kitchens Noir Food Yemen,8354 Hassan Bin Thabit - West Naseem Dist.,West Naseem ,24.7242296065525,46.8396908527036,10100003167
+559,restaurants and kitchens happy flavor mandi and madhb,3629 al imam saud ibn abdulaziz rd - King Fahd Dist.,King Fahd ,24.752322860179,46.6749287621227,10100003017
+560,restaurants and kitchens najd,8440 ash shaikh hasan ibn hussain ibn ali - King Faisal Dist.,King Faisal ,24.7690300668426,46.7815174948792,10100003027
+561,restaurants bader,7351 al qana - Al Munisiyah Dist.,Al Munisiyah ,24.8196761852487,46.7618720533306,10100003140
+562,rimaz restaurants,2773 king abdullah ibn abdul aziz rd - Al Quds Dist.,Al Quds ,24.7625028907644,46.7465282738755,10100003081
+563,riyadh restauran,2604 Belal Bin Rabah - West Oraija Dist.,West Oraija ,24.5874402290002,46.6008894850002,10100003126
+564,"""restaurants chef's corner""",2921 ad dammam rd - Al Janadriyah Dist.,Al Janadriyah ,24.9095089162739,46.9289713388881,10100003136
+565,بخاري الرياض,7846 Othman Bin Affan - Al Narjis Dist.,Al Narjis ,24.8758927558987,46.6579188390322,10100003150
+566,roasters restauran,6395 al ulaya - Al Olaya Dist.,Al Olaya ,24.7000288000002,46.6825483770001,10100003075
+567,restaurants emtyaz  damascen,3096 ash shaikh abdulaziz ibn abdulrahman ibn bishr - Al Khaleej Dist.,Al Khaleej ,24.7753199695588,46.7873011048238,10100003055
+568,riyadh bukhari restauran,5053 al jawharah bint ibn muammar - Al Sharafiyah Dist.,Al Sharafiyah ,24.6560218880002,46.67307285,10100003009
+569,restaurants toarn art of cooking alhaila,8370 ash shaikh hasan ibn hussain ibn ali - Al Hamra Dist.,Al Hamra ,24.7890217362068,46.7669613311717,10100003129
+570,riyadh chinese restauran,7678  Abdullah Bin Rawaha - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.711465085,46.6969740270001,10100003063
+571,rokn almthaq restauran,6739 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.813110370965,46.7993359823569,10100003139
+572,rosemary restauran,6709 at takhassusi - Al Nakheel Dist.,Al Nakheel ,24.7413901722573,46.6454974106557,10100003108
+573,rukn alwalima restauran,4404 al imam saud ibn faysal rd - Al Malqa Dist.,Al Malqa ,24.7932670479957,46.6281610705063,10100003145
+574,rose restauran,5199 al ris - Al Shumaisi Dist.,Al Shumaisi ,24.6201873000001,46.7018230090001,10100003113
+575,royal restaurant mtluth,7481 Salman Al Farsi - Al Khaleej Dist.,Al Khaleej ,24.7807981572246,46.7976672258847,10100003055
+576,romantic restaurants,3659 ash shaikh ishaq ibn abdul rahman ibn hasan - Al Zahrah Dist.,Al Zahrah ,24.5738166040001,46.6465436490001,10100003067
+577,"""rowad al fada' bukhari restaurant""",7317  - Manfuha Al Jadidah Dist.,Manfuha Al Jadidah ,24.6164178500002,46.7103696260001,10100003005
+578,romantic house restauran,4932 abu ubaydah amir ibn al jarrah - Al Fayha Dist.,Al Fayha ,24.6769606058843,46.8248812155914,10100003133
+579,roukn algithaa restauran,7324 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.7373117465419,46.8119376427247,10100003167
+580,رمانة قرطية,3891 al qalam - Qurtubah Dist.,Qurtubah ,24.8133401083925,46.7508124177247,10100003101
+581,جزيرة الريان,7864 prince faisal bin bandar bin abdul aziz road - Al Narjis Dist.,Al Narjis ,24.8509816428958,46.6809179207646,10100003150
+582,sager restauran,8096 Hamzah Bin Abdulmuttaleb - West Suwaidi Dist.,West Suwaidi ,24.5791786130001,46.6308459790002,10100003057
+583,sahwah restauran,2805 dirab branch road - Al Shifa Dist.,Al Shifa ,24.5689668730001,46.6896890410001,10100003061
+584,runq alktkwt restauran,2685 ibn sina - Al Maseef Dist.,Al Maseef ,24.7615571021572,46.6751166470172,10100003084
+585,saba tower restauran,4232 al imam ahmad ibn hanbal - West Naseem Dist.,West Naseem ,24.7320888891207,46.8257963136664,10100003167
+586,sahayib tayiba restauran,6530 al muhandis masaid al anqari - Al Woroud Dist.,Al Woroud ,24.7182224783945,46.6807319123984,10100003026
+587,"""sa'ad restaurant""",3735 Amr Bin Al As - Olaishah Dist.,Olaishah ,24.6408532220001,46.6921707370001,10100003053
+588,sahab restauran,2976 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5789506290001,46.5655136920001,10100003102
+589,sab marion seefood restauran,2767 abdullah ibn badil - West Naseem Dist.,West Naseem ,24.7208618312833,46.8227138558707,10100003167
+590,sahari albadiah restauran,4045 al amir saad ibn abdulrahman al awal rd - Al Saadah Dist.,Al Saadah ,24.7166716279395,46.8544621630443,10100003036
+591,سمرقندي,2407 ath thumamah rd - Qurtubah Dist.,Qurtubah ,24.8305999774229,46.7294814508771,10100003101
+592,sarees restauran,2957 al bahar al ahmar - Al Wadi Dist.,Al Wadi ,24.7865519767503,46.687424877155,10100003082
+593,sea fish restauran,2965 abdulmalek ibn marwen - Al Olaya Dist.,Al Olaya ,24.6754048180001,46.6984375760002,10100003075
+594,salah grill restauran,2781 king abdullah ibn abdul aziz rd - Al Quds Dist.,Al Quds ,24.7625552389066,46.7466424880038,10100003081
+595,sarb alhamam restauran,7744 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8144861105733,46.7977850130546,10100003139
+596,saudia restauran,7413 al qamh - Namar Dist.,Namar ,24.5737074600002,46.6759714190002,10100003060
+597,sanabil al khair restauran,2827 al amir musaid ibn abdul rahman ibn faisal road - Middle Oraija Dist.,Middle Oraija ,24.5982619690001,46.623125445,10100003128
+598,saudi ideal restauran,3651 al imam abi hanifah - Middle Oraija Dist.,Middle Oraija ,24.6110169110001,46.6314946860002,10100003128
+599,saqr al khaleej restauran,4469 Hamzah Bin Abdulmuttaleb - West Oraija Dist.,West Oraija ,24.6106808420001,46.6074151200002,10100003126
+600,saudi restauran,6300 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.7281299911859,46.8186561691941,10100003167

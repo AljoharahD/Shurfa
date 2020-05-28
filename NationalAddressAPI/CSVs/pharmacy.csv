@@ -1,0 +1,889 @@
+,title,address,district,latitude,longitude,id
+0,"""aba'ad pharmacy""",4049 al warad - Namar Dist.,Namar ,24.5765530340001,46.691991322,10100003060
+1,abbott pharmacy,3140 asfan - Al Zahra Dist.,Al Zahra ,24.6839999929277,46.7343848156431,10100003132
+2,abdul aziz pharmacy,6196 al fostat - Al Suwaidi Dist.,Al Suwaidi ,24.5831322860001,46.6599597490002,10100003018
+3,abdul wahab pharmacy,2695 al madinah al munawwarah - West Suwaidi Dist.,West Suwaidi ,24.58060784,46.6118440600001,10100003057
+4,abdullah clinic and pharmacy,7371 ibn taimiah rd - Badr Dist.,Badr ,24.5553564840001,46.7025993440001,10100003164
+5,abha pharmacy,7683 umm al hamam - East Umm Al Hamam Dist.,East Umm Al Hamam ,24.6897255590002,46.650985006,10100003008
+6,ADAM PHARMACY(Delivery),5200 southern ring branch rd - Al Duraihemiyah Dist.,Al Duraihemiyah ,24.5847956000001,46.6894986,10100003076
+7,Adam Pharmacy(Delivery),7954 ash shaikh muhammad ibn abdul latif ibn abdul rahm - Shubra Dist.,Shubra ,24.5872807890001,46.683982744,10100003066
+8,ADAM PHARMACY(Delivery),7655 Labeed Bin Rabeah - Al Zahrah Dist.,Al Zahrah ,24.5760544,46.6396901,10100003067
+9,ADAM PHARMACY(Delivery),3675 ash shaikh ishaq ibn abdul rahman ibn hasan - Al Zahrah Dist.,Al Zahrah ,24.5739991000002,46.6467259,10100003067
+10,ADAM PHARMACY(Delivery),7377 al qashashiyah - Al Nada Dist.,Al Nada ,24.8061418000001,46.6849171000001,10100003023
+11,ADAM PHARMACY(Delivery),8331 ash shaikh muhammad ibn abdul latif ibn abdul rahm - Namar Dist.,Namar ,24.581839159,46.6883200010001,10100003060
+12,adama pharmacy,3499 al malik abdullah ibn abdulaziz rd - Al Woroud Dist.,Al Woroud ,24.734913250331,46.6823916122238,10100003026
+13,adama pharmacy,8166 King Abdulaziz - Al Rabie Dist.,Al Rabie ,24.7969218037314,46.6543192195961,10100003104
+14,adama pharmacy,3767 Anas Bin Malek - Al Malqa Dist.,Al Malqa ,24.8015138935863,46.6035350704469,10100003145
+15,Adama Pharmacy,4388 kharis branch rd - Al Rawdah Dist.,Al Rawdah ,24.7263437657417,46.7789457700614,10100003088
+16,Adama Pharmacy(Delivery),2627 makkah al mukarramah branch rd - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.685335303,46.7058342810001,10100003063
+17,adwa as saha pharmacy,3034 makkah al mukarramah branch road - North Mathar Dist.,North Mathar ,24.6756364150001,46.6732443930001,10100003011
+18,adwa as saha pharmacy,7044 at takhassusi - North Mathar Dist.,North Mathar ,24.6842366110001,46.6752496510001,10100003011
+19,adwa as saha pharmacy,3131 al urubah branch rd - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6983620890002,46.6409081970002,10100003012
+20,al abraj pharmacy,8748 Ayshah Bin Abi Bakr - Al Zahrah Dist.,Al Zahrah ,24.5858982090001,46.6541352210002,10100003067
+21,al abraq national pharmacy,5354 asir - Al Shumaisi Dist.,Al Shumaisi ,24.6179009900001,46.7032957840001,10100003113
+22,al aiwan pharmacy,7775 al zaid - Al Futah Dist.,Al Futah ,24.6386795110001,46.711211199,10100003121
+23,al ajjaji pharmacy,7423 Asmaa Bint Abi Bakr - West Oraija Dist.,West Oraija ,24.5854232590001,46.586708253,10100003126
+24,al ameen pharmacy,7757 umm al hamam - East Umm Al Hamam Dist.,East Umm Al Hamam ,24.6903412050002,46.6508445600001,10100003008
+25,al ameen pharmacy 2,7554 umm al hamam - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6891103730001,46.6503751550001,10100003012
+26,al amir pharmacy,3039 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6922707410001,46.6940440540001,10100003075
+27,al amjad flower pharmacy,7093 Hamzah Bin Abdulmuttaleb - Al Zahrah Dist.,Al Zahrah ,24.5710280140001,46.6375020720002,10100003067
+28,al amjad pharmacy,7094 al amir abdullah ibn abdul rahman ibn faisal - Utayqah Dist.,Utayqah ,24.5950540460001,46.7112048540001,10100003020
+29,al amjad pharmacy,2229 al madhar - Al Nasiriyah Dist.,Al Nasiriyah ,24.6517803790001,46.672206519,10100003037
+30,al amjad pharmacy,3004 al urayja - Al Uraija Dist.,Al Uraija ,24.6261847410001,46.6671549760002,10100003127
+31,al amjad pharmacy,4590 dirab branch road - Namar Dist.,Namar ,24.5766823050002,46.697496357,10100003060
+32,al arid pharmacy,7023 Al Maeer Sattam Bin Abdulaziz - Al Badeah Dist.,Al Badeah ,24.6219904220001,46.6765142130001,10100003071
+33,al ashban pharmacy,6513 al amir abdullah ibn abdul rahman ibn faisal - Manfuha Al Jadidah Dist.,Manfuha Al Jadidah ,24.6093387200001,46.7107707010002,10100003005
+34,al ashban pharmacy,3440 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5918362140002,46.6290097150002,10100003091
+35,al ashban pharmacy 3,7317  - Manfuha Al Jadidah Dist.,Manfuha Al Jadidah ,24.6165551480001,46.7104059980001,10100003005
+36,"""al bade'ah pharmacy""",3583 al madinah al munawarah - West Suwaidi Dist.,West Suwaidi ,24.5860139790001,46.620585823,10100003057
+37,al badrani pharmacy,7505 al amir abdul rahman ibn abdul aziz - Al Wizarat Dist.,Al Wizarat ,24.6783087900001,46.7087714300001,10100003045
+38,al barak clinic and pharmacy,6050 al jadah - Tuwaiq Dist.,Tuwaiq ,24.585915202,46.5575499610001,10100003102
+39,al bustan pharmacy,2349 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5904190860002,46.627676326,10100003091
+40,al farabi pharmacy,8446 umm al hamam - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6966562690001,46.6492671440002,10100003012
+41,al farabi pharmacy,4224 al madinah al munawarah - Middle Oraija Dist.,Middle Oraija ,24.6048328460001,46.6501768000001,10100003128
+42,al farabi pharmacy 2,7778 umm al hamam - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6906772970001,46.6503300190001,10100003012
+43,al farabi pharmacy 6,6628 at takhassusi - North Mathar Dist.,North Mathar ,24.6804592350002,46.6772883670001,10100003011
+44,al fares aba al khail pharmacy,6047 Hamzah Bin Abdulmuttaleb - Middle Oraija Dist.,Middle Oraija ,24.6016042890001,46.6150534510001,10100003128
+45,al faris clinic and pharmacy,4337 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5793683560001,46.552768214,10100003102
+46,al faris pharmacy,6061 Hamzah Bin Abdulmuttaleb - Middle Oraija Dist.,Middle Oraija ,24.6017713900001,46.6149479880001,10100003128
+47,al faris pharmacy,2298 Khadeejah Bint Khuwaylid - Tuwaiq Dist.,Tuwaiq ,24.5853466270001,46.5639005790002,10100003102
+48,al faris pharmacy,3854 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5802876490001,46.5479077050001,10100003102
+49,al fath pharmacy,3277 al amir mansur ibn abdul aziz - Al Wizarat Dist.,Al Wizarat ,24.674139385,46.7121597200001,10100003045
+50,al harbi pharmacy,3522 prince nawaf ibn abdulaziz - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6885513640001,46.6447576660001,10100003012
+51,al hayat pharmacy,7063 Maray Al Qibtiyyah - West Oraija Dist.,West Oraija ,24.5933654250002,46.5892103100001,10100003126
+52,al hazaimi pharmacy,8028 at takhassusi - North Mathar Dist.,North Mathar ,24.7069445970001,46.6635042480001,10100003011
+53,al hazm pharmacy,2127 al madhar - Al Nasiriyah Dist.,Al Nasiriyah ,24.6510689540002,46.6711892020002,10100003037
+54,al hedayah pharmacy,6605 al amir abdullah ibn abdul rahman ibn faisal - Al Yamamah Dist.,Al Yamamah ,24.5906530130001,46.7120489170001,10100003070
+55,al hikma pharmacy,3963 al imam faisal ibn turki ibn abdullah - Umm Saleem Dist.,Umm Saleem ,24.6367382580002,46.694431712,10100003122
+56,al hikma pharmacy,4107 al imam faisal ibn turki ibn abdullah - Umm Saleem Dist.,Umm Saleem ,24.636933804,46.6960470920001,10100003122
+57,al hikma pharmacy,2287 dirab branch road - Al Shifa Dist.,Al Shifa ,24.576303334,46.6987285170002,10100003061
+58,al huzaimi pharmacy,7407 al amir matab ibn abdul aziz - Al Rabwah Dist.,Al Rabwah ,24.685677032144,46.7667236400964,10100003047
+59,al ilm pharmacy,7120 al amir abdullah ibn abdul rahman ibn faisal - Utayqah Dist.,Utayqah ,24.5952412870001,46.7113481480001,10100003020
+60,al iwan pharmacy 2,6771 Ayshah Bin Abi Bakr - Middle Oraija Dist.,Middle Oraija ,24.6075564350002,46.6389675480001,10100003128
+61,al jamea district pharmacy,2591 king abdullah ibn abdulaziz rd - Al Raed Dist.,Al Raed ,24.709407594,46.6290025660002,10100003125
+62,al jamila pharmacy,6608 dirab rd - Dirab Dist.,ab ,24.4964517075131,46.6284107906682,10100003058
+63,al jaradia pharmacy,6634 muslimah ibn abdul malik - Al Badeah Dist.,Al Badeah ,24.6184640560002,46.6924957810002,10100003071
+64,al jaza pharmacy,3484 al amir musaid ibn abdul rahman ibn faisal road - Middle Oraija Dist.,Middle Oraija ,24.6111436090001,46.6430438250001,10100003128
+65,"""al jaze' pharmacy""",6791 al ulaya - Al Olaya Dist.,Al Olaya ,24.6872277710001,46.688739797,10100003075
+66,al jazea pharmacy 20,2773 muhammad al muqaddami - Al Nafel Dist.,Al Nafel ,24.7801611446714,46.6676619579274,10100003083
+67,al jura pharmacy,6955 umm al hamam - East Umm Al Hamam Dist.,East Umm Al Hamam ,24.683165702,46.653577575,10100003008
+68,al khaleeji pharmacy,7186 badi az zaman al hamadhani - Shubra Dist.,Shubra ,24.5717961240001,46.6534960870001,10100003066
+69,al kharashy pharmacy,2687 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5923853800002,46.6311051270001,10100003091
+70,al kharif pharmacy,6683 abdullah ibn az zubairq - West Oraija Dist.,West Oraija ,24.5973220850001,46.5985905790002,10100003126
+71,al khayam modern pharmacy,8131 at takhassusi - Al Olaya Dist.,Al Olaya ,24.7071820440001,46.6644999440001,10100003075
+72,al khuraif pharmacy,7354 Ayshah Bin Abi Bakr - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5923105470001,46.6491958860001,10100003091
+73,al khuzaimy pharmacy 7,4314 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5972742120002,46.6378137820002,10100003091
+74,al khuzami pharmacy,3671 Belal Bin Rabah - West Oraija Dist.,West Oraija ,24.5815777620002,46.5923551060002,10100003126
+75,al khuzami pharmacy,3627 Belal Bin Rabah - West Oraija Dist.,West Oraija ,24.5813195420001,46.5919602480002,10100003126
+76,al lezam pharmacy,8813 al ulaya - Al Olaya Dist.,Al Olaya ,24.675737316,46.6945006270001,10100003075
+77,al madinah ath thanya pharmacy,3386 samahat ash shaikh abdul aziz ibn baz - Olaishah Dist.,Olaishah ,24.6259562610001,46.6888666750001,10100003053
+78,al madinah pharmacy,3527 samahat ash shaikh abdul aziz ibn baz - Al Badeah Dist.,Al Badeah ,24.6257900670001,46.6902246620001,10100003071
+79,al mahya pharmacy,3183 abi bakr ar razi - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.6905699110001,46.7106707560002,10100003063
+80,al majd modern veterinary pharmacy,7575 salam - Al Dubiyah Dist.,Al Dubiyah ,24.6188307850001,46.7104369010001,10100003116
+81,al majid pharmacy,6963 sultanah - Sultanah Dist.,Sultanah ,24.6054296300001,46.6922837780001,10100003069
+82,al majid pharmacy,6893 sultanah - Sultanah Dist.,Sultanah ,24.6050157150001,46.6927245350001,10100003069
+83,Al Malaz national Pharmacy(Delivery),2512 umar ibn abdul aziz rd - Al Zahra Dist.,Al Zahra ,24.6794223580001,46.728056958,10100003132
+84,al mansoura pharmacy,7946 ash shabab - Al Aziziyah Dist.,Al Aziziyah ,24.5985100593857,46.7548332682225,10100003029
+85,al marzouq pharmacy,4682 dirab branch road - Namar Dist.,Namar ,24.5772634840001,46.6984067760001,10100003060
+86,"""al mas'udi pharmacy""",7080 ibn taimiah rd - Al Shifa Dist.,Al Shifa ,24.5489442150002,46.6962182870001,10100003061
+87,al mawal pharmacy,6249 Asmaa Bint Abi Bakr - West Oraija Dist.,West Oraija ,24.5861166770001,46.5862525740001,10100003126
+88,al miswal pharmacy,3050 al amid - Tuwaiq Dist.,Tuwaiq ,24.5904452710001,46.571433131,10100003102
+89,al mubarak pharmacy,3855 king faisal - Al Murabba Dist.,Al Murabba ,24.6566265160001,46.7070799710002,10100003021
+90,al muhaidib veterinary pharmacy,2631 madina munwarah rd - Al Dubiyah Dist.,Al Dubiyah ,24.6241385180002,46.7111447730001,10100003116
+91,Al Mujtama Pharmacy(Delivery),7290 zuhir ibn abi salma - Al Maseef Dist.,Al Maseef ,24.765032625,46.6801372210001,10100003084
+92,Al Mujtama Pharmacy(Delivery),7095 imarat arqa - Irqah,Irqah,24.6786859000001,46.5901272,10100003142
+93,Al Mujtama Pharmacy(Delivery),6651 Ayshah Bin Abi Bakr - Al Suwaidi Dist.,Al Suwaidi ,24.5872625000001,46.6539687000002,10100003018
+94,Al Mujtama Pharmacy(Delivery),8254 ask shaikh hasan ibn hussain ibn ali - Ghirnatah Dist.,Ghirnatah ,24.8041666670001,46.7594722220002,10100003155
+95,Al Mujtama Pharmacy(Delivery),6949 Al Shaikh Jabir Al Ahmed Al Shaba - Al Rimal Dist.,Al Rimal ,24.8472459000001,46.7818981000001,10100003153
+96,Al Mujtama Pharmacy(Delivery),4240 Prince Mohammed Ibn Salman Ibn Abdulaziz Rd - Hitteen Dist.,Hitteen ,24.7690644000001,46.6180737000001,10100003144
+97,Al Mujtama Pharmacy(Delivery),4726 al imam ahmad ibn hanbal - Al Rayan Dist.,Al Rayan ,24.7091111110001,46.788638889,10100003090
+98,Al Mujtama Pharmacy(Delivery),7988 abi al aswad ad duali - East Naseem Dist.,East Naseem ,24.7311301,46.8488839000001,10100003080
+99,Al Mujtama Pharmacy(Delivery),7054 mohammed rasheed rda - Al Aziziyah Dist.,Al Aziziyah ,24.5707536,46.7699850000001,10100003029
+100,"""al murabba' pharmacy""",2875 al farawi - Al Murabba Dist.,Al Murabba ,24.6717917280001,46.7082385330001,10100003021
+101,al muslim pharmacy,3506 al madinah al munawarah - West Oraija Dist.,West Oraija ,24.5799329580001,46.6096855160001,10100003126
+102,al nahdi pharmacy,6641 at takhassusi - Al Muhammadiyah Dist.,Al Muhammadiyah ,24.7269974074974,46.6527005943271,10100003062
+103,al nahdi pharmacy,7129 ath thumamah rd - Al Rabie Dist.,Al Rabie ,24.7875373537362,46.6473610987793,10100003104
+104,al nahdi pharmacy,7736 king fahd branch road - Al Malqa Dist.,Al Malqa ,24.8018408612723,46.6260938380332,10100003145
+105,al nahdi pharmacy,3492 Al Zubair Bin Al Awwam - Al Salam Dist.,Al Salam ,24.7062428274533,46.8096167283181,10100003078
+106,al nahdi pharmacy,3324 mohammed rasheed rda - Al Aziziyah Dist.,Al Aziziyah ,24.5837848641941,46.7596712119657,10100003029
+107,al nahdi pharmacy,2827 arfat rd - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.571790679003,46.780412476136,10100003130
+108,al nahdi pharmacy,3042 ibn hejr - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5591584774439,46.781870371896,10100003130
+109,al nahdi pharmacy,7513 mohammed rasheed rda - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5626286833743,46.775280573613,10100003130
+110,al nahdi pharmacy,7324 mohammed rasheed rda - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5545484837955,46.7790380394622,10100003130
+111,al nahdi pharmacy,2129 arfat rd - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5616923012391,46.7593555047106,10100003130
+112,al najah pharmacy,4911 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.6286951670002,46.7038431180001,10100003113
+113,al nour pharmacy,3487 samahat ash shaikh abdul aziz ibn baz - Al Badeah Dist.,Al Badeah ,24.6255852650001,46.689488693,10100003071
+114,al olaya pharmacy,8739 al ulaya - Al Olaya Dist.,Al Olaya ,24.6751202700001,46.6948407760001,10100003075
+115,al ouda pharmacy,3990 Anas Bin Malek - Al Malqa Dist.,Al Malqa ,24.8076883337126,46.6156416784332,10100003145
+116,al qaishan veterinary pharmacy,7897 salam - Al Dubiyah Dist.,Al Dubiyah ,24.62188654,46.7109140100001,10100003116
+117,al rafah pharmacy,2251 dirab branch rd - Al Shifa Dist.,Al Shifa ,24.5761173860001,46.6982464200001,10100003061
+118,al rafiq pharmacy,7385 al khalifah al mamun - Badr Dist.,Badr ,24.5411168100001,46.7037173670001,10100003164
+119,al rajaa pharmacy,3165 al urubah rd - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7183161703456,46.6867332840951,10100003063
+120,al rajaa pharmacy,6939 uthman ibn affan branch rd - Al Ezdihar Dist.,Al Ezdihar ,24.7770168652555,46.7089060692595,10100003086
+121,al rasees united pharmacy,6708 prince turki ibn abdulaziz al awwal rd - East Umm Al Hamam Dist.,East Umm Al Hamam ,24.680813621,46.6659333490001,10100003008
+122,al rashad pharmacy,4126 Anas Bin Malek - Al Yasmeen Dist.,Al Yasmeen ,24.8160942614139,46.6354351960542,10100003147
+123,al rashid pharmacy,5462  - Siyah Dist.,Siyah ,24.6041466010001,46.7042595790001,10100003068
+124,al rashidiyyah pharmacy,3511 al amir mamduh ibn abdul aziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.709019106,46.689997325,10100003063
+125,al ruwais polyclinic & pharmacy,8330 abdullah ibn muammar - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.695638313,46.64543345,10100003012
+126,"""al sa'adi pharmacy""",2999 al qayruwani - Al Wizarat Dist.,Al Wizarat ,24.670972915,46.7093863260001,10100003045
+127,Al Saggaf Pharmacy,3197 abdulrahman al ghafaqi rd - Al Rawdah Dist.,Al Rawdah ,24.7471159737073,46.7606413896937,10100003088
+128,al saggaf pharmacy,6405 ash shabab - Al Aziziyah Dist.,Al Aziziyah ,24.5909937783032,46.7592310277113,10100003029
+129,al salehiyya pharmacy,7853 al imam abdul aziz ibn muhammad ibn saud - Al Shumaisi Dist.,Al Shumaisi ,24.6295867850001,46.6927154140001,10100003113
+130,al saqaf pharmacy,7095 al ulaya - Al Olaya Dist.,Al Olaya ,24.6901396170002,46.6872973290001,10100003075
+131,al saqaf pharmacy,6625 at takhassusi - Al Olaya Dist.,Al Olaya ,24.6801715360001,46.6780664890002,10100003075
+132,al saqaf pharmacy,4273 al aynusi - Sultanah Dist.,Sultanah ,24.5993157390001,46.6923918910001,10100003069
+133,al saqaf pharmacy,7334 Hamzah Bin Abdulmuttaleb - West Oraija Dist.,West Oraija ,24.5885481400001,46.6236736620002,10100003126
+134,al saqaf pharmacy 20,6671 Ayshah Bin Abi Bakr - Al Suwaidi Dist.,Al Suwaidi ,24.587500967,46.6537518340002,10100003018
+135,al saqaf pharmacy 25,2902 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6922374500001,46.6928389440002,10100003075
+136,al saqaf pharmacy 3,7722 badi az zaman al hamadhani - Al Zahrah Dist.,Al Zahrah ,24.5765927160002,46.6499495800002,10100003067
+137,al saqaf pharmacy 6,3749 Belal Bin Rabah - West Oraija Dist.,West Oraija ,24.5822114860002,46.5933141890001,10100003126
+138,al saqaf pharmacy 7,7457 ibn taimiah rd - Badr Dist.,Badr ,24.5560340720002,46.7030716760001,10100003164
+139,al saqqaf pharmacy,4807 an nasr branch rd - Al Aziziyah Dist.,Al Aziziyah ,24.5929816520475,46.7747602931987,10100003029
+140,al shafi pharmacy,7342 at takhassusi - Al Rahmaniyah Dist.,Al Rahmaniyah ,24.7166767202443,46.6591053423252,10100003013
+141,al shafi pharmacy,7586 al amir matab ibn abdul aziz - Al Rabwah Dist.,Al Rabwah ,24.6876614849969,46.7652866003976,10100003047
+142,al shamilah pharmacy,7610 at takhassusi - North Mathar Dist.,North Mathar ,24.689482647,46.6727475610001,10100003011
+143,al shamilah pharmacy 3,7686 at takhassusi - North Mathar Dist.,North Mathar ,24.7031068130001,46.6658574040001,10100003011
+144,al shatea pharmacy,6927 al amir matab ibn abdul aziz - Al Rabwah Dist.,Al Rabwah ,24.6814122052098,46.7683758188451,10100003047
+145,al shifa modern pharmacy,6730 ibn taimiah road - Al Shifa Dist.,Al Shifa ,24.5579677080001,46.7036828690001,10100003061
+146,al shifa polyclinic and pharmacy,8481 ziad al fazari - Al Shifa Dist.,Al Shifa ,24.5738253060001,46.6955864180002,10100003061
+147,al shimaisi pharmacy,4179 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.627547031,46.6965853520001,10100003113
+148,al sihaim pharmacy,7984 Hamzah Bin Abdulmuttaleb - West Suwaidi Dist.,West Suwaidi ,24.578276278,46.6315096100001,10100003057
+149,al tadamoun pharmacy,2745 abdullah ibn jabr - West Oraija Dist.,West Oraija ,24.5869070290001,46.6023282960001,10100003126
+150,al tadamoun pharmacy,6201 weastern ring rd - West Oraija Dist.,West Oraija ,24.5783735900001,46.6046979590001,10100003126
+151,al tadamun pharmacy,3095 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.578337581,46.5667527750001,10100003102
+152,al thalatheen pharmacy,2864 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6920845940001,46.6924409560002,10100003075
+153,al urooba pharmacy,2151 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5891125420001,46.6257722630002,10100003091
+154,al urooba pharmacy,2549 AL Khaleel Bin Ahmad - Badr Dist.,Badr ,24.5426809890001,46.6939921480001,10100003164
+155,al uroubah polyclinic and pharmacy,7742 Al Tirmidhi - Al Shifa Dist.,Al Shifa ,24.5669833850001,46.702364636,10100003061
+156,al uroubah polyclinic and pharmacy 2,2752 AL Khaleel Bin Ahmad - Al Shifa Dist.,Al Shifa ,24.554568478,46.6779798960002,10100003061
+157,al ushayan pharmacy,4929 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.6286438320001,46.7039807530001,10100003113
+158,al usta pharmacy,"""7230 Ibn Al Muqafa' - West Oraija Dist.""",West Oraija ,24.5878234100002,46.6103391670001,10100003126
+159,al wadi pharmacy,7177 asir - Al Shumaisi Dist.,Al Shumaisi ,24.6233455830001,46.69591153,10100003113
+160,aldawaa pharmacy,3636 abi jaafar al mansur - Al Yarmuk Dist.,Al Yarmuk ,24.8057233052191,46.7742219770987,10100003139
+161,صيدليةالدواء,4484 ad dammam rd - Qurtubah Dist.,Qurtubah ,24.8000951915291,46.7386920842146,10100003101
+162,al washm medical center and pharmacy,9282 king faisal - Al Murabba Dist.,Al Murabba ,24.6523624810002,46.7106048840001,10100003021
+163,al zahrah polyclinic and pharmacy,3504 al balad al amin - Al Suwaidi Dist.,Al Suwaidi ,24.588273311,46.6584545050001,10100003018
+164,alaa jamil pharmacy,4015 Al Shaikh Abdullah Al Anqari - Al Woroud Dist.,Al Woroud ,24.7262450492932,46.6871692268882,10100003026
+165,alanaya al-dawaiya pharmacy,3412 Al Zubair Bin Al Awwam - Al Salam Dist.,Al Salam ,24.7056265470521,46.8085983190073,10100003078
+166,aldawaa pharmacy,3183 ad dammam rd - Al Yarmuk Dist.,Al Yarmuk ,24.8195508187513,46.787745235989,10100003139
+167,aldawaa pharmacy,7930 al ihsa - Al Malaz Dist.,Al Malaz ,24.6781226146815,46.7349132377038,10100003051
+168,aldawaa pharmacy,8374 khalid ibn al walid - Al Quds Dist.,Al Quds ,24.7612703285715,46.7636202201219,10100003081
+169,aldawaa pharmacy,6815 ash shaikh hasan ibn hussain ibn ali - Ishbiliyah Dist.,Ishbiliyah ,24.7838123822266,46.7714832588673,10100003137
+170,aldawaa pharmacy,4008 an nuwibah - Al Yarmuk Dist.,Al Yarmuk ,24.8075534967051,46.7957355009358,10100003139
+171,aldawaa pharmacy,6939 an nasar - Al Yarmuk Dist.,Al Yarmuk ,24.8071894391711,46.7925696280676,10100003139
+172,aldawaa pharmacy,7482 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8120217675549,46.7989017307233,10100003139
+173,aldawaa pharmacy,4466 al imam abdullah ibn saud ibn abdul aziz rd - Al Qadisiyah Dist.,Al Qadisiyah ,24.813780605162,46.8185754699768,10100003073
+174,aldawaa pharmacy,6383 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8098656586221,46.8008784580395,10100003139
+175,aldawaa pharmacy,4102 Al Zubair Bin Al Awwam - Al Salam Dist.,Al Salam ,24.7099092710487,46.8155765101707,10100003078
+176,aldawaa pharmacy,3260 ash shaikh abdulaziz ibn abdulrahman ibn bishr - Al Khaleej Dist.,Al Khaleej ,24.7763436136837,46.7889757694796,10100003055
+177,al-dawaa pharmacy,3339 al amir bandar ibn abdul aziz - Al Nahdah Dist.,Al Nahdah ,24.7646516807271,46.8035317558283,10100003054
+178,al-dawaa pharmacy,7171 ali al fazari - Al Munisiyah Dist.,Al Munisiyah ,24.8258998751948,46.7805209421501,10100003140
+179,al-dawaa pharmacy,7400 abi huraiyrah - East Naseem Dist.,East Naseem ,24.7490297470887,46.8283971589323,10100003080
+180,Al-Dawaa Pharmacy(Delivery),2500 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6907337,46.6887564000001,10100003075
+181,Al-Dawaa Pharmacy(Delivery),3808 al urubah rd - Al Woroud Dist.,Al Woroud ,24.7182190000001,46.6849854000002,10100003026
+182,Al-Dawaa Pharmacy(Delivery),3058 prince turki ibn abdulaziz ath thani - Al Muruj Dist.,Al Muruj ,24.7579829000002,46.6610030000001,10100003110
+183,Al-Dawaa Pharmacy(Delivery),8060 hail - Al Nuzha Dist.,Al Nuzha ,24.7628218000002,46.7030209000001,10100003025
+184,Al-Dawaa Pharmacy(Delivery),8466 Othman Bin Affan - Al Nuzha Dist.,Al Nuzha ,24.76643955,46.7131481250001,10100003025
+185,Al-Dawaa Pharmacy(Delivery),6385 al ihsa - Al Zahra Dist.,Al Zahra ,24.6822914320002,46.734574996,10100003132
+186,Al-Dawaa Pharmacy(Delivery),7454 eastern ring branch rd - Al Rabwah Dist.,Al Rabwah ,24.6858593000001,46.7747593000001,10100003047
+187,Al-Dawaa Pharmacy(Delivery),3399 al imam abdullah ibn saud ibn abdul aziz  branch r - Al Hamra Dist.,Al Hamra ,24.7891014000001,46.7624671,10100003129
+188,Al-Dawaa Pharmacy(Delivery),7528 Ibn Al Haytahm - Al Khaleej Dist.,Al Khaleej ,24.78079,46.8209209,10100003055
+189,Al-Dawaa Pharmacy(Delivery),7365 Salman Al Farsi - Al Khaleej Dist.,Al Khaleej ,24.7796049,46.7984069,10100003055
+190,Al-Dawaa Pharmacy(Delivery),2456 ash shaikh abdul aziz ibn abdul rahman ibn bishr - Al Khaleej Dist.,Al Khaleej ,24.7831886000001,46.7998071000001,10100003055
+191,Al-Dawaa Pharmacy(Delivery),7634 as sahabah - Ishbiliyah Dist.,Ishbiliyah ,24.7909234000001,46.7876755000001,10100003137
+192,Al-Dawaa Pharmacy(Delivery),7628 khalid ibn al walid - Al Shohda Dist.,Al Shohda ,24.7907742000002,46.7445985,10100003016
+193,Al-Dawaa Pharmacy(Delivery),2669 abi jafar al mansur - Ghirnatah Dist.,Ghirnatah ,24.7935024000001,46.7467252000001,10100003155
+194,Al-Dawaa Pharmacy(Delivery),2793 ad dammam rd - Ghirnatah Dist.,Ghirnatah ,24.802824,46.7481139000001,10100003155
+195,Al-Dawaa Pharmacy(Delivery),2267 ad dammam rd - Ghirnatah Dist.,Ghirnatah ,24.8006038,46.7428471000001,10100003155
+196,Al-Dawaa Pharmacy(Delivery),8412 as sahabah - Al Yarmuk Dist.,Al Yarmuk ,24.8128763000001,46.7766704000001,10100003139
+197,Al-Dawaa Pharmacy(Delivery),6237 Saeed Bin Zayd - Qurtubah Dist.,Qurtubah ,24.8023450000001,46.7394997000002,10100003101
+198,Al-Dawaa Pharmacy(Delivery),4118 al qalam - Qurtubah Dist.,Qurtubah ,24.8148885000002,46.7528671000001,10100003101
+199,Al-Dawaa Pharmacy(Delivery),3535 rajiyah - Al Munisiyah Dist.,Al Munisiyah ,24.8191464,46.7647808000002,10100003140
+200,Al-Dawaa Pharmacy(Delivery),2795 al qalam - Al Munisiyah Dist.,Al Munisiyah ,24.816177,46.7573010000002,10100003140
+201,Al-Dawaa Pharmacy(Delivery),7074 ashaikh hasan ibn hussain ibn ali rd - Qurtubah Dist.,Qurtubah ,24.8261216000002,46.7480975000001,10100003101
+202,Al-Dawaa Pharmacy(Delivery),7472 as sahabah - Al Munisiyah Dist.,Al Munisiyah ,24.8372466000002,46.7643386000001,10100003140
+203,Al-Dawaa Pharmacy(Delivery),7121 as sahabah - Al Munisiyah Dist.,Al Munisiyah ,24.8254151,46.7712101000001,10100003140
+204,Al-Dawaa Pharmacy(Delivery),6455 as sahabah - Al Munisiyah Dist.,Al Munisiyah ,24.8192938000001,46.7743604000001,10100003140
+205,Al-Dawaa Pharmacy(Delivery),2855 muhammad abdullah al barqi - Al Munisiyah Dist.,Al Munisiyah ,24.8257300000001,46.7760498000001,10100003140
+206,Al-Dawaa Pharmacy(Delivery),6767 ash shaikh jabir al ahmad as sabbah - Al Rimal Dist.,Al Rimal ,24.8297506000001,46.7944005000001,10100003153
+207,Al-Dawaa Pharmacy(Delivery),3179 al balqa - Al Rimal Dist.,Al Rimal ,24.8328244,46.7972372000001,10100003153
+208,Al-Dawaa Pharmacy(Delivery),7073 King Abdulaziz - Al Nafel Dist.,Al Nafel ,24.7795472000001,46.6639688000001,10100003083
+209,Al-Dawaa Pharmacy(Delivery),4528 al imam saud ibn faysal rd - Al Sahafah Dist.,Al Sahafah ,24.8012929,46.6473051,10100003123
+210,Al-Dawaa Pharmacy(Delivery),2433 Anas Bin Malek - Al Yasmeen Dist.,Al Yasmeen ,24.8203059000001,46.6475875000001,10100003147
+211,Al-Dawaa Pharmacy(Delivery),6271 Othman Bin Affan - Al Narjis Dist.,Al Narjis ,24.8365738000001,46.6788579,10100003150
+212,Al-Dawaa Pharmacy(Delivery),6265 al khair rd - Al Aqeeq Dist.,Al Aqeeq ,24.7721467000001,46.6204232000002,10100003107
+213,Al-Dawaa Pharmacy(Delivery),4470 Prince Mohammed Ibn Salman Ibn Abdulaziz Rd - Al Aqeeq Dist.,Al Aqeeq ,24.7770953,46.6369397,10100003107
+214,Al-Dawaa Pharmacy(Delivery),7688 prince muhammad ibn saad ibn abdulazizi - Hitteen Dist.,Hitteen ,24.7774482000001,46.6167497000001,10100003144
+215,Al-Dawaa Pharmacy(Delivery),3914 al imam saud ibn faysal rd - Al Malqa Dist.,Al Malqa ,24.7911377,46.6233845,10100003145
+216,Al-Dawaa Pharmacy(Delivery),4390 Anas Bin Malek - Al Malqa Dist.,Al Malqa ,24.8096419,46.6198397000002,10100003145
+217,Al-Dawaa Pharmacy(Delivery),3262 mhail - Al Janadriyah Dist.,Al Janadriyah ,24.8090408,46.8581328000001,10100003136
+218,Al-Dawaa Pharmacy(Delivery),7729 taybah - Dhahrat Laban Dist.,hahrat Laban ,24.6331353000001,46.5632807000001,10100003143
+219,Al-Dawaa Pharmacy(Delivery),4558 al shafa - Dhahrat Laban Dist.,hahrat Laban ,24.6354243000001,46.569405,10100003143
+220,Al-Dawaa Pharmacy(Delivery),2799 at taif - Dhahrat Laban Dist.,hahrat Laban ,24.6467715000001,46.5524515000001,10100003143
+221,Al-Dawaa Pharmacy(Delivery),4680 al imam ahmad ibn hanbal - Al Rayan Dist.,Al Rayan ,24.7088596,46.7881395000002,10100003090
+222,Al-Dawaa Pharmacy(Delivery),2661 al imam ahmad ibn hanbal - Al Rawabi Dist.,Al Rawabi ,24.7030185,46.7801246000001,10100003089
+223,Al-Dawaa Pharmacy(Delivery),3590 prince saad ibn abdulrahman al awal rd - Al Rawabi Dist.,Al Rawabi ,24.6836520000001,46.7892081000001,10100003089
+224,Al-Dawaa Pharmacy(Delivery),7798 Unayzah - Al Rawabi Dist.,Al Rawabi ,24.6957578000001,46.782766,10100003089
+225,Al-Dawaa Pharmacy(Delivery),2497 Al Zubair Bin Al Awwam - Al Rawabi Dist.,Al Rawabi ,24.6878273000001,46.7782429,10100003089
+226,Al-Dawaa Pharmacy(Delivery),8505 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.7256692000001,46.8211975000002,10100003167
+227,Al-Dawaa Pharmacy(Delivery),4436 prince saad ibn abdulrahman al awal rd - West Naseem Dist.,West Naseem ,24.7077467000001,46.8385448000002,10100003167
+228,Al-Dawaa Pharmacy(Delivery),7564 abi al aswad ad duali - East Naseem Dist.,East Naseem ,24.7504391000001,46.8343992000002,10100003080
+229,Al-Dawaa Pharmacy(Delivery),7972 Al Imam Al Shafie - Al Fayha Dist.,Al Fayha ,24.6856467000001,46.8128950000001,10100003133
+230,Al-Dawaa Pharmacy(Delivery),6117 shibh al jazirah - Al Saadah Dist.,Al Saadah ,24.6957346000001,46.8395886,10100003036
+231,Al-Dawaa Pharmacy(Delivery),2331 arfat rd - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5758538000001,46.7884140000002,10100003130
+232,Al-Dawaa Pharmacy(Delivery),3332 al imam malik rd - Badr Dist.,Badr ,24.5451547000001,46.7135110000002,10100003164
+233,Al-Dawaa Pharmacy(Delivery),3118 AL Khaleel Bin Ahmad - Badr Dist.,Badr ,24.5396504000001,46.6995388000001,10100003164
+234,Al-Dawaa Pharmacy(Delivery),7532 al jazirah al khadra - Al Nadwah Dist.,Al Nadwah ,24.7951780000002,46.8716327000002,10100003169
+235,Al-Dawaa Pharmacy(Delivery),7565  - Al Nadwah Dist.,Al Nadwah ,24.7956412000001,46.8649996,10100003169
+236,aldawaaco pharmacy,2443 anas ibn malik - Al Sahafah Dist.,Al Sahafah ,24.811717516532,46.6268557380849,10100003123
+237,aldawaaco pharmacy,4238 prince nasir ibn saud ibn farhan al saud - Al Sahafah Dist.,Al Sahafah ,24.8107705548643,46.6445969925543,10100003123
+238,alenaayah pharmacy,6297  Abdullah Bin Masud - West Naseem Dist.,West Naseem ,24.7278510095827,46.8135925142308,10100003167
+239,algaaf pharmacy,3312 Prince Mohammed Ibn Salman Ibn Abdulaziz Rd - Qurtubah Dist.,Qurtubah ,24.8198623230849,46.7384480000148,10100003101
+240,alhaah pharmacy,8502 as sahabah - Al Yarmuk Dist.,Al Yarmuk ,24.8137386741919,46.7763465772155,10100003139
+241,alhabib pharmacy,7334 abdullah al jasir - Ishbiliyah Dist.,Ishbiliyah ,24.7933723408971,46.7996534011932,10100003137
+242,aljazeera al dawaa pharmacy,2555 Al Abbas Bin Abdulmuttaleb - Al Taawun Dist.,Al Taawun ,24.7685078919395,46.6915892044542,10100003085
+243,alkalig veterinary pharmacy,7558 ad dammam rd - Al Bayan Dist.,Al Bayan ,24.8533334706251,46.8622507639525,10100003190
+244,alnahdi pharmacy,7522 ash shaikh hasan ibn hussain ibn ali - Al Hamra Dist.,Al Hamra ,24.7813612994446,46.7722867433624,10100003129
+245,alnahdi pharmacy,3482 al imam abdullah ibn saud ibn abdulaziz branch rd - Al Yarmuk Dist.,Al Yarmuk ,24.8019540006894,46.790486831131,10100003139
+246,alnasser pharmacy,7858  Abdullah Bin Masud - West Naseem Dist.,West Naseem ,24.7290431195465,46.8120934537968,10100003167
+247,alnnahdi pharmacy,3898 Anas Bin Malek - Al Yasmeen Dist.,Al Yasmeen ,24.8151091645576,46.6331223599565,10100003147
+248,Aloudah Pharmacy(Delivery),3130 prince sultan ibn salman ibn abdulaziz - Al Woroud Dist.,Al Woroud ,24.7256938,46.6784060000001,10100003026
+249,صيدلية الوطن,3896 al imam abdullah ibn saud ibn abdulaziz rd - Al Shohda Dist.,Al Shohda ,24.7809117000002,46.7408060000001,10100003016
+250,Aloudah Pharmacy(Delivery),4376 Prince Mohammed Ibn Salman Ibn Abdulaziz Rd - Al Rabie Dist.,Al Rabie ,24.7932416,46.6754747,10100003104
+251,Aloudah Pharmacy(Delivery),3990 Anas Bin Malek - Al Malqa Dist.,Al Malqa ,24.8077939,46.6155360000001,10100003145
+252,alraya pharmacy,4180 abi said al khadri - King Faisal Dist.,King Faisal ,24.7620370034572,46.7806753877665,10100003027
+253,alriyadh pharmacy,6468 al muhandis masaid al anqari - Al Woroud Dist.,Al Woroud ,24.7176478385618,46.6810709855918,10100003026
+254,alsalam pharmacy,3676 king abdullah ibn abdul aziz rd - Ishbiliyah Dist.,Ishbiliyah ,24.7785427399951,46.7827860587919,10100003137
+255,alshablan pharmacy,3456 al urubah rd - Al Woroud Dist.,Al Woroud ,24.7166110247941,46.6816216307838,10100003026
+256,alshafi pharmacy,7349 ibn rashiq - King Faisal Dist.,King Faisal ,24.7591559124138,46.7775641334428,10100003027
+257,alshshirae pharmacy,7133 King Abdul Aziz Rd - Al Mursalat Dist.,Al Mursalat ,24.7468146375419,46.6805386331374,10100003024
+258,al-thowaini pharmacy,7813 Osamah Bin Zayd - West Naseem Dist.,West Naseem ,24.7415440105519,46.8155361016039,10100003167
+259,alwaatn pharmacy,7884 khalid ibn al walid - Al Shohda Dist.,Al Shohda ,24.7930309891996,46.7434233757262,10100003016
+260,ALWADAN PHARMACY,8644 khalid ibn al walid - Al Rawdah Dist.,Al Rawdah ,24.7508529788869,46.7713684689097,10100003088
+261,ameed alseha pharmacy,4086 al amir bandar ibn abdul aziz - King Faisal Dist.,King Faisal ,24.750679329053,46.7798254892085,10100003027
+262,ammar pharmacy,3561 prince mamduh ibn abdulaziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7092064880001,46.6903851510001,10100003063
+263,ammar pharmacy,4120 prince salman ibn muhammad al saud - Al Sahafah Dist.,Al Sahafah ,24.7994779898499,46.6431167298625,10100003123
+264,ammar pharmacy,3968 al imam saud ibn faysal rd - Al Sahafah Dist.,Al Sahafah ,24.7990259351609,46.6418932848374,10100003123
+265,Amoon Pharmacy(Delivery),6684 ash shaikh abdul rahman ibn hasan - Al Wizarat Dist.,Al Wizarat ,24.6708810000002,46.7116597000001,10100003045
+266,Amoon Pharmacy(Delivery),6994 riba - Qurtubah Dist.,Qurtubah ,24.8014758,46.7296759000001,10100003101
+267,Amoon Pharmacy(Delivery),7219  - 2nd Industrial City,2nd Industrial City,24.5638486000001,46.8712739000001,10100003028
+268,ar rafeeq pharmacy,4465 al madinah al munawarah - Al Jarradiyah Dist.,Al Jarradiyah ,24.6172826080001,46.6945291850002,10100003003
+269,ar rayed pharmacy,4993 al ris - Al Shumaisi Dist.,Al Shumaisi ,24.6187130880002,46.6997890510002,10100003113
+270,ar riyadh pharmacy,7644 Al Tirmidhi - Al Shifa Dist.,Al Shifa ,24.5662031880001,46.7031021650002,10100003061
+271,ar riyadh pharmacy,3063 Al Tirmidhi - Badr Dist.,Badr ,24.5584107760002,46.7109581340001,10100003164
+272,ar riyadh pharmacy 2,2846 sadir - Al Suwaidi Dist.,Al Suwaidi ,24.5800900500001,46.6660508780001,10100003018
+273,arak pharmacy,6613 al ulaya - Al Olaya Dist.,Al Olaya ,24.6855783870001,46.6895789100001,10100003075
+274,arak pharmacy,2500 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6905723780002,46.6888417230002,10100003075
+275,arak pharmacy,3697 prince nawaf ibn abdulaziz - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.688332057,46.6462913810001,10100003012
+276,arak pharmacy,2527 al imam faisal ibn turki ibn abdullah - Al Dirah Dist.,Al Dirah ,24.6377735330001,46.7073894540001,10100003007
+277,arak pharmacy,3686 al imam turki ibn abdullah ibn muhammad - Olaishah Dist.,Olaishah ,24.629963418,46.6916012840001,10100003053
+278,arak pharmacy,6537 Ayshah Bin Abi Bakr - Al Suwaidi Dist.,Al Suwaidi ,24.5862107260002,46.6547019740001,10100003018
+279,arak pharmacy,7470 Al Tirmidhi - Al Shifa Dist.,Al Shifa ,24.564553512,46.7044577950001,10100003061
+280,arak pharmacy,6626 Maray Al Qibtiyyah - West Oraija Dist.,West Oraija ,24.5895042940002,46.5914347800001,10100003126
+281,arak pharmacy,8820 Hamzah Bin Abdulmuttaleb - West Suwaidi Dist.,West Suwaidi ,24.5836059340001,46.6275447550001,10100003057
+282,ard alhakim pharmacy,7607 al qubbah - Ishbiliyah Dist.,Ishbiliyah ,24.7908122847776,46.7765531211101,10100003137
+283,ardh alhakeem pharmacy,8267 buraiydah - Al Rayan Dist.,Al Rayan ,24.714882464144,46.7860329353844,10100003090
+284,areej almadayin pharmacy,2487 al malik abdullah ibn abdulaziz rd - Al Rahmaniyah Dist.,Al Rahmaniyah ,24.7219921139783,46.6514961301308,10100003013
+285,arqa pharmacy,2643 al imam saud ibn abdulaziz branch rd - Al Nuzha Dist.,Al Nuzha ,24.7633039815082,46.7008882058041,10100003025
+286,as sahha pharmacy,2600 samahat ash shaikh abdul aziz ibn baz - Al Badeah Dist.,Al Badeah ,24.6211133300002,46.6808339040001,10100003071
+287,as saleh pharmacy,7104 prince abdulaziz ibn musaid ibn jalawi - Al Olaya Dist.,Al Olaya ,24.6897916350002,46.7001300170001,10100003075
+288,as saqaf pharmacy,7104 prince abdulaziz ibn musaid ibn jalawi - Al Olaya Dist.,Al Olaya ,24.690156729,46.7003095470001,10100003075
+289,as saqaf pharmacy,6909 prince abdulaziz ibn musaid ibn jalawi - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.6915241830002,46.7015601790002,10100003063
+290,as saqaf pharmacy,7969 umm al hamam - East Umm Al Hamam Dist.,East Umm Al Hamam ,24.6923213100001,46.6505530910001,10100003008
+291,as saqaf pharmacy,7260 al abbas al ghanawi - Al Shumaisi Dist.,Al Shumaisi ,24.624076668,46.6954952110001,10100003113
+292,as saqaf pharmacy,3436 as suwaidi al am - Sultanah Dist.,Sultanah ,24.597688652,46.6840794350001,10100003069
+293,as saqaf pharmacy,6262 ibn taimiah rd - Al Shifa Dist.,Al Shifa ,24.5536858750001,46.7000625560001,10100003061
+294,as saqaf pharmacy,6815 al khalifah al mamun - Badr Dist.,Badr ,24.5502607400001,46.711387173,10100003164
+295,as saqaf pharmacy,2906 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5790018060002,46.5648277310002,10100003102
+296,as saqaf pharmacy,4409 Khadeejah Bint Khuwaylid - Tuwaiq Dist.,Tuwaiq ,24.5856480680001,46.5535491220002,10100003102
+297,as sohim pharmacy,3731 Khadeejah Bint Khuwaylid - Tuwaiq Dist.,Tuwaiq ,24.5861512600002,46.5468459600001,10100003102
+298,as sudays pharmacy,2862 southern ring branch rd - Shubra Dist.,Shubra ,24.571249274,46.6658510100001,10100003066
+299,as suhaim pharmacy,3608 al amir musaid ibn abdul rahman ibn faisal rd - West Oraija Dist.,West Oraija ,24.5914099740001,46.6108989150002,10100003126
+300,as suhaim pharmacy,3644 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5784323000001,46.5721049840001,10100003102
+301,asawer as saha pharmacy,4322 dirab branch road - Namar Dist.,Namar ,24.5745945530001,46.6946733500001,10100003060
+302,ash shafi pharmacy,2469 dirab branch rd - Al Shifa Dist.,Al Shifa ,24.5777340260001,46.700556067,10100003061
+303,asir pharmacy,5299 asir - Al Jarradiyah Dist.,Al Jarradiyah ,24.617602495,46.7027855270001,10100003003
+304,astar pharmacy,2863 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5934384720001,46.632859717,10100003091
+305,astra pharmacy 11,6649 Ayshah Bin Abi Bakr - Shubra Dist.,Shubra ,24.575784927,46.6623814980001,10100003066
+306,at tuwaijri pharmacy,2956 samahat ash shaikh abdul aziz ibn baz - Al Badeah Dist.,Al Badeah ,24.6232612100001,46.6843784170002,10100003071
+307,atlas al sharq pharmacy,7137 al ihsa - Al Malaz Dist.,Al Malaz ,24.6709988161272,46.7370100747602,10100003051
+308,atlas pharmacy,8082 abdul rahman ibn awf rd - Al Salam Dist.,Al Salam ,24.7116034472859,46.8189579622067,10100003078
+309,atlas pharmacy,6857 abi bakr as siddiq branch - Al Nuzha Dist.,Al Nuzha ,24.7520377936577,46.6996658620233,10100003025
+310,atlas pharmacy,4342 al imam saud ibn abdul aziz rd - Al Taawun Dist.,Al Taawun ,24.7676621626287,46.7094361517783,10100003085
+311,atlas pharmacy,3697 prince nawaf ibn abdulaziz - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6883505530001,46.64661648,10100003012
+312,atlas pharmacy,6521 Ayshah Bin Abi Bakr - Al Suwaidi Dist.,Al Suwaidi ,24.586083883,46.6548598530001,10100003018
+313,atlas pharmacy,4298 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5972286800001,46.6376296320001,10100003091
+314,atlas pharmacy,2539 AL Khaleel Bin Ahmad - Al Marwah Dist.,Al Marwah ,24.555296496,46.675820292,10100003064
+315,atlas pharmacy,2083 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5790537310001,46.5567518500001,10100003102
+316,atlas pharmacy,3547 Khadeejah Bint Khuwaylid - Tuwaiq Dist.,Tuwaiq ,24.5863187550001,46.5448369000001,10100003102
+317,Atlas Pharmacy(Delivery),6554 Kaab Bin Zuhair - Al Suwaidi Dist.,Al Suwaidi ,24.5861601,46.6654519000001,10100003018
+318,Atlas Pharmacy(Delivery),2761 umar ibn abdul aziz branch rd - Al Rabwah Dist.,Al Rabwah ,24.6904751000001,46.761875,10100003047
+319,aziz pharmacy,7736 al qubbah - Ishbiliyah Dist.,Ishbiliyah ,24.7920507942312,46.7751818575611,10100003137
+320,badr al kubra pharmacy,3342 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6854625820002,46.6766440260001,10100003075
+321,balsharaf pharmacy,6516 al amir abdullah ibn abdul rahman ibn faisal - Utayqah Dist.,Utayqah ,24.6093138500001,46.710349068,10100003020
+322,balsharaf pharmacy,3180 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5904143940002,46.6265003880001,10100003091
+323,صيدلية بركة الدواء,6905 abdullah ibn markhan - Qurtubah Dist.,Qurtubah ,24.808307571258,46.7460345759268,10100003101
+324,basmah alaaileh pharmacy,3201 al amir saud ibn abdul aziz al saud al kabir - Al Quds Dist.,Al Quds ,24.7558902307854,46.7506999129397,10100003081
+325,basmat al lulu pharmacy,7300 abdullah ibn sulaiman al hamadan - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.708124341,46.6898305450001,10100003063
+326,bayt as saha pharmacy,3838 Abdulmalek Bin Hesham - Al Suwaidi Dist.,Al Suwaidi ,24.5863753880001,46.6761457310002,10100003018
+327,bayt as saha pharmacy,7271 Ayshah Bin Abi Bakr - Al Suwaidi Dist.,Al Suwaidi ,24.5813321720001,46.65837005,10100003018
+328,bayt as saha pharmacy,3569 ibn saban - Middle Oraija Dist.,Middle Oraija ,24.607291892,46.6304097140001,10100003128
+329,bayt as saha pharmacy,7920 badi az zaman al hamadhani - Al Zahrah Dist.,Al Zahrah ,24.5784101090002,46.6485211690002,10100003067
+330,bayt as saha pharmacy 4,5232 al imam abi hanifah - Middle Oraija Dist.,Middle Oraija ,24.6132827430002,46.6341059900002,10100003128
+331,bilad aleafia pharmacy,7308 King Abdulaziz - Al Muruj Dist.,Al Muruj ,24.7575841548577,46.6740912745083,10100003110
+332,bismah family pharmacy,6662 dhabiyat bint al barra - Al Maseef Dist.,Al Maseef ,24.759344044791,46.6855589909566,10100003084
+333,biut almdaayin pharmacy,8282 an najah - Ishbiliyah Dist.,Ishbiliyah ,24.8019489891196,46.8039877321831,10100003137
+334,boon pharmacy,2219 king abdullah ibn abdul aziz rd - King Faisal Dist.,King Faisal ,24.7682016804348,46.7613618488458,10100003027
+335,boots pharmacy,7454 eastern ring branch rd - Al Rabwah Dist.,Al Rabwah ,24.6850968005755,46.7756699375836,10100003047
+336,boots pharmacy,6623  - Al Shohda Dist.,Al Shohda ,24.7807957202327,46.7303554746631,10100003016
+337,Boots Pharmacy,3980 kharis branch rd - Al Rawdah Dist.,Al Rawdah ,24.7235480973482,46.7750056602395,10100003088
+338,boots pharmacy,2754 al haseer - Al Malqa Dist.,Al Malqa ,24.7928308418163,46.6120572190992,10100003145
+339,boots pharmacy,7252 King Abdulaziz - King Fahd Dist.,King Fahd ,24.739599179176,46.6821415518859,10100003017
+340,boots pharmacy,7349 Othman Bin Affan - Al Nada Dist.,Al Nada ,24.8063311749795,46.6926368699069,10100003023
+341,capital pharmacy,6513 Hamzah Bin Abdulmuttaleb - Middle Oraija Dist.,Middle Oraija ,24.59317621,46.621284684,10100003128
+342,Care Pharmacy(Delivery),7170 prince abdulaziz ibn musaid ibn jalawi - Al Olaya Dist.,Al Olaya ,24.690598,46.7004930000001,10100003075
+343,charisma pharmacy,6891 King Abdulaziz - Al Rabie Dist.,Al Rabie ,24.7945551481916,46.6563950653435,10100003104
+344,college of pharmacy,3126  - King Saud University,King Saud University,24.7157851936752,46.621868075734,10100003166
+345,cure drop pharmacy,8192 Hamzah Bin Abdulmuttaleb - West Suwaidi Dist.,West Suwaidi ,24.580286302,46.6300542780002,10100003057
+346,daan pharmacy,6725 al muhandis masaid al anqari - Al Woroud Dist.,Al Woroud ,24.7199061056871,46.6804018613281,10100003026
+347,daan pharmacy,6105 as sahabah - Ishbiliyah Dist.,Ishbiliyah ,24.7824043672616,46.7930160834261,10100003137
+348,dan al nahdi pharmacy,3897 al imam saud ibn abdul aziz rd - Al Muhammadiyah Dist.,Al Muhammadiyah ,24.7430149772907,46.6528125975403,10100003062
+349,dan city pharmacy,3600 muhammad ibn abdullah al burqi - Al Munisiyah Dist.,Al Munisiyah ,24.8219235341133,46.7653901221248,10100003140
+350,dan glory pharmacy,3653 Al Zubair Bin Al Awwam - Al Rawabi Dist.,Al Rawabi ,24.6936309754132,46.7896950756114,10100003089
+351,dan pharmacy,3324 mohammed rasheed rda - Al Aziziyah Dist.,Al Aziziyah ,24.5837134803639,46.7597140422639,10100003029
+352,dar al arab medical center and pharmacy,8520 prince abdulaziz ibn musaid ibn jalawi - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7029565870002,46.7052598830001,10100003063
+353,dar al ilaj pharmacy,6329 Ayshah Bin Abi Bakr - Al Suwaidi Dist.,Al Suwaidi ,24.5843373370001,46.6561399850002,10100003018
+354,dar al ilaj polyclinic and pharmacy,6353 Ayshah Bin Abi Bakr - Al Suwaidi Dist.,Al Suwaidi ,24.584567787,46.6559687430002,10100003018
+355,dar pharmacy,3851 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.599503166,46.6426986260001,10100003091
+356,dawaa alsafwah pharmacy,7349 ibn rashiq - King Faisal Dist.,King Faisal ,24.7590637082997,46.7776206456416,10100003027
+357,dawaak pharmacy,4706 umar ibn abdul aziz branch rd - Al Rabwah Dist.,Al Rabwah ,24.6871800314046,46.7499074829906,10100003047
+358,dawaie pharmacy,3491 al imam faisal ibn turki ibn abdullah - Olaishah Dist.,Olaishah ,24.6366405140001,46.6897640300002,10100003053
+359,dean of health pharmacy,3183 Al Zubair Bin Al Awwam - Al Rawabi Dist.,Al Rawabi ,24.690717569415,46.7850155338493,10100003089
+361,dib ad dawa pharmacy,8031 al ajaliyah - Umm Saleem Dist.,Umm Saleem ,24.6309225680002,46.6981683640001,10100003122
+362,dosage pharmacy,6870 al amir abdul rahman ibn abdul aziz - Al Murabba Dist.,Al Murabba ,24.672624666,46.70846598,10100003021
+363,dr. sulaiman alhabib pharmacy in arryan,3319 kharis branch rd - Al Rayan Dist.,Al Rayan ,24.7203693912536,46.775080960266,10100003090
+364,drug central pharmacy,7298 prince salman ibn muhammad al saud - Al Sahafah Dist.,Al Sahafah ,24.8054456780525,46.6406135368845,10100003123
+365,drug pharmacy shaf,7641 al amir abdullah bin saud bin abdullah snaytan al  - Al Sahafah Dist.,Al Sahafah ,24.8084304065202,46.6370165795894,10100003123
+366,shafi pharmacy,3426 ibn sina - Al Muruj Dist.,Al Muruj ,24.757645623034,46.66459325816,10100003110
+367,motrouk pharmacy,8247 abi bakr as siddiq - Al Wahah Dist.,Al Wahah ,24.7409186710221,46.7052183119393,10100003042
+368,xeer pharmacy 4,2732 al amir sultan ibn abdul aziz - North Mathar Dist.,North Mathar ,24.682825145,46.6705114960001,10100003011
+369,xeer pharmacy 5,3075 Mousa Bin Naseer - Al Olaya Dist.,Al Olaya ,24.7053092800001,46.68561864,10100003075
+370,faisal pharmacy,4469 Hamzah Bin Abdulmuttaleb - West Oraija Dist.,West Oraija ,24.6105793890002,46.607581354,10100003126
+371,faisal pharmacy,4814 Ibn Hazm - West Oraija Dist.,West Oraija ,24.5986588050001,46.5889618100001,10100003126
+372,family pharmacy,7774 prince abdulaziz ibn musaid ibn jalawi - Al Olaya Dist.,Al Olaya ,24.6959954380002,46.7026431720001,10100003075
+373,"""family's smile pharmacy""",3419 al imam abdullah ibn saud ibn abdulaziz rd - Ishbiliyah Dist.,Ishbiliyah ,24.8042939923857,46.7983225151964,10100003137
+374,farabi pharmacy 5,3356 makkah al mukarramah branch rd - North Mathar Dist.,North Mathar ,24.6763190720002,46.6756593910001,10100003011
+375,fawz pharmacy,4024 Belal Bin Rabah - West Oraija Dist.,West Oraija ,24.5844638150001,46.5960021870001,10100003126
+376,found medicine pharmacy,2405 arfat rd - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5629901782444,46.7620592862512,10100003130
+377,ghadaf pharmacy,7186  - Al Arid Dist.,Al Arid ,24.8618276379631,46.6434588743285,10100003148
+378,ghadawi pharmacy,4017 al imam faisal ibn turki ibn abdullah - Umm Saleem Dist.,Umm Saleem ,24.6369904380001,46.695115134,10100003122
+379,Green Pharmacy(Delivery),7053 urwah bin al ward - Al Muruj Dist.,Al Muruj ,24.7552894000001,46.6686073000001,10100003110
+380,Green Pharmacy(Delivery),2241 Khadeejah Bint Khuwaylid - West Oraija Dist.,West Oraija ,24.5922975000001,46.5973262000001,10100003126
+381,Green Pharmacy(Delivery),4011 al imam muhammad ismail as sanfani - Al Khaleej Dist.,Al Khaleej ,24.7808165000001,46.815131,10100003055
+382,Green Pharmacy(Delivery),8740 Ibn Al Haytahm - Al Khaleej Dist.,Al Khaleej ,24.7919014390001,46.8126407500001,10100003055
+383,Green Pharmacy(Delivery),7187 al qadisiya - Al Yasmeen Dist.,Al Yasmeen ,24.8295784000001,46.6507360000001,10100003147
+384,Green Pharmacy(Delivery),8188 Al Imam Al Shafie - Al Fayha Dist.,Al Fayha ,24.6877043,46.8121554000001,10100003133
+385,Green Pharmacy(Delivery),4194 nahawnd - Al Aziziyah Dist.,Al Aziziyah ,24.5706576000001,46.768037,10100003029
+386,Green Pharmacy(Delivery),8172 al itidal - Badr Dist.,Badr ,24.5477218,46.7307363,10100003164
+387,Green Pharmacy(Delivery),2080 Al Imam Muslem - Badr Dist.,Badr ,24.53916,46.6891737,10100003164
+388,Green Pharmacy(Delivery),2581 najmuddin al ayubi - Tuwaiq Dist.,Tuwaiq ,24.5553673000001,46.5271017000002,10100003102
+389,greens pharmacy,7045 Hassan Bin Thabit - East Naseem Dist.,East Naseem ,24.7226432198999,46.8415009086906,10100003080
+390,greens pharmacy,8450 ibn majah - Al Fayha Dist.,Al Fayha ,24.6899390209505,46.8197115678406,10100003133
+391,habbar veterinary pharmacy,7827 salam - Al Dubiyah Dist.,Al Dubiyah ,24.62104751,46.7107450510002,10100003116
+392,Habib Pharmacy(Delivery),8807 King Fahd - Al Olaya Dist.,Al Olaya ,24.7043707,46.676733,10100003075
+393,Habib Pharmacy(Delivery),7604 at takhassusi - Al Rahmaniyah Dist.,Al Rahmaniyah ,24.7194988000001,46.6572967000002,10100003013
+394,Habib Pharmacy(Delivery),6695  - Al Zahrah Dist.,Al Zahrah ,24.5670906000001,46.6407890000002,10100003067
+395,Habib Pharmacy(Delivery),3319 kharis branch rd - Al Rayan Dist.,Al Rayan ,24.7216648000001,46.7740537000001,10100003090
+396,hamad pharmacy,7449 al amir matab ibn abdul aziz - Al Rabwah Dist.,Al Rabwah ,24.685863581887,46.7665846795737,10100003047
+397,hamoudi pharmacy,9036 al amir abdullah ibn jalawi ibn turki - Al Murabba Dist.,Al Murabba ,24.6502965650001,46.7059848670002,10100003021
+398,haneen pharmacy,8756 al ulaya - Al Olaya Dist.,Al Olaya ,24.6753749760001,46.6940733410001,10100003075
+399,hayy badr pharmacy,6942 al khalifah al mamun - Badr Dist.,Badr ,24.5514005580001,46.71142462,10100003164
+400,Health Balsam Pharmacy(Delivery),7485 Ibn Hazm - West Oraija Dist.,West Oraija ,24.6045899000001,46.5957614000001,10100003126
+401,Health Balsam Pharmacy(Delivery),7961 al hakam al mustansir billah - Al Nahdah Dist.,Al Nahdah ,24.7575978830002,46.8017173730001,10100003054
+402,Health Balsam Pharmacy(Delivery),8674 Ibn Al Haytahm - Al Nahdah Dist.,Al Nahdah ,24.7745812000001,46.8255869000001,10100003054
+403,Health Balsam Pharmacy(Delivery),3270 as sail al kabir - Al Ghadeer Dist.,Al Ghadeer ,24.7721303000001,46.6514035000002,10100003109
+404,Health Brightness Pharmacy(Delivery),2595 Khadeejah Bint Khuwaylid - West Oraija Dist.,West Oraija ,24.5944622,46.6009157000001,10100003126
+405,Health Brightness Pharmacy(Delivery),3069 ad dammam branch rd - Al Shohda Dist.,Al Shohda ,24.7963728000001,46.7329281,10100003016
+406,Health Brightness Pharmacy(Delivery),6783 Saeed Bin Zayd - Qurtubah Dist.,Qurtubah ,24.8071189000001,46.7374277000002,10100003101
+407,Health Brightness Pharmacy(Delivery),5146 Sufyan Bin Awf - Al Aziziyah Dist.,Al Aziziyah ,24.5859214000002,46.7776864000002,10100003029
+408,health fayhaa pharmacy,6803 ibn majah - Al Saadah Dist.,Al Saadah ,24.6848933497028,46.8233626798459,10100003036
+409,health house pharmacy,3525 Al-Hussain Bin Ali - Al Taawun Dist.,Al Taawun ,24.7739552536988,46.7011377090992,10100003085
+410,health house pharmacy,3948 as suwaidi al am - Sultanah Dist.,Sultanah ,24.5986498600001,46.6891067640001,10100003069
+411,health house pharmacy,5218 al imam abi hanifah - Middle Oraija Dist.,Middle Oraija ,24.613160441,46.6339674040001,10100003128
+412,health house pharmacy,3047 Sufyan Bin Awf - Al Aziziyah Dist.,Al Aziziyah ,24.5888573822699,46.7852081154272,10100003029
+413,Health House Pharmacy(Delivery),2823 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6913207000001,46.6918519000001,10100003075
+414,Health House Pharmacy(Delivery),7517 Mousa Bin Oqbah - Al Olaya Dist.,Al Olaya ,24.7013829000001,46.6744848000002,10100003075
+415,Health House Pharmacy(Delivery),6605 tabuk - Al Ezdihar Dist.,Al Ezdihar ,24.7739904000002,46.7223605000001,10100003086
+416,Health House Pharmacy(Delivery),8364  - Al Salhiyah Dist.,Al Salhiyah ,24.6322274000001,46.7379675000001,10100003050
+417,Health House Pharmacy(Delivery),3116 samahat ash shaikh abdul aziz ibn baz - Al Badeah Dist.,Al Badeah ,24.6242103750002,46.6861917910001,10100003071
+418,Health House Pharmacy(Delivery),4241 as suwaidi al am - Al Suwaidi Dist.,Al Suwaidi ,24.5948971650001,46.680352638,10100003018
+419,Health House Pharmacy(Delivery),2910 sadir - Al Suwaidi Dist.,Al Suwaidi ,24.5806558810002,46.6670316410002,10100003018
+420,Health House Pharmacy(Delivery),4039 umar ibn abdul aziz rd - Jareer Dist.,Jareer ,24.6854814220001,46.7466702180002,10100003048
+421,Health House Pharmacy(Delivery),3453 abi saad al baghdadi - Al Aziziyah Dist.,Al Aziziyah ,24.5870804700002,46.7890043370001,10100003029
+422,Health House Pharmacy(Delivery),2965 Sufyan Bin Awf - Al Aziziyah Dist.,Al Aziziyah ,24.5884394000001,46.7842916000001,10100003029
+423,Health House Pharmacy(Delivery),3101 mudrak ibn husn - Al Shifa Dist.,Al Shifa ,24.5709375000001,46.6927649000001,10100003061
+424,health kingdom pharmacy,4457 al bayan - Al Fayha Dist.,Al Fayha ,24.6834434370363,46.8202328637434,10100003133
+425,health kingdom pharmacy,3015 ibn hejr - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5585274443855,46.7817178484459,10100003130
+426,Health Kingdom Pharmacy(Delivery),3512 prince mamduh ibn abdulaziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7096412000002,46.6902449000002,10100003063
+427,Health Kingdom Pharmacy(Delivery),7157 Salem Bin Maaqil - Al Nakheel Dist.,Al Nakheel ,24.7340776,46.6113545000001,10100003108
+428,Health Kingdom Pharmacy(Delivery),8670 Othman Bin Affan - Al Wahah Dist.,Al Wahah ,24.744449,46.7243761000001,10100003042
+429,Health Kingdom Pharmacy(Delivery),3794 as suwaidi al am - Sultanah Dist.,Sultanah ,24.5984692000001,46.6876614000001,10100003069
+430,Health Kingdom Pharmacy(Delivery),2099 umar ibn abdul aziz rd - Al Malaz Dist.,Al Malaz ,24.6787836390001,46.7274775400001,10100003051
+431,Health Kingdom Pharmacy(Delivery),3259 ibadah ibn as samit - Al Rawdah Dist.,Al Rawdah ,24.7326271000001,46.7678862000002,10100003088
+432,Health Kingdom Pharmacy(Delivery),4372 al amir saud ibn abdul aziz al saud al kabir - Al Quds Dist.,Al Quds ,24.7623769940001,46.7623758460001,10100003081
+433,Health Kingdom Pharmacy(Delivery),6675 abdulrahman an nasir - Al Nahdah Dist.,Al Nahdah ,24.7460600000001,46.7985042000001,10100003054
+434,Health Kingdom Pharmacy(Delivery),2819 anas ibn malik - Al Sahafah Dist.,Al Sahafah ,24.8132175000001,46.6304119000001,10100003123
+435,hind pharmacy,8289 umm al hamam - East Umm Al Hamam Dist.,East Umm Al Hamam ,24.6950714240001,46.6500473520001,10100003008
+436,horizon pharmacy,6487 al amir abdullah ibn abdul rahman ibn faisal - Manfuha Al Jadidah Dist.,Manfuha Al Jadidah ,24.6090317790002,46.7107856610002,10100003005
+437,house health pharmacy,4328 muhammad al maqdimi - Al Ghadeer Dist.,Al Ghadeer ,24.7783011794896,46.6620472726794,10100003109
+438,house health pharmacy,7633 King Abdulaziz - Al Nafel Dist.,Al Nafel ,24.7845685612506,46.6614998864771,10100003083
+439,bn al juzy pharmacy,4556 al imam turki ibn abdullah ibn muhammad - Umm Saleem Dist.,Umm Saleem ,24.6307208330001,46.7003007580001,10100003122
+440,bn al mundhir pharmacy,7566 adh dhahirah - Al Dirah Dist.,Al Dirah ,24.636938136,46.7103091500001,10100003007
+441,bn al mundhir pharmacy 2,6715 ash shaikh abdul rahman ibn hasan - Al Wizarat Dist.,Al Wizarat ,24.6711734050002,46.712078385,10100003045
+442,Ibn Al-Hakeem Pharmacy(Delivery),3019 abdulrahman al ghafaqi rd - Al Rawdah Dist.,Al Rawdah ,24.7460461000002,46.7588776000002,10100003088
+443,bn an nafees pharmacy,4542 prince muhammad ibn abdulaziz rd - Al Olaya Dist.,Al Olaya ,24.6947514130002,46.6787395470001,10100003075
+444,bn ash shaik pharmacy,7932 Ayshah Bin Abi Bakr - Al Zahrah Dist.,Al Zahrah ,24.5783586010002,46.6597719880002,10100003067
+445,bn talib pharmacy,7447 salam - Al Dubiyah Dist.,Al Dubiyah ,24.6176417000001,46.71033847,10100003116
+446,braheem al aseedi pharmacy,2634 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5778627090002,46.5820160580001,10100003102
+447,braheem pharmacy,4016 Belal Bin Rabah - Tuwaiq Dist.,Tuwaiq ,24.5801613170001,46.5495437260002,10100003102
+448,brahim pharmacy,6797 al amir matab ibn abdul aziz - Al Rabwah Dist.,Al Rabwah ,24.6954972655382,46.7627142293721,10100003047
+449,aj pharmacy,7557 Ayshah Bin Abi Bakr - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5955078310001,46.647924633,10100003091
+450,aj pharmacy,4050 ash shaikh abdul aziz ibn muhammad ibn ali - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5895389750001,46.6445338500001,10100003091
+451,Innova Pharmacy(Delivery),2526 abi ayub al ansari - Thulaim Dist.,Thulaim ,24.6381994000001,46.7202164,10100003112
+452,Innova Pharmacy(Delivery),4586 as sibalah - Al Shumaisi Dist.,Al Shumaisi ,24.6247116190001,46.7004765360001,10100003113
+453,Innova Pharmacy(Delivery),2213 ad dammam rd - Al Yarmuk Dist.,Al Yarmuk ,24.8155973,46.7782281,10100003139
+454,Innova Pharmacy(Delivery),3721 wadi ad dawasir - Al Qadisiyah Dist.,Al Qadisiyah ,24.8189691000001,46.8112495,10100003073
+455,Innova Pharmacy(Delivery),6669 wadi as sarh - Al Wadi Dist.,Al Wadi ,24.7833086000001,46.6958293000002,10100003082
+456,Innova Pharmacy(Delivery),6527 Othman Bin Affan - Al Falah Dist.,Al Falah ,24.7897143000002,46.7025912000001,10100003022
+457,Innova Pharmacy(Delivery),4255 Unayzah - Dhahrat Laban Dist.,hahrat Laban ,24.6280630000002,46.5663705000001,10100003143
+458,Innova Pharmacy(Delivery),2157 abu ubaydah amir ibn al jarrah - Al Sulay Dist.,Al Sulay ,24.6681633000001,46.8077371000001,10100003106
+459,Innova Pharmacy(Delivery),4885 abdullah ibn faryan - Al Sulay Dist.,Al Sulay ,24.6795424000001,46.8558677000001,10100003106
+460,pharma pharmacy,6949 King Abdulaziz - Al Nafel Dist.,Al Nafel ,24.7784543145095,46.6646147031713,10100003083
+461,ssam pharmacy,8141 al ajaliyah - Umm Saleem Dist.,Umm Saleem ,24.6320344340002,46.6984869330001,10100003122
+462,jazea pharmacy,3416 as sail al kabir - Al Ghadeer Dist.,Al Ghadeer ,24.7725604125516,46.6528702467873,10100003109
+463,joud pharmacy,3989 hajar valley - Al Malqa Dist.,Al Malqa ,24.8161742614193,46.6157621429061,10100003145
+464,kanooz alsaha pharmacy,2910 king abdullah ibn abdul aziz rd - Al Mughrazat Dist.,Al Mughrazat ,24.7526911315041,46.7220685522133,10100003105
+465,kanuz alsshh pharmacy,6221 king abdul aziz branch rd - Al Yasmeen Dist.,Al Yasmeen ,24.8046178031806,46.6514629618371,10100003147
+466,kassibah pharmacy,6189 Al Tirmidhi - Al Shifa Dist.,Al Shifa ,24.563292257,46.7059994140002,10100003061
+467,kenouz health pharmacy,3935 an nasr branch rd - Al Aziziyah Dist.,Al Aziziyah ,24.5888343183972,46.765652938988,10100003029
+468,khalid pharmacy,4477 King Abdulaziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7127138830002,46.6996464050001,10100003063
+469,kingdom of medicine pharmacy,4181 nahawnd - Al Aziziyah Dist.,Al Aziziyah ,24.5699309470269,46.767920374599,10100003029
+470,kingdom pharmacy,4093 hafsa bint umar - Al Rawdah Dist.,Al Rawdah ,24.7337211891708,46.776012615154,10100003088
+471,knouz health pharmacy,3902 king abdullah ibn abdulaziz rd - Al Muhammadiyah Dist.,Al Muhammadiyah ,24.7233208840483,46.652292021326,10100003062
+472,konoz pharmacy,7974 Salman Al Farsi - Al Khaleej Dist.,Al Khaleej ,24.7743269036893,46.801494358898,10100003055
+473,kunooz aldawa pharmacy,2649 al amir bandar ibn abdul aziz - Al Andalus Dist.,Al Andalus ,24.7507150209681,46.7810181940376,10100003087
+474,kunooz pharmacy,2409 king abdullah ibn abdulaziz rd - Al Raed Dist.,Al Raed ,24.7075310050001,46.6271713680002,10100003125
+475,صيدلية كنوز,6171 Saeed Bin Zayd - Qurtubah Dist.,Qurtubah ,24.8015488796071,46.7399647389338,10100003101
+476,kunooz pharmacy,2806 Prince Mohammed Ibn Salman Ibn Abdulaziz Rd - Al Munisiyah Dist.,Al Munisiyah ,24.8249897105819,46.7506623464112,10100003140
+477,Kunooz Pharmacy,2806 Prince Mohammed Ibn Salman Ibn Abdulaziz Rd - Al Munisiyah Dist.,Al Munisiyah ,24.8249897105819,46.7506623464112,10100003140
+478,Kunooz Pharmacy(Delivery),2587 prince sultan ibn salman ibn abdulaziz - Al Woroud Dist.,Al Woroud ,24.7223793000001,46.6730481000001,10100003026
+479,Kunooz Pharmacy(Delivery),2717 prince sultan ibn salman ibn abdulaziz - Al Woroud Dist.,Al Woroud ,24.7229296000001,46.6743113000001,10100003026
+480,Kunooz Pharmacy(Delivery),3307 al amir turki ibn abdul aziz ath thani - Al Muruj Dist.,Al Muruj ,24.7584036000002,46.6637320000001,10100003110
+481,Kunooz Pharmacy(Delivery),8656 umm al hamam - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6984739000001,46.6501947,10100003012
+482,Kunooz Pharmacy(Delivery),3948 Mousa Bin Naseer - Al Olaya Dist.,Al Olaya ,24.7005362,46.6732837000001,10100003075
+483,Kunooz Pharmacy(Delivery),3094 al imam saud ibn abdul aziz rd - Al Taawun Dist.,Al Taawun ,24.7624644000001,46.6969062000001,10100003085
+484,Kunooz Pharmacy(Delivery),7423 abi bakr as siddiq - Al Taawun Dist.,Al Taawun ,24.7738131000001,46.6886970000002,10100003085
+485,Kunooz Pharmacy(Delivery),3754 king abdullah ibn abdul aziz rd - Al Mughrazat Dist.,Al Mughrazat ,24.7562874,46.7298572000001,10100003105
+486,banon pharmacy,6787 ash shaikh abdul rahman ibn hasan - Al Wizarat Dist.,Al Wizarat ,24.6718500810002,46.7120693050002,10100003045
+487,Lemon Pharmacy(Delivery),3134 al imam saud ibn abdulaziz rd - Al Muruj Dist.,Al Muruj ,24.7475198170002,46.6615113910001,10100003110
+488,Lemon Pharmacy(Delivery),3144 prince turki ibn abdulaziz ath thani - Al Muruj Dist.,Al Muruj ,24.758365536,46.6618282940001,10100003110
+489,Lemon Pharmacy(Delivery),7389 at takhassusi - Al Olaya Dist.,Al Olaya ,24.7003045110001,46.6679702500001,10100003075
+490,Lemon Pharmacy(Delivery),2487 al malik abdullah ibn abdulaziz rd - Al Rahmaniyah Dist.,Al Rahmaniyah ,24.7219496000002,46.6513989000002,10100003013
+491,Lemon Pharmacy(Delivery),7300 al farzdaq - Al Malaz Dist.,Al Malaz ,24.664945,46.7237505000001,10100003051
+492,Lemon Pharmacy(Delivery),3471 al imam faisal ibn turki ibn abdullah - Al Dirah Dist.,Al Dirah ,24.6378330000001,46.7166715000002,10100003007
+493,Lemon Pharmacy(Delivery),7775 muin ibn zaidah - Al Mansurah Dist.,Al Mansurah ,24.614610856,46.747368506,10100003030
+494,Lemon Pharmacy(Delivery),2223 al amir bandar ibn abdul aziz - Al Andalus Dist.,Al Andalus ,24.7481472000001,46.7767187000001,10100003087
+495,Lemon Pharmacy(Delivery),7970 Al Sulayil - Al Khaleej Dist.,Al Khaleej ,24.7851679000001,46.8057832000002,10100003055
+496,Lemon Pharmacy(Delivery),9164 Al Imam Al Shafie - Al Rayan Dist.,Al Rayan ,24.7231235000002,46.7865785000001,10100003090
+497,Lemon Pharmacy(Delivery),3585 Al Morooj - Badr Dist.,Badr ,24.5641453000002,46.7161738,10100003164
+498,fe pharmacy,2800 prince saad ibn abdulrahman al awal rd - Al Rawabi Dist.,Al Rawabi ,24.6811678345591,46.7812446577977,10100003089
+499,"""ma'alem al dawa pharmacy""",2709 al imam turki ibn abdullah ibn muhammad - Al Dirah Dist.,Al Dirah ,24.6311841240001,46.7086062670002,10100003007
+500,malak pharmacy,6372 Unayzah - Al Rayan Dist.,Al Rayan ,24.6980479868772,46.7812318063704,10100003090
+501,"""mamlakat alddawa' pharmacy""",2939 prince faysal abdullah ibn abdulrahman - Hitteen Dist.,Hitteen ,24.7687568556876,46.5815841603452,10100003144
+502,manar al asimah pharmacy,3211 al amir mansur ibn abdul aziz - Al Wizarat Dist.,Al Wizarat ,24.6741570460002,46.7115589920001,10100003045
+503,manarat elelaj pharmacy,5112 prince saad ibn abdulrahman al awal rd - West Naseem Dist.,West Naseem ,24.712346090354,46.8460428936352,10100003167
+504,manif veterinary pharmacy,7827 salam - Al Dubiyah Dist.,Al Dubiyah ,24.6211228260001,46.7107579980001,10100003116
+505,mansur al majed pharmacy,2210 muawiyah ibn abi sufyan - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5987459790002,46.645727945,10100003091
+506,mazen pharmacy,8877 al ulaya - Al Olaya Dist.,Al Olaya ,24.6763136710002,46.69421965,10100003075
+507,medi care pharmacy,7782 jabal tuwaiq - Shubra Dist.,Shubra ,24.5857755090001,46.6804904580001,10100003066
+508,medical care pharmacy,7745 ash shaikh muhammad ibn abdul latif ibn abdul rahm - Al Duraihemiyah Dist.,Al Duraihemiyah ,24.5853360570002,46.6858801800001,10100003076
+509,medical care pharmacy,3195 al amir musaid ibn abdul rahman ibn faisal rd - West Oraija Dist.,West Oraija ,24.5882412720001,46.6067214660001,10100003126
+510,medical family pharmacy,6667 ash shaikh abdul rahman ibn hasan - Al Wizarat Dist.,Al Wizarat ,24.6707850860001,46.7120665840002,10100003045
+511,medicament basket pharmacy,8711 King Fahd - Al Olaya Dist.,Al Olaya ,24.7033977750001,46.677166658,10100003075
+512,medicament house pharmacy,7163 at takhassusi - Al Olaya Dist.,Al Olaya ,24.6983630890001,46.6690776770002,10100003075
+513,medicament oasis pharmacy,2395 abi bakr ar razi - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.6923277180001,46.7029397810001,10100003063
+514,medicament pharmacy,4206 al imam muhammad ibn saud ibn muqrin - Al Shumaisi Dist.,Al Shumaisi ,24.6279635600001,46.6969115370001,10100003113
+515,medicament pharmacy 2,4548 as sibalah - Al Shumaisi Dist.,Al Shumaisi ,24.6247170470002,46.7003469330002,10100003113
+516,medicament pharmacy 3,4908 al ris - Al Shumaisi Dist.,Al Shumaisi ,24.6219642710001,46.7036842000001,10100003113
+517,mehan pharmacy,6889 al amir abdullah ibn abdul rahman ibn faisal - Al Yamamah Dist.,Al Yamamah ,24.5932655520002,46.7118677600001,10100003070
+518,mehan pharmacy 4,7500 al amir abdullah ibn abdul rahman ibn faisal - Utayqah Dist.,Utayqah ,24.598754969,46.7110923660001,10100003020
+519,midan al andalus pharmacy,4728 southern ring branch rd - Shubra Dist.,Shubra ,24.5682921750002,46.6567438240001,10100003066
+520,midan al andalus pharmacy,3404 weastern ring branch rd - West Suwaidi Dist.,West Suwaidi ,24.5695034660001,46.6187114160001,10100003057
+521,mihan pharmacy,2687 al imam faisal ibn turki ibn abdullah - Al Dirah Dist.,Al Dirah ,24.6377817080001,46.7087624100002,10100003007
+522,mihan pharmacy,7382 al amir abdullah ibn abdul rahman ibn faisal - Utayqah Dist.,Utayqah ,24.597636553,46.7111772360001,10100003020
+523,mmlakah alsahah pharmacy,7884 khalid ibn al walid - Al Shohda Dist.,Al Shohda ,24.7931432997592,46.7433567508181,10100003016
+524,modern medicine pharmacy,5150 al jawharah bint ibn muammar - Al Sharafiyah Dist.,Al Sharafiyah ,24.657311437,46.6741002540002,10100003009
+525,mohammad as saqaf pharmacy,3800 as suwaidi al am - Al Suwaidi Dist.,Al Suwaidi ,24.58375562,46.6613105040001,10100003018
+526,mohammed al   hazimi pharmacy,2341 al urubah rd - Al Olaya Dist.,Al Olaya ,24.7146535056772,46.6783026158054,10100003075
+527,صيدلية جناح الدواء,3912 muhammadali junah - Al Shohda Dist.,Al Shohda ,24.7903365939916,46.7414210605354,10100003016
+528,nabra pharmacy,6320 at takhassusi - North Mathar Dist.,North Mathar ,24.6774867970001,46.6780440520001,10100003011
+529,nahdi pharmacy,9304 king faisal - Al Murabba Dist.,Al Murabba ,24.6526610120001,46.7105038490001,10100003021
+530,nahdi pharmacy,4324 al amir bandar ibn abdul aziz - Al Khaleej Dist.,Al Khaleej ,24.7745332890159,46.8182662844555,10100003055
+531,Nahdi Pharmacy(Delivery),2581 al amir sultan ibn abdul aziz - Al Olaya Dist.,Al Olaya ,24.6904000000001,46.6895000000002,10100003075
+532,Nahdi Pharmacy(Delivery),7242 prince musaid ibn al aziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.6945418,46.7113043,10100003063
+533,Nahdi Pharmacy(Delivery),2795 al urubah rd - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7166000000001,46.6831000000001,10100003063
+534,Nahdi Pharmacy(Delivery),6725 al muhandis masaid al anqari - Al Woroud Dist.,Al Woroud ,24.7199000000001,46.6804,10100003026
+535,Nahdi Pharmacy(Delivery),3780 al fujaira - Al Woroud Dist.,Al Woroud ,24.7259875,46.6848789000001,10100003026
+536,Nahdi Pharmacy(Delivery),8198 king abdulaziz branch rd - Al Woroud Dist.,Al Woroud ,24.7333,46.6864000000002,10100003026
+537,Nahdi Pharmacy(Delivery),7459 prince ahmad ibn abdulaziz - King Fahd Dist.,King Fahd ,24.7422332000002,46.6730896,10100003017
+538,Nahdi Pharmacy(Delivery),2501 al amir turki ibn abdul aziz ath thani - Al Muruj Dist.,Al Muruj ,24.7551027000001,46.6552539000001,10100003110
+539,Nahdi Pharmacy(Delivery),7683 at takhassusi - Al Olaya Dist.,Al Olaya ,24.6899000000001,46.6732000000001,10100003075
+540,Nahdi Pharmacy(Delivery),6535 umm al hamam - East Umm Al Hamam Dist.,East Umm Al Hamam ,24.6793374550001,46.655146779,10100003008
+541,Nahdi Pharmacy(Delivery),8614 umm al hamam - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.6981000000001,46.6497000000001,10100003012
+542,Nahdi Pharmacy(Delivery),6641 at takhassusi - Al Muhammadiyah Dist.,Al Muhammadiyah ,24.7269872000001,46.6526035000002,10100003062
+543,Nahdi Pharmacy(Delivery),6343 al amir turki ibn abdul aziz (al awal) - Al Muhammadiyah Dist.,Al Muhammadiyah ,24.7236887,46.6456964000001,10100003062
+544,Nahdi Pharmacy(Delivery),7620 at takhassusi - Al Nakheel Dist.,Al Nakheel ,24.7498755000001,46.6404150000001,10100003108
+545,Nahdi Pharmacy(Delivery),3721 Saeed Bin Amer - Al Nakheel Dist.,Al Nakheel ,24.7383000000002,46.6073000000001,10100003108
+546,Nahdi Pharmacy(Delivery),8918 Othman Bin Affan - Al Wahah Dist.,Al Wahah ,24.7471094100001,46.7229154380001,10100003042
+547,Nahdi Pharmacy(Delivery),2755 ibn sina - Al Maseef Dist.,Al Maseef ,24.7619000000001,46.6758000000001,10100003084
+548,Nahdi Pharmacy(Delivery),7536 Othman Bin Affan - Al Nuzha Dist.,Al Nuzha ,24.7580000000002,46.7175,10100003025
+549,Nahdi Pharmacy(Delivery),7630 Othman Bin Affan - Al Taawun Dist.,Al Taawun ,24.7755,46.7085000000001,10100003085
+550,Nahdi Pharmacy(Delivery),2782 at taif - Dhahrat Laban Dist.,hahrat Laban ,24.6539000000001,46.5851000000001,10100003143
+551,Nahdi Pharmacy(Delivery),9430 prince abdulaziz ibn musaid ibn jalawi - Al Olaya Dist.,Al Olaya ,24.6812737140002,46.7003885960001,10100003075
+552,Nahdi Pharmacy(Delivery),4162 tuhamah - Al Dhubbat Dist.,Al Dhubbat ,24.6797000000001,46.7209000000001,10100003056
+553,Nahdi Pharmacy(Delivery),6870 al amir abdul rahman ibn abdul aziz - Al Murabba Dist.,Al Murabba ,24.6726192000001,46.708488,10100003021
+554,Nahdi Pharmacy(Delivery),7572 al batha - Manfuha Al Jadidah Dist.,Manfuha Al Jadidah ,24.6186692000001,46.7246697000001,10100003005
+555,Nahdi Pharmacy(Delivery),7818 muin ibn zaidah - Al Mansurah Dist.,Al Mansurah ,24.6151,46.7464000000001,10100003030
+556,Nahdi Pharmacy(Delivery),3048 southern ring rd - Al Mansurah Dist.,Al Mansurah ,24.6007000000001,46.7478,10100003030
+557,Nahdi Pharmacy(Delivery),8642 at tuyur - Al Mathar Dist.,Al Mathar ,24.6729000000001,46.6628000000001,10100003049
+558,Nahdi Pharmacy(Delivery),2491 samahat ash shaikh abdul aziz ibn baz - Al Badeah Dist.,Al Badeah ,24.6199000000001,46.6797,10100003071
+559,Nahdi Pharmacy(Delivery),7090 sultanah - Sultanah Dist.,Sultanah ,24.6068000000002,46.6907000000002,10100003069
+560,Nahdi Pharmacy(Delivery),4278 as suwaidi al am - Sultanah Dist.,Sultanah ,24.5992000000002,46.6924000000001,10100003069
+561,Nahdi Pharmacy(Delivery),6193 Ayshah Bin Abi Bakr - Shubra Dist.,Shubra ,24.5715151310001,46.6655851440001,10100003066
+562,Nahdi Pharmacy(Delivery),7865 salah ad din al ayyubi rd - Al Malaz Dist.,Al Malaz ,24.6776000000001,46.7271000000001,10100003051
+563,Nahdi Pharmacy(Delivery),3131 al amir matab ibn abdul aziz - Al Rabwah Dist.,Al Rabwah ,24.6868827000001,46.7655661000001,10100003047
+564,Nahdi Pharmacy(Delivery),2970 al amin abdullah al ali an naim - Al Malaz Dist.,Al Malaz ,24.6699759000001,46.7359372000001,10100003051
+565,Nahdi Pharmacy(Delivery),7617 fatimah az zahra - Jareer Dist.,Jareer ,24.6752000000001,46.7471,10100003048
+566,Nahdi Pharmacy(Delivery),3850 al kharaj rd - Al Khalidiyah Dist.,Al Khalidiyah ,24.6175828000001,46.7543927,10100003034
+567,Nahdi Pharmacy(Delivery),4770 al imam abi hanifah - Middle Oraija Dist.,Middle Oraija ,24.6104414000002,46.6295913,10100003128
+568,Nahdi Pharmacy(Delivery),6794 Al Badiyah - Middle Oraija Dist.,Middle Oraija ,24.6083000000001,46.6259000000002,10100003128
+569,Nahdi Pharmacy(Delivery),6357 Hamzah Bin Abdulmuttaleb - Middle Oraija Dist.,Middle Oraija ,24.5921000000002,46.6221000000002,10100003128
+570,Nahdi Pharmacy(Delivery),6581 Hamzah Bin Abdulmuttaleb - Middle Oraija Dist.,Middle Oraija ,24.5939331200001,46.6207775170001,10100003128
+571,Nahdi Pharmacy(Delivery),"""7463 Ibn Al Muqafa' - West Oraija Dist.""",West Oraija ,24.5899000000001,46.6095,10100003126
+572,Nahdi Pharmacy(Delivery),4310 ash shaikh abdul aziz ibn muhammad ibn ali - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5911,46.6473000000001,10100003091
+573,Nahdi Pharmacy(Delivery),6100 shaiban ibn muhraz - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5812425000001,46.6302819000002,10100003091
+574,Nahdi Pharmacy(Delivery),2883 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5936145800001,46.6330334250002,10100003091
+575,Nahdi Pharmacy(Delivery),8886 Hamzah Bin Abdulmuttaleb - West Suwaidi Dist.,West Suwaidi ,24.5865740030001,46.6253068780001,10100003057
+576,Nahdi Pharmacy(Delivery),2788 al torba - West Suwaidi Dist.,West Suwaidi ,24.5722000000001,46.6126000000002,10100003057
+577,Nahdi Pharmacy(Delivery),6542 yusuf ath thaqafi - West Suwaidi Dist.,West Suwaidi ,24.5652000000001,46.6277000000001,10100003057
+578,Nahdi Pharmacy(Delivery),3652 hafsa bint umar - Al Rawdah Dist.,Al Rawdah ,24.731682521,46.7717252450001,10100003088
+579,Nahdi Pharmacy(Delivery),3347 hafsa bint umar - Al Andalus Dist.,Al Andalus ,24.7415769,46.7877798000001,10100003087
+580,Nahdi Pharmacy(Delivery),7940 khalid ibn al walid - Al Rawdah Dist.,Al Rawdah ,24.7443378,46.7760303000001,10100003088
+581,Nahdi Pharmacy(Delivery),2867 king abdullah ibn abdul aziz rd - Al Quds Dist.,Al Quds ,24.7629415000001,46.7476080000001,10100003081
+582,Nahdi Pharmacy(Delivery),2763 prince saud ibn abdulaziz al saud al kabir - Al Quds Dist.,Al Quds ,24.7541000000001,46.7463000000001,10100003081
+583,Nahdi Pharmacy(Delivery),4948 abdul rahman al ghafaqi rd - Al Quds Dist.,Al Quds ,24.7523000000002,46.7679000000001,10100003081
+584,Nahdi Pharmacy(Delivery),3281 abi said al khadri - King Faisal Dist.,King Faisal ,24.7557000000001,46.7717000000001,10100003027
+585,Nahdi Pharmacy(Delivery),3682 abi said al khadri - King Faisal Dist.,King Faisal ,24.7588000000001,46.7758000000001,10100003027
+586,Nahdi Pharmacy(Delivery),7389 khalid ibn al walid - King Faisal Dist.,King Faisal ,24.7595000000001,46.7657000000002,10100003027
+587,Nahdi Pharmacy(Delivery),7182 khalid ibn al walid - Al Hamra Dist.,Al Hamra ,24.7704326410001,46.7566143240002,10100003129
+588,Nahdi Pharmacy(Delivery),7488 al bahar - Al Hamra Dist.,Al Hamra ,24.7811757000002,46.7595372000001,10100003129
+589,Nahdi Pharmacy(Delivery),2385 al amir bandar ibn abdul aziz - Al Nahdah Dist.,Al Nahdah ,24.7587,46.7940000000001,10100003054
+590,Nahdi Pharmacy(Delivery),3085 al amir bandar ibn abdul aziz - Al Nahdah Dist.,Al Nahdah ,24.7631000000001,46.8009000000001,10100003054
+591,Nahdi Pharmacy(Delivery),7617 Al Jobail - Al Nahdah Dist.,Al Nahdah ,24.7648,46.8203000000001,10100003054
+592,Nahdi Pharmacy(Delivery),5054 al amir bandar ibn abdul aziz - Al Khaleej Dist.,Al Khaleej ,24.7792582070001,46.8257871380001,10100003055
+593,Nahdi Pharmacy(Delivery),6421 Salman Al Farsi - Al Khaleej Dist.,Al Khaleej ,24.7710952000001,46.8048269000001,10100003055
+594,Nahdi Pharmacy(Delivery),6713 al khaznzh - Ishbiliyah Dist.,Ishbiliyah ,24.782715406,46.7832000000002,10100003137
+595,Nahdi Pharmacy(Delivery),8276 as sahabah - Ishbiliyah Dist.,Ishbiliyah ,24.7969,46.7848000000001,10100003137
+596,Nahdi Pharmacy(Delivery),6155 ash shaikh hasan ibn hussain ibn ali - Ishbiliyah Dist.,Ishbiliyah ,24.7777614000001,46.7759264000001,10100003137
+597,Nahdi Pharmacy(Delivery),4364 al khazraj - Ishbiliyah Dist.,Ishbiliyah ,24.7871000000001,46.7898000000001,10100003137
+598,Nahdi Pharmacy(Delivery),7371 as sahabah - Ishbiliyah Dist.,Ishbiliyah ,24.7937000000001,46.7873000000001,10100003137
+599,Nahdi Pharmacy(Delivery),3939 Al Hadrah - Ghirnatah Dist.,Ghirnatah ,24.8029500000002,46.7599720000002,10100003155
+600,Nahdi Pharmacy(Delivery),2163 ad dammam rd - Al Yarmuk Dist.,Al Yarmuk ,24.8077000000001,46.7596000000001,10100003139
+601,Nahdi Pharmacy(Delivery),7942 sumatra - Al Yarmuk Dist.,Al Yarmuk ,24.8087,46.7734000000001,10100003139
+602,Nahdi Pharmacy(Delivery),7494 Saeed Bin Zayd - Qurtubah Dist.,Qurtubah ,24.8060404380001,46.7369457450002,10100003101
+603,Nahdi Pharmacy(Delivery),3874 ashaikh hasan ibn hussain ibn ali rd - Qurtubah Dist.,Qurtubah ,24.8216509000001,46.7503968000001,10100003101
+604,Nahdi Pharmacy(Delivery),3039 al qalam - Al Munisiyah Dist.,Al Munisiyah ,24.8171616830001,46.7598578760001,10100003140
+605,Nahdi Pharmacy(Delivery),7398 ashaikh hasan ibn hussain ibn ali rd - Qurtubah Dist.,Qurtubah ,24.8289722000002,46.7466417000001,10100003101
+606,Nahdi Pharmacy(Delivery),8324 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8199000000002,46.7949000000002,10100003139
+607,Nahdi Pharmacy(Delivery),7052 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8082000000001,46.8009000000001,10100003139
+608,Nahdi Pharmacy(Delivery),6593 an nasar - Al Yarmuk Dist.,Al Yarmuk ,24.8042,46.7941,10100003139
+609,Nahdi Pharmacy(Delivery),3328 al imam abdullah ibn saud ibn abdul aziz rd - Al Yarmuk Dist.,Al Yarmuk ,24.8088000000002,46.8069,10100003139
+610,Nahdi Pharmacy(Delivery),2945 as sail al kabir - Al Ghadeer Dist.,Al Ghadeer ,24.7700922000001,46.6480943000001,10100003109
+611,Nahdi Pharmacy(Delivery),3453 ash shaikh abdullah al makhdub - Al Wadi Dist.,Al Wadi ,24.7904000000001,46.6922000000001,10100003082
+612,Nahdi Pharmacy(Delivery),2759 al imam saud ibn faysal rd - Al Sahafah Dist.,Al Sahafah ,24.7966000000001,46.6382,10100003123
+613,Nahdi Pharmacy(Delivery),2979 prince salman ibn muhammad al saud - Al Sahafah Dist.,Al Sahafah ,24.7886,46.6402000000001,10100003123
+614,Nahdi Pharmacy(Delivery),7185 ath thumamah rd - Al Rabie Dist.,Al Rabie ,24.7877768000001,46.6473484000001,10100003104
+615,Nahdi Pharmacy(Delivery),7169 king fahd branch road - Al Sahafah Dist.,Al Sahafah ,24.8044000000001,46.6259000000002,10100003123
+616,Nahdi Pharmacy(Delivery),2239 anas ibn malik - Al Sahafah Dist.,Al Sahafah ,24.8108000000001,46.6248000000001,10100003123
+617,Nahdi Pharmacy(Delivery),4594  - Al Narjis Dist.,Al Narjis ,24.8173,46.6856000000001,10100003150
+618,Nahdi Pharmacy(Delivery),7033 al amir abdullah bin saud bin abdullah snaytan al  - Al Yasmeen Dist.,Al Yasmeen ,24.8194,46.6315000000001,10100003147
+619,Nahdi Pharmacy(Delivery),3316 Anas Bin Malek - Al Narjis Dist.,Al Narjis ,24.8365000000001,46.6842,10100003150
+620,Nahdi Pharmacy(Delivery),6271 Othman Bin Affan - Al Narjis Dist.,Al Narjis ,24.8365738000001,46.6788579,10100003150
+621,Nahdi Pharmacy(Delivery),7265 abi bakr as siddiq - Al Narjis Dist.,Al Narjis ,24.8536095470002,46.6483940670001,10100003150
+622,Nahdi Pharmacy(Delivery),2201 jabal al turk - Al Narjis Dist.,Al Narjis ,24.8759000000001,46.6386000000001,10100003150
+623,Nahdi Pharmacy(Delivery),7201 al khair rd - Al Aqeeq Dist.,Al Aqeeq ,24.7646,46.6242,10100003107
+624,Nahdi Pharmacy(Delivery),6703 Prince Mohammed Ibn Salman Ibn Abdulaziz Rd - Al Aqeeq Dist.,Al Aqeeq ,24.7759000000001,46.6344,10100003107
+625,Nahdi Pharmacy(Delivery),8150 King Fahd - Al Aqeeq Dist.,Al Aqeeq ,24.7891000000002,46.6325,10100003107
+626,Nahdi Pharmacy(Delivery),7774 prince muhammad ibn saad ibn abdulazizi - Hitteen Dist.,Hitteen ,24.7782000000001,46.6164000000002,10100003144
+627,Nahdi Pharmacy(Delivery),7144 king fahd branch road - Al Malqa Dist.,Al Malqa ,24.7966046000001,46.6286970000001,10100003145
+628,Nahdi Pharmacy(Delivery),6165 al khair rd - Al Malqa Dist.,Al Malqa ,24.7881528000001,46.6121566,10100003145
+629,Nahdi Pharmacy(Delivery),3310 Anas Bin Malek - Al Malqa Dist.,Al Malqa ,24.8050251000001,46.6090726000002,10100003145
+630,Nahdi Pharmacy(Delivery),3576 Anas Bin Malek - Al Malqa Dist.,Al Malqa ,24.806091,46.6116000000002,10100003145
+631,Nahdi Pharmacy(Delivery),7045 prince muhammad ibn saad ibn abdulazizi - Al Malqa Dist.,Al Malqa ,24.8119000000002,46.6003000000001,10100003145
+632,Nahdi Pharmacy(Delivery),7691 shaykh khalifa ibn hamad al thani - Al Janadriyah Dist.,Al Janadriyah ,24.8038,46.8626000000001,10100003136
+633,Nahdi Pharmacy(Delivery),7069 shaykh khalifa ibn hamad al thani - Al Janadriyah Dist.,Al Janadriyah ,24.8147000000002,46.8725000000002,10100003136
+634,Nahdi Pharmacy(Delivery),7220 muhammad ibn al qazzaz - Al Janadriyah Dist.,Al Janadriyah ,24.8155000000001,46.8781000000001,10100003136
+635,Nahdi Pharmacy(Delivery),4298 al shafa - Dhahrat Laban Dist.,hahrat Laban ,24.6338000000001,46.5669000000001,10100003143
+636,Nahdi Pharmacy(Delivery),3674 al shafa - Dhahrat Laban Dist.,hahrat Laban ,24.6300000000001,46.5608,10100003143
+637,Nahdi Pharmacy(Delivery),8220 taybah - Dhahrat Laban Dist.,hahrat Laban ,24.6376,46.5592000000001,10100003143
+638,Nahdi Pharmacy(Delivery),3514 asir - Dhahrat Laban Dist.,hahrat Laban ,24.6249000000001,46.5408,10100003143
+639,Nahdi Pharmacy(Delivery),2493 asir - Dhahrat Laban Dist.,hahrat Laban ,24.6103000000001,46.5184000000002,10100003143
+640,Nahdi Pharmacy(Delivery),3739 at taif - Dhahrat Laban Dist.,hahrat Laban ,24.6241555930001,46.516466828,10100003143
+641,Nahdi Pharmacy(Delivery),3427 kharis branch rd - Al Rayan Dist.,Al Rayan ,24.7227283000001,46.7760218000001,10100003090
+642,Nahdi Pharmacy(Delivery),7649 Unayzah - Al Rawabi Dist.,Al Rawabi ,24.6945271000002,46.7846576000002,10100003089
+643,Nahdi Pharmacy(Delivery),2951 al imam ahmad ibn hanbal - Al Rawabi Dist.,Al Rawabi ,24.7048224070002,46.782986317,10100003089
+644,Nahdi Pharmacy(Delivery),8366 Al Imam Al Shafie - Al Rawabi Dist.,Al Rawabi ,24.7007,46.8032000000002,10100003089
+645,Nahdi Pharmacy(Delivery),4086 al imam ahmad ibn hanbal - Al Manar Dist.,Al Manar ,24.7186920000001,46.8039746000001,10100003079
+646,Nahdi Pharmacy(Delivery),7136 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.7356112000001,46.8132061000001,10100003167
+647,Nahdi Pharmacy(Delivery),8228 Hassan Bin Thabit - West Naseem Dist.,West Naseem ,24.7452235000001,46.8239393000002,10100003167
+648,Nahdi Pharmacy(Delivery),2199 al imam ahmad ibn hanbal - West Naseem Dist.,West Naseem ,24.7260000000001,46.8171,10100003167
+649,Nahdi Pharmacy(Delivery),7840 Osamah Bin Zayd - West Naseem Dist.,West Naseem ,24.7195,46.8313000000001,10100003167
+650,Nahdi Pharmacy(Delivery),6691 Saad Bin Abi Waqqas - West Naseem Dist.,West Naseem ,24.7090516000001,46.8335554000002,10100003167
+651,Nahdi Pharmacy(Delivery),7969  Abdullah Bin Omar  - West Naseem Dist.,West Naseem ,24.7206000000001,46.8371000000002,10100003167
+652,Nahdi Pharmacy(Delivery),6367 Hassan Bin Thabit - East Naseem Dist.,East Naseem ,24.7395596000001,46.8289786,10100003080
+653,Nahdi Pharmacy(Delivery),8264 abi al aswad ad duali - East Naseem Dist.,East Naseem ,24.7336086000001,46.8469873000001,10100003080
+654,Nahdi Pharmacy(Delivery),4036 abu ubaydah amir ibn al jarrah - Al Fayha Dist.,Al Fayha ,24.6729000000001,46.8159000000001,10100003133
+655,Nahdi Pharmacy(Delivery),5362 abu ubaydah amir ibn al jarrah - Al Saadah Dist.,Al Saadah ,24.6887022450001,46.8499471030001,10100003036
+656,Nahdi Pharmacy(Delivery),7613 Al Furusiyyah - Al Saadah Dist.,Al Saadah ,24.6919000000001,46.8513,10100003036
+657,Nahdi Pharmacy(Delivery),3991 abu ubaydah amir ibn al jarrah - Al Sulay Dist.,Al Sulay ,24.6863023650001,46.8465700970001,10100003106
+658,Nahdi Pharmacy(Delivery),6677 ash shabab - Al Aziziyah Dist.,Al Aziziyah ,24.5933469780001,46.7580972720001,10100003029
+659,Nahdi Pharmacy(Delivery),7650 al aziziah rd - Al Aziziyah Dist.,Al Aziziyah ,24.6021000000001,46.7690000000002,10100003029
+660,Nahdi Pharmacy(Delivery),8142 ash shabab - Al Aziziyah Dist.,Al Aziziyah ,24.6003152000001,46.7539263000002,10100003029
+661,Nahdi Pharmacy(Delivery),8494 Al Namas - Al Aziziyah Dist.,Al Aziziyah ,24.6033000000001,46.7583000000002,10100003029
+662,Nahdi Pharmacy(Delivery),7411 mohammed rasheed rda - Al Aziziyah Dist.,Al Aziziyah ,24.5740242000001,46.7689339,10100003029
+663,Nahdi Pharmacy(Delivery),8114 mohammed rasheed rda - Al Aziziyah Dist.,Al Aziziyah ,24.5806000000001,46.7647000000002,10100003029
+664,Nahdi Pharmacy(Delivery),3369 no. 73 - Al Aziziyah Dist.,Al Aziziyah ,24.5826171000002,46.7600059000001,10100003029
+665,Nahdi Pharmacy(Delivery),6433 al aziziah rd - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5595000000001,46.7939000000002,10100003130
+666,Nahdi Pharmacy(Delivery),2153 arfat rd - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5750000000002,46.7867000000001,10100003130
+667,Nahdi Pharmacy(Delivery),3249 ibn hejr - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5656000000001,46.7974,10100003130
+668,Nahdi Pharmacy(Delivery),6433 Al Tirmidhi - Al Shifa Dist.,Al Shifa ,24.5654648000001,46.7042022000002,10100003061
+669,Nahdi Pharmacy(Delivery),8274 Al Tirmidhi - Al Shifa Dist.,Al Shifa ,24.5719,46.6984,10100003061
+670,Nahdi Pharmacy(Delivery),3205 Al Tirmidhi - Badr Dist.,Badr ,24.5574,46.7124000000001,10100003164
+671,Nahdi Pharmacy(Delivery),8253 fath makkah - Badr Dist.,Badr ,24.5486166000002,46.7212268000001,10100003164
+672,Nahdi Pharmacy(Delivery),3787 AL Khaleel Bin Ahmad - Al Shifa Dist.,Al Shifa ,24.5475688450001,46.6880475660001,10100003061
+673,Nahdi Pharmacy(Delivery),7895 dirab rd - Al Marwah Dist.,Al Marwah ,24.5423000000001,46.6636,10100003064
+674,Nahdi Pharmacy(Delivery),7797 dirab rd - Okaz Dist.,Okaz ,24.5295000000001,46.6532000000001,10100003065
+675,Nahdi Pharmacy(Delivery),8435 ibn taimiah rd - Badr Dist.,Badr ,24.5506000000001,46.6986000000001,10100003164
+676,Nahdi Pharmacy(Delivery),7353 ibn taimiah rd - Badr Dist.,Badr ,24.5409000000001,46.6906000000001,10100003164
+677,Nahdi Pharmacy(Delivery),3827 Al Nahr - Al Nadwah Dist.,Al Nadwah ,24.7953000000002,46.8797000000001,10100003169
+678,Nahdi Pharmacy(Delivery),2461 Al Harith Bin Abdullah  - Al Nadwah Dist.,Al Nadwah ,24.7942000000001,46.8663000000002,10100003169
+679,Nahdi Pharmacy(Delivery),3003 al raya - Al Nadwah Dist.,Al Nadwah ,24.8003000000001,46.8717,10100003169
+680,Nahdi Pharmacy(Delivery),3113 Refaah Bin Aws - Al Nadheem Dist.,Al Nadheem ,24.8078274000002,46.8865347,10100003092
+681,Nahdi Pharmacy(Delivery),2449 al marmar - Al Nadheem Dist.,Al Nadheem ,24.8143000000001,46.8801000000001,10100003092
+682,Nahdi Pharmacy(Delivery),3005 at turath - Al Nadheem Dist.,Al Nadheem ,24.820533658,46.8856561900001,10100003092
+683,Nahdi Pharmacy(Delivery),6711 Asmaa Bint Abi Bakr - West Oraija Dist.,West Oraija ,24.5903000000001,46.5832000000001,10100003126
+684,Nahdi Pharmacy(Delivery),3492 Khadeejah Bint Khuwaylid - Tuwaiq Dist.,Tuwaiq ,24.5844200280001,46.575710014,10100003102
+685,Nahdi Pharmacy(Delivery),4808 al madinah al munawarah - West Oraija Dist.,West Oraija ,24.5759621,46.6031368000002,10100003126
+686,Nahdi Pharmacy(Delivery),4419 weastern ring branch rd - Al Awaly Dist.,Al Awaly ,24.5580000000001,46.6378000000001,10100003103
+687,Nahdi Pharmacy(Delivery),4528 najmuddin al ayubi - Al Awaly Dist.,Al Awaly ,24.5524,46.6192,10100003103
+688,Nahdi Pharmacy(Delivery),3870 najmuddin al ayubi - Tuwaiq Dist.,Tuwaiq ,24.5527000000002,46.5726000000001,10100003102
+689,Nahdi Pharmacy(Delivery),7238 al jahidh - Tuwaiq Dist.,Tuwaiq ,24.5651000000001,46.5549,10100003102
+690,Nahdi Pharmacy(Delivery),3760 ahmad ibn al khattab - Tuwaiq Dist.,Tuwaiq ,24.5608000000001,46.5516000000002,10100003102
+691,Nahdi Pharmacy(Delivery),7190 adh dhahabi - Tuwaiq Dist.,Tuwaiq ,24.5650067330001,46.5448921610002,10100003102
+692,Nahdi Pharmacy(Delivery),7942 adh dhahabi - Tuwaiq Dist.,Tuwaiq ,24.5726783000001,46.5456897,10100003102
+693,Nahdi Pharmacy(Delivery),7438 dirab rd - Al Hazm Dist.,Al Hazm ,24.5459000000001,46.6651000000001,10100003019
+694,Nahdi Pharmacy(Delivery),6352 dirab branch rd - Dirab Dist.,ab ,24.494148234,46.627017062,10100003058
+695,najd pharmacy,3943 king faisal - Al Murabba Dist.,Al Murabba ,24.6562599840001,46.7076968780001,10100003021
+696,noads medical pharmacy,8874  Abdullah Bin Masud - West Naseem Dist.,West Naseem ,24.7384135901606,46.8052500593838,10100003167
+697,noora pharmacy,7071 al imam abdul aziz ibn muhammad ibn saud - Al Wisham Dist.,Al Wisham ,24.6432724710002,46.6934094370001,10100003114
+698,nour health pharmacy,2355 ajman - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5652758337427,46.7753688516161,10100003130
+699,oasis recovery pharmacy,7227 wag valley - Al Malqa Dist.,Al Malqa ,24.8135191321169,46.6115291675568,10100003145
+700,of the kingdom of health pharmacy,8550 al aziziah rd - Al Aziziyah Dist.,Al Aziziyah ,24.5843600819952,46.7794930070099,10100003029
+701,"""olaya int'l polyclinic and pharmacy""",6505 al ulaya - Al Olaya Dist.,Al Olaya ,24.6846689060001,46.690170436,10100003075
+702,orange pharmacy,8956 Al Imam Al Shafie - Al Rawabi Dist.,Al Rawabi ,24.7060531963586,46.7993187635811,10100003089
+703,orange pharmacy,3700 ibn sina - Al Muruj Dist.,Al Muruj ,24.7588220285552,46.6673743721835,10100003110
+704,orange pharmacy,3147 ibn sina - Al Maseef Dist.,Al Maseef ,24.7635035012601,46.6798041851988,10100003084
+705,orange pharmacy,3398 prince salman ibn muhammad al saud - Al Sahafah Dist.,Al Sahafah ,24.792443680833,46.6444991939416,10100003123
+706,orange pharmacy,7736 abi bakr as siddiq - Al Rabie Dist.,Al Rabie ,24.8015670753554,46.6736547723671,10100003104
+707,orange pharmacy,8286 Osamah Bin Zayd - West Naseem Dist.,West Naseem ,24.7235739409379,46.8281638407764,10100003167
+708,orange pharmacy,7637 Al Imam Al Shafie - Al Fayha Dist.,Al Fayha ,24.6831170543015,46.8151094876209,10100003133
+709,Orange Pharmacy 20,7749 khalid ibn al walid - Al Andalus Dist.,Al Andalus ,24.7459051070627,46.7760543247625,10100003087
+710,Orange Pharmacy(Delivery),6684 prince abdulaziz ibn musaid ibn jalawi - Al Olaya Dist.,Al Olaya ,24.6861850000001,46.6987566000001,10100003075
+711,Orange Pharmacy(Delivery),2767 Al Ameer Nayif Bin Abdulaziz - King Fahd Dist.,King Fahd ,24.7376821,46.6658235000001,10100003017
+712,Orange Pharmacy(Delivery),7244 muin ibn zaidah - Al Mansurah Dist.,Al Mansurah ,24.6098577,46.7491580000001,10100003030
+713,Orange Pharmacy(Delivery),3329 al kharj rd - Al Mansurah Dist.,Al Mansurah ,24.6193094000001,46.7508793000001,10100003030
+714,Orange Pharmacy(Delivery),6869 muin ibn zaidah - Al Mansurah Dist.,Al Mansurah ,24.6063186110001,46.7515692880002,10100003030
+715,Orange Pharmacy(Delivery),3134  - Al Suwaidi Dist.,Al Suwaidi ,24.59643091,46.7013416680001,10100003018
+716,Orange Pharmacy(Delivery),8168 Ayshah Bin Abi Bakr - Middle Oraija Dist.,Middle Oraija ,24.6080177220001,46.6379658010001,10100003128
+717,Orange Pharmacy(Delivery),3584 al madinah al munawarah - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5926874000001,46.6304150000001,10100003091
+718,Orange Pharmacy(Delivery),3669 ibadah ibn as samit - Al Rawdah Dist.,Al Rawdah ,24.7350739,46.7718317000002,10100003088
+719,Orange Pharmacy(Delivery),2407 al amir bandar ibn abdul aziz - Al Andalus Dist.,Al Andalus ,24.7491906000001,46.7785243000001,10100003087
+720,Orange Pharmacy(Delivery),7071 al hassan ibn ali - Al Rawdah Dist.,Al Rawdah ,24.7366483000001,46.7620578000001,10100003088
+721,صيدلية أورانج,8446 khalid ibn al walid - Al Shohda Dist.,Al Shohda ,24.7981773560002,46.7407682790001,10100003016
+722,Orange Pharmacy(Delivery),2887 ath thumamah rd - Al Munisiyah Dist.,Al Munisiyah ,24.8419709000001,46.7516684,10100003140
+723,Orange Pharmacy(Delivery),3441 prince saad ibn abdulrahman al awal rd - Al Jazeerah Dist.,Al Jazeerah ,24.6836800000001,46.7918648,10100003035
+724,Orange Pharmacy(Delivery),6776 al aziziah rd - Al Aziziyah Dist.,Al Aziziyah ,24.5939910000001,46.7739379000002,10100003029
+725,Orange Pharmacy(Delivery),7661 al aziziah rd - Al Aziziyah Dist.,Al Aziziyah ,24.5898349330001,46.7774198880002,10100003029
+726,Orange Pharmacy(Delivery),7944 al aziziah branch road - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5664522000001,46.7892440000001,10100003130
+727,Orange Pharmacy(Delivery),6404 ibn taimiah road - Al Shifa Dist.,Al Shifa ,24.5548597330001,46.7010657120002,10100003061
+728,Orange Pharmacy(Delivery),4744 dirab branch rd - Namar Dist.,Namar ,24.5776730000002,46.6989782000001,10100003060
+729,palsam pharmacy,6897 al qalaa - Al Yasmeen Dist.,Al Yasmeen ,24.8106425076251,46.6577215621044,10100003147
+730,pharmaceutical Care pharmacy,7450 Unayzah - Al Rawabi Dist.,Al Rawabi ,24.692604476894,46.7853822105844,10100003089
+731,pharmaceutical care pharmacy,4819 Al Namas - Al Aziziyah Dist.,Al Aziziyah ,24.5998847035586,46.7652855604201,10100003029
+732,صيدلية ,3208 abi jaafar al mansur - Al Shohda Dist.,Al Shohda ,24.7888204432446,46.7342251577734,10100003016
+733,pharmacy,3333 Mousa Bin Naseer - Al Olaya Dist.,Al Olaya ,24.706260941,46.6888819120002,10100003075
+734,pharmacy,7782 al jamuh al ansari - East Umm Al Hamam Dist.,East Umm Al Hamam ,24.6907912350001,46.6513700860001,10100003008
+735,pharmacy,3715 al urubah rd - Al Olaya Dist.,Al Olaya ,24.7111836842802,46.6710813102382,10100003075
+736,pharmacy,6327 abi bakr as siddiq branch - Al Nuzha Dist.,Al Nuzha ,24.747132534794,46.7021131376677,10100003025
+737,pharmacy,4359 Amr Bin Al As - Al Wisham Dist.,Al Wisham ,24.6432818920001,46.698553013,10100003114
+738,pharmacy,4611 al imam faisal ibn turki ibn abdullah - Umm Saleem Dist.,Umm Saleem ,24.6373288250001,46.7007594310002,10100003122
+739,pharmacy,8003 al ajaliyah - Umm Saleem Dist.,Umm Saleem ,24.6307587540001,46.6979382750001,10100003122
+740,pharmacy,2671 samahat ash shaikh abdul aziz ibn baz - Al Badeah Dist.,Al Badeah ,24.6210905280001,46.6815811580001,10100003071
+741,pharmacy,7219 al ihsa - Al Rabwah Dist.,Al Rabwah ,24.6893686518206,46.7334170888503,10100003047
+742,pharmacy,7304 ibn rashiq - King Faisal Dist.,King Faisal ,24.7587423620909,46.7771396375993,10100003027
+743,pharmacy,7047 ask shaikh hasan ibn hussain ibn ali - Al Yarmuk Dist.,Al Yarmuk ,24.8006782669015,46.7620335975618,10100003139
+744,pharmacy,6589 as sahabah - Al Yarmuk Dist.,Al Yarmuk ,24.8042077530475,46.782092251792,10100003139
+745,pharmacy,7259 an nasar - Al Yarmuk Dist.,Al Yarmuk ,24.8102124254061,46.7910238112252,10100003139
+746,pharmacy,4020 saud ibn abdullah jalawi - Al Arid Dist.,Al Arid ,24.857323926814,46.6387868661257,10100003148
+747,pharmacy,3593 Al Namas - Al Aziziyah Dist.,Al Aziziyah ,24.5961100493615,46.7728255066492,10100003029
+748,pharmacy,3779 ibn hejr - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5682100988262,46.8027304812255,10100003130
+749,صيدلية ركن وهره الردهه,3178 Al Meena - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5553436345178,46.7834696729747,10100003130
+750,Pharmacy,3112 abi jafar al mansur - Ghirnatah Dist.,Ghirnatah ,24.7960477961267,46.7512440109463,10100003155
+751,Pharmacy,6083 khalid ibn al walid - Ghirnatah Dist.,Ghirnatah ,24.7846760026413,46.7484900691217,10100003155
+752,pharmacy,2251 abdulrahman al ghafaqi rd - Al Rawdah Dist.,Al Rawdah ,24.7412787037624,46.7512398775191,10100003088
+753,Pharmacy,7156 al hassan ibn ali - Al Rawdah Dist.,Al Rawdah ,24.737548994623,46.7608167776139,10100003088
+754,Pharmacy,7431 al hassan ibn ali - Al Rawdah Dist.,Al Rawdah ,24.7273073502877,46.7691194071069,10100003088
+755,Pharmacy,6725 eastern ring rd - Al Rawdah Dist.,Al Rawdah ,24.7337274612746,46.7527069498975,10100003088
+756,Pharmacy,2557 abi jafar al mansur - Ghirnatah Dist.,Ghirnatah ,24.7931695928032,46.7456241074844,10100003155
+757,pharmacy corner flower k 24,8248 King Abdulaziz - Al Sahafah Dist.,Al Sahafah ,24.8139459804265,46.6457994958042,10100003123
+758,pharmacy flower k 18,8530 king fahd branch road - Al Aqeeq Dist.,Al Aqeeq ,24.7925847286289,46.6307130384686,10100003107
+759,pharmacy flower nectar,7551 al amir salman ibn muhammad al saud - Al Sahafah Dist.,Al Sahafah ,24.8075893344725,46.6400308068842,10100003123
+760,pharmacy jazea,6185 Hassan Bin Thabit - East Naseem Dist.,East Naseem ,24.7147590999229,46.8473382619167,10100003080
+761,pharmacy land hakim,6869 abi huraiyrah - East Naseem Dist.,East Naseem ,24.7440356560058,46.8328055209025,10100003080
+762,pharmacy splendor cordoba,7294 abi huraiyrah - East Naseem Dist.,East Naseem ,24.7480546439685,46.8291267016767,10100003080
+763,pharmacy staff riyadh,6535 Hassan Bin Thabit - East Naseem Dist.,East Naseem ,24.7179605239215,46.8450055672339,10100003080
+764,pharmacy we nraakm,7978 al amir abdullah bin saud bin abdullah snaytan al  - Al Sahafah Dist.,Al Sahafah ,24.81157605397,46.6348512700741,10100003123
+765,plus one pharmacy,6759 al amir matab ibn abdul aziz - Al Rabwah Dist.,Al Rabwah ,24.6951132205319,46.762876984505,10100003047
+766,potts pharmacy,7639 King Fahd - King Fahd Dist.,King Fahd ,24.7434496838823,46.6577280598611,10100003017
+767,prevention and treatment pharmacy,3870 al qalam - Qurtubah Dist.,Qurtubah ,24.8138231389768,46.7503805455522,10100003101
+768,purity corner pharmacy,4738 umar ibn abdul aziz branch rd - Al Rabwah Dist.,Al Rabwah ,24.6872904383953,46.7501092612839,10100003047
+769,Qimmat Aldawa Pharmacy(Delivery),7994 khalid ibn al walid - Al Hamra Dist.,Al Hamra ,24.7775986000001,46.7510144000001,10100003129
+770,qurban pharmacy 1,8570 al ulaya - Al Olaya Dist.,Al Olaya ,24.702046835,46.6806073420001,10100003075
+771,qurtuba pharmacy,7623 king fahd branch road - Al Dirah Dist.,Al Dirah ,24.6374714150002,46.7045379490002,10100003007
+772,qurtuba pharmacy,6896 dirab branch rd - Dirab Dist.,ab ,24.499026739,46.6300756730001,10100003058
+773,qurtuba pharmacy,7148 dirab branch rd - Dirab Dist.,ab ,24.486837101,46.6222360100001,10100003058
+774,qurtuba pharmacy,5032 southern ring branch rd - Al Duraihemiyah Dist.,Al Duraihemiyah ,24.5837952620001,46.6879250250001,10100003076
+775,rafal pharmacy,6261 harun ar rashid branch - Al Fayha Dist.,Al Fayha ,24.670257262033,46.8053397768039,10100003133
+776,rami pharmacy,2886 abi bakr ar razi - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.6917793550001,46.7077298910001,10100003063
+777,ramy pharmacy,2219 arfat rd - Al Dar Al Baida Dist.,Al Dar Al Baida ,24.5621031151816,46.7602047343434,10100003130
+778,Raseel Pharmacy,6820 muin ibn zaidah - Al Mansurah Dist.,Al Mansurah ,24.6061732000002,46.7509615000001,10100003030
+779,rashad pharmacy,6849 ar rayan - Al Nafel Dist.,Al Nafel ,24.7774536217879,46.6745448448161,10100003083
+780,rasma pharmacy,3787 sultanah - Sultanah Dist.,Sultanah ,24.6090619240001,46.6877231,10100003069
+781,rasma pharmacy,5618 as suwaidi al am - Al Suwaidi Dist.,Al Suwaidi ,24.5949501430002,46.6794593310001,10100003018
+782,rawabi pharmacy,7502 at takhassusi - North Mathar Dist.,North Mathar ,24.688564457,46.6732057070001,10100003011
+783,razan pharmacy,5027 al jawharah bint ibn muammar - Al Sharafiyah Dist.,Al Sharafiyah ,24.655860745,46.6727569750001,10100003009
+784,recipe life pharmacy,7370 Unayzah - Al Rawabi Dist.,Al Rawabi ,24.6917481079182,46.78599358607,10100003089
+785,Red Luster Pharmacy(Delivery),7502 at takhassusi - North Mathar Dist.,North Mathar ,24.6885671000002,46.6732718000002,10100003011
+786,صيدلية الوقاية والعلاج,3567 al amir bandar ibn abdul aziz - Al Nahdah Dist.,Al Nahdah ,24.7661705000001,46.805927,10100003054
+787,Red Luster Pharmacy(Delivery),7542 Saeed Bin Zayd - Qurtubah Dist.,Qurtubah ,24.8230111410002,46.7283025770002,10100003101
+788,rhiq zahara alrwodhah pharmacy,3608 abdul rahman al ghafaqi rd - Al Quds Dist.,Al Quds ,24.743997217494,46.7545510383979,10100003081
+789,riyadh national pharmacy 2,3215 Al Bara Bin Azeb - Al Wizarat Dist.,Al Wizarat ,24.681297007,46.7116886170001,10100003045
+790,riyadh pharmacy,6279 Ayshah Bin Abi Bakr - Al Suwaidi Dist.,Al Suwaidi ,24.5838979940001,46.6564560440001,10100003018
+791,roken clinic pharmacy,3739 al amir majid ibn abdul aziz - Al Rayan Dist.,Al Rayan ,24.7118625335786,46.7788822199454,10100003090
+792,rokn zaharh alrodhah pharmacy,8548 ash shaikh hasan ibn hussain ibn ali - King Faisal Dist.,King Faisal ,24.7699532977129,46.7807917592723,10100003027
+793,rokn zaharh alrodhah pharmacy,6389 as sahabah - Ishbiliyah Dist.,Ishbiliyah ,24.7849450435104,46.791774490253,10100003137
+794,rokn zaharh alrodhah pharmacy,7692  - Al Shohda Dist.,Al Shohda ,24.7918593498911,46.7272279722125,10100003016
+795,rokn zahrah alrodhah pharmacy,3459 abi said al khadri - Al Khaleej Dist.,Al Khaleej ,24.7675253234626,46.7907660017627,10100003055
+796,roukn zaharh alrowdhah pharmacy,3454 al amir saud ibn abdul aziz al saud al kabir - Al Quds Dist.,Al Quds ,24.7576819649228,46.7532459362158,10100003081
+797,roukn zaharh alrowdhah pharmacy,4062 abdul rahman al ghafaqi rd - Al Quds Dist.,Al Quds ,24.7467501256289,46.7591566595641,10100003081
+798,roukn zahrah alrodhah pharmacy,2303 al imam abdullah ibn saud ibn abdulaziz rd - Ishbiliyah Dist.,Ishbiliyah ,24.791987084956,46.7691091466915,10100003137
+799,"""rua int'l pharmacy""",4354 ash shaikh abdul aziz ibn muhammad ibn ali - Dhahrat Al Badeah Dist.,hahrat Al Badeah ,24.5912122460001,46.6474235450002,10100003091
+800,rukn zahra pharmacy,7344 Al Mogheera Bin Shoabah - King Fahd Dist.,King Fahd ,24.741226224469,46.6704216857294,10100003017
+801,rukn zahrat al rawdah pharmacy,7153  - King Saud University,King Saud University,24.7139920318612,46.6261576490626,10100003166
+802,rukn zahrat al rawdah pharmacy,2731 ash shaikh abdullah al makhdub - Al Falah Dist.,Al Falah ,24.7950357232443,46.7032837489758,10100003022
+803,safwah almdaen pharmacy,7716 an najah - Al Yarmuk Dist.,Al Yarmuk ,24.8142662483762,46.7978906611233,10100003139
+804,saqqaf pharmacy,3874 al imam saud ibn abdul aziz branch rd - Al Maseef Dist.,Al Maseef ,24.7581550460087,46.6867925365805,10100003084
+805,Saqqaf Pharmacy,8266 Ibn Shaheen - Al Rawdah Dist.,Al Rawdah ,24.7475842516333,46.761935816481,10100003088
+806,Saqqaf Pharmacy,8522 khalid ibn al walid - Al Shohda Dist.,Al Shohda ,24.7988758972144,46.7404245410207,10100003016
+807,صيدلية السقاف,4414 Anas Bin Malek - Al Narjis Dist.,Al Narjis ,24.8335872201493,46.6770808296249,10100003150
+808,saqqaf pharmacy,3553 al amir saad ibn abdulrahman al awal rd - Al Jazeerah Dist.,Al Jazeerah ,24.6842365064448,46.7929705226601,10100003035
+809,saqqaf pharmacy,3786 abu ubaydah amir ibn al jarrah - Al Fayha Dist.,Al Fayha ,24.6716820832851,46.8135780656727,10100003133
+810,saudi arab pharmacy,3533 prince mamduh ibn abdulaziz - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7091297370001,46.6901996380001,10100003063
+811,saudi pharmacy,6155 ash shaikh hasan ibn hussain ibn ali - Ishbiliyah Dist.,Ishbiliyah ,24.777713407263,46.7760142582579,10100003137
+812,saudi pharmacy,7964 ashaikh hasan ibn hussain ibn ali rd - Qurtubah Dist.,Qurtubah ,24.8178732041418,46.7524785673587,10100003101
+813,saudi pharmacy,7435 al basala - Al Aziziyah Dist.,Al Aziziyah ,24.5940145437086,46.7518695305673,10100003029
+814,seif pharmacy,2381 al imam saud ibn faisal rd - Al Aqeeq Dist.,Al Aqeeq ,24.7873568495532,46.6164334234494,10100003107
+815,shafi pharmacy,3433 al qalam - Al Rabie Dist.,Al Rabie ,24.7993982901458,46.6660505076508,10100003104
+816,shafi pharmacy,3416 al bayan - Al Saadah Dist.,Al Saadah ,24.6889538999094,46.8306997478577,10100003036
+817,shatha medicine pharmacy,8068 al qadisiyyah - Al Yasmeen Dist.,Al Yasmeen ,24.8213525929938,46.6543268728716,10100003147
+818,shatha medicine pharmacy,7329 as sahra al gharbiyah - Al Rabie Dist.,Al Rabie ,24.7981800061107,46.6666168193703,10100003104
+819,shibh al jazeerah pharmacy,4341 sadir - Shubra Dist.,Shubra ,24.5889861750002,46.6810667700001,10100003066
+820,shifa balsam pharmacy,5582 al imam saud ibn abdulaziz branch rd - Al Nakheel Dist.,Al Nakheel ,24.7436908222723,46.6527137613895,10100003108
+821,sihhat zina pharmacy,4166 al urubah rd - Al Woroud Dist.,Al Woroud ,24.7196538795286,46.6885292060838,10100003026
+822,siramis pharmacy,5016 Al Malek Saud - Al Wisham Dist.,Al Wisham ,24.6457652570002,46.699583289,10100003114
+823,aif center pharmacy,7678 at takhassusi - North Mathar Dist.,North Mathar ,24.6899918170002,46.6724987910001,10100003011
+824,aif najd pharmacy,7186 badi az zaman al hamadhani - Shubra Dist.,Shubra ,24.5716912290001,46.6534162410002,10100003066
+825,ayf najd pharmacy,4211 al ibbad - Shubra Dist.,Shubra ,24.585858533,46.679831961,10100003066
+826,ba pharmacy,6527 Hibban Bin Monqidh - Manfuha Al Jadidah Dist.,Manfuha Al Jadidah ,24.6093308790001,46.7113802330002,10100003005
+827,he complex pharmacy,8614 Ayshah Bin Abi Bakr - Al Zahrah Dist.,Al Zahrah ,24.5845543080001,46.6551776680002,10100003067
+828,he positions of the college of pharmacy and the faculty of dentistry,7269  - King Saud University,King Saud University,24.7153093014741,46.6200025783055,10100003166
+829,um al hamam pharmacy,8763 umm al hamam - West Umm Al Hamam Dist.,West Umm Al Hamam ,24.699489301,46.651351137,10100003012
+830,unayzah pharmacy,7295 al amir abdul rahman ibn abdul aziz - Al Wizarat Dist.,Al Wizarat ,24.6764262640002,46.7084339030001,10100003045
+831,united pharmacy,2319 king abdullah ibn abdulaziz rd - Al Raed Dist.,Al Raed ,24.706530876,46.626096164,10100003125
+832,united pharmacy,6732 ash shaikh abdul rahman ibn hasan - Al Wizarat Dist.,Al Wizarat ,24.671355045,46.711726439,10100003045
+833,united pharmacy,4295 makkah al mukarramah branch rd - Al Mathar Dist.,Al Mathar ,24.6746471320001,46.6657253310001,10100003049
+834,united pharmacy,4332 al imam faisal ibn turki ibn abdullah - Al Wisham Dist.,Al Wisham ,24.6375781350001,46.6981831950002,10100003114
+835,united pharmacy,8735 al imam abdul aziz ibn muhammad ibn saud - Al Wisham Dist.,Al Wisham ,24.6374009150002,46.6933052670001,10100003114
+836,valley bee pharmacy,2665 al qalam - Al Munisiyah Dist.,Al Munisiyah ,24.8155516434043,46.7560291599264,10100003140
+837,vest pharmacy,4528  - Al Mughrazat Dist.,Al Mughrazat ,24.7609294996867,46.7375515959195,10100003105
+838,veterinary pharmacy loaded,7261 King Fahd - Al Sahafah Dist.,Al Sahafah ,24.788831666958,46.6337920853937,10100003123
+839,WAGD pharmacy,8762 khalid ibn al walid - Al Rawdah Dist.,Al Rawdah ,24.751896253565,46.7705488239084,10100003088
+840,wagd pharmacy,2277 muhammad ibn hindi - East Naseem Dist.,East Naseem ,24.7384788985374,46.8332518186565,10100003080
+841,wahat al ilaj pharmacy,7624 al muthanna ibn harithah - Al Shifa Dist.,Al Shifa ,24.5660059740001,46.6969440080001,10100003061
+842,wahat al ilaj pharmacy,6416 ibn taimiah road - Al Shifa Dist.,Al Shifa ,24.5549229860001,46.701101986,10100003061
+843,wasfaat pharmacy,4270 king abdullah ibn abdulaziz branch rd - Al Mughrazat Dist.,Al Mughrazat ,24.7588236766966,46.7349401374656,10100003105
+844,wasfat alhaya pharmacy,6744 al muhandis masaid al anqari - Al Woroud Dist.,Al Woroud ,24.7201355650434,46.679725400393,10100003026
+845,whites pharmacy,7338  - King Khalid International Airport,King Khalid International Airpo,24.8551783854506,46.7181800691571,10100003149
+846,whites pharmacy,3896 Al Ameer Miqren Bin Abdulaziz - Al Nuzha Dist.,Al Nuzha ,24.7578135766623,46.7130925174096,10100003025
+847,whites pharmacy,6234 al ulaya - Al Woroud Dist.,Al Woroud ,24.7145015919934,46.6740424462457,10100003026
+848,western veterinary pharmacy,7745 salam - Al Dubiyah Dist.,Al Dubiyah ,24.6199866350001,46.7106377400001,10100003116
+849,white pharmacy,3898 al imam saud ibn abdul aziz rd - Al Muruj Dist.,Al Muruj ,24.7506448285857,46.6691411911866,10100003110
+850,whites pharmacy,7639 King Fahd - King Fahd Dist.,King Fahd ,24.7429595149152,46.6583657554106,10100003017
+851,whites pharmacy,7544 King Abdulaziz - King Fahd Dist.,King Fahd ,24.7441899814526,46.6801018490714,10100003017
+852,whites pharmacy,2145 kharis branch rd - Al Manar Dist.,Al Manar ,24.728273500686,46.7849738588988,10100003079
+853,whites pharmacy,4558 king abdullah ibn abdul aziz rd - Al Hamra Dist.,Al Hamra ,24.7668909981638,46.7554958558817,10100003129
+854,whites pharmacy,6113 Saeed Bin Zayd - Qurtubah Dist.,Qurtubah ,24.817777148503,46.7321333428359,10100003101
+855,whites pharmacy,7079 al muhandis masaid al anqari - Al Woroud Dist.,Al Woroud ,24.7232076673192,46.6786638435228,10100003026
+856,whites pharmacy,3948 Mousa Bin Naseer - Al Olaya Dist.,Al Olaya ,24.7005626930201,46.673235316197,10100003075
+857,whites pharmacy,7069 at takhassusi - Al Rahmaniyah Dist.,Al Rahmaniyah ,24.7143220056329,46.6609993932859,10100003013
+858,whites pharmacy,7281 abi bakr as siddiq branch - Al Nuzha Dist.,Al Nuzha ,24.7558601994751,46.6979433900298,10100003025
+859,whites pharmacy,6603 uthman ibn affan branch rd - Al Ezdihar Dist.,Al Ezdihar ,24.7739556886716,46.7105122054385,10100003086
+860,whites pharmacy,6547 uthman ibn affan branch rd - Al Ezdihar Dist.,Al Ezdihar ,24.7734476737467,46.7107334953121,10100003086
+861,whites pharmacy,4400 umar ibn abdul aziz rd - Al Rabwah Dist.,Al Rabwah ,24.6861942920527,46.7467452825432,10100003047
+862,whites pharmacy,6623  - Al Shohda Dist.,Al Shohda ,24.7818153628972,46.7308856602158,10100003016
+863,whites pharmacy,3221 al shawati - Qurtubah Dist.,Qurtubah ,24.814460796443,46.7254601401456,10100003101
+864,whites pharmacy,4198 northern ring rd - Al Wadi Dist.,Al Wadi ,24.7838358898288,46.6995823992559,10100003082
+865,whites pharmacy,3769 ath thumamah rd - Al Rabie Dist.,Al Rabie ,24.8086022125082,46.6694134643021,10100003104
+866,whites pharmacy,3219 Anas Bin Malek - Al Yasmeen Dist.,Al Yasmeen ,24.8233346731959,46.6554538136649,10100003147
+867,whites pharmacy,7162 King Abdulaziz - Al Yasmeen Dist.,Al Yasmeen ,24.8202595854175,46.642368221372,10100003147
+868,whites pharmacy,7838  - Hitteen Dist.,Hitteen ,24.7528588732348,46.5840065567664,10100003144
+869,whites pharmacy,5966 anas ibn malik - Al Malqa Dist.,Al Malqa ,24.8028617468395,46.603996989639,10100003145
+870,whites pharmacy,3666 Hesham Bin Abdulmalek - King Fahd Dist.,King Fahd ,24.7440778002816,46.675102273902,10100003017
+871,wood pharmacy,6494 sultanah - Sultanah Dist.,Sultanah ,24.601330508,46.6945258640002,10100003069
+872,woroof pharmacy,3118 AL Khaleel Bin Ahmad - Badr Dist.,Badr ,24.5396658290001,46.6995815360002,10100003164
+873,yaser mohammad ash shareedah pharmacy,3547 al madinah al munawarah - West Suwaidi Dist.,West Suwaidi ,24.585842875,46.6203638470001,10100003057
+874,zaharah alrodhah pharmacy,8674 Al Imam Al Shafie - Al Rayan Dist.,Al Rayan ,24.7186505457143,46.7898624067404,10100003090
+875,zaharh alrodhah pharmacy,2507 king abdullah ibn abdul aziz rd - King Faisal Dist.,King Faisal ,24.7693723752497,46.7643837643233,10100003027
+876,zaharh alrodhah pharmacy,6693 rajiyah - Al Munisiyah Dist.,Al Munisiyah ,24.8137293287267,46.767394564213,10100003140
+877,zahra el rawda pharmacy,2776 al amir turki ibn abdul aziz ath thani - Al Muruj Dist.,Al Muruj ,24.7568993744903,46.6584087961023,10100003110
+878,zahrat al amal pharmacy,4670 al madinah al munawarah - West Oraija Dist.,West Oraija ,24.5870526850001,46.6212416450001,10100003126
+879,zahrat al rawdah pharmacy,3526 prince muhammad ibn abdulaziz rd - Al Olaya Dist.,Al Olaya ,24.6995522100001,46.6901064590002,10100003075
+880,zahrat al rawdah pharmacy,3383 al imam saud ibn abdul aziz rd - Al Muhammadiyah Dist.,Al Muhammadiyah ,24.74079371819,46.6475262141636,10100003062
+881,zahrat al rawdah pharmacy,"""2413 Al Imam S'Aud Bin Abdulaziz Bin Mohammed - Al Mursalat Dist.""",Al Mursalat ,24.754776013092,46.6807635772569,10100003024
+882,zahrat al rawdah pharmacy,2929 northern ring rd - Al Taawun Dist.,Al Taawun ,24.7807694144971,46.6956688001141,10100003085
+883,zahrat al rawdah pharmacy,3886 muhammad al maqdimi - Al Ghadeer Dist.,Al Ghadeer ,24.7764412576356,46.6575736752055,10100003109
+884,zahrat al shafa pharmacy,4180 dirab branch rd - Namar Dist.,Namar ,24.5733223710002,46.6933133190001,10100003060
+885,zahrat sami pharmacy,3593 al urubah rd - Al Sulaimaniyah Dist.,Al Sulaimaniyah ,24.7201537091075,46.6909477061132,10100003063
+886,zamzam pharmacy,7576 at takhassusi - North Mathar Dist.,North Mathar ,24.7020911900001,46.6662103400001,10100003011
+887,zharat ar rawda pharmacy,8605 King Fahd - Al Olaya Dist.,Al Olaya ,24.7025821110001,46.6778336160002,10100003075
+888,zharat ar rawda pharmacy,5378 as suwaidi al am - Siyah Dist.,Siyah ,24.6037875500002,46.7033797980002,10100003068
